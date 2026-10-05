@@ -1,0 +1,5 @@
+orbital-pets\horses - loadout contents:
+
+- Cryogenically Frozen Brown Horse
+- Cryogenically Frozen Black Horse
+- Cryogenically Frozen White Horse

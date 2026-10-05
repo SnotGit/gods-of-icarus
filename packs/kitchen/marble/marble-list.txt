@@ -1,0 +1,8 @@
+kitchen\marble - loadout contents:
+
+- Marble Plumbed Sink
+- Electric Stove
+- Marble Kitchen Bench
+- Refrigerator
+- Marble Kitchen Storage
+- Marble Kitchen Corner Bench

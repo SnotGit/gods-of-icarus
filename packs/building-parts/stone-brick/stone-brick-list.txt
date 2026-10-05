@@ -1,0 +1,19 @@
+building-parts\stone-brick - loadout contents:
+
+- Stone Brick Wall x20
+- Stone Brick Wall Angle x20
+- Stone Brick Wall/Roof Curved x20
+- Stone Brick Curved Wall Angles x20
+- Stone Brick Floor x20
+- Stone Brick Ramp x20
+- Stone Brick Roof Corner x20
+- Stone Brick Roof Curved Angle x20
+- Stone Brick Halfpitches x20
+- Stone Brick Halfpieces x20
+- Stone Brick Beam x20
+- Stone Brick Advanced Beams x20
+- Stone Brick Curved Buildings x20
+- Stone Brick Diagonal Buildings x20
+- Stone Brick Fireplace
+- Stone Brick Fireplace Extension
+- Stone Brick Fireplace Cap

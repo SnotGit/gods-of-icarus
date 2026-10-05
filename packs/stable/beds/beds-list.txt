@@ -1,0 +1,12 @@
+stable\beds - loadout contents:
+
+- Burlap Animal Bed
+- Regent Animal Bed
+- Heated Animal Bed
+- Jaguar Buffalo Animal Bed
+- Royal Animal Bed
+- Snow Leopard Skin Animal Bed
+- Striker Terrenus Animal Bed
+- Black Tusker Animal Bed
+- Wolfskin Animal Bed
+- Zebra Animal Bed

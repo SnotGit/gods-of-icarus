@@ -1,0 +1,11 @@
+building-parts\aluminium - loadout contents:
+
+- Aluminium Wall x20
+- Aluminium Wall Angled x20
+- Aluminium Floor x20
+- Aluminium Roof/Ramp x20
+- Aluminium Roof Corner x20
+- Aluminium Halfpitches x20
+- Aluminium Halfpieces x20
+- Aluminium Beam x20
+- Aluminium Trapdoor x20

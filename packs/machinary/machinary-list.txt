@@ -1,0 +1,24 @@
+machinary - loadout contents:
+
+- Advanced Masonry Bench
+- Carpentry Bench
+- Concrete Furnace
+- Electric Furnace
+- Electric Furnace
+- MXC Furnace
+- Foundry
+- Electric Carpentry Bench
+- Electric Masonry Bench
+- Electric Textiles Bench
+- Chemistry Bench
+- Glassworking Bench
+- Fabricator
+- Manufacturer
+- Material Processor
+- Polymerizer
+- Cement Mixer
+- Decoration Bench
+- Electric Water Purifier
+- Advanced Battery Rack
+- Solar Panel
+- Flat Solar Panel x5

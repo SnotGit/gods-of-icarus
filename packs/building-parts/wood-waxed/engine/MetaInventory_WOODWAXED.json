@@ -1,0 +1,597 @@
+{
+	"InventoryID": "MetaInventoryID_Main",
+	"Items": [
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Wall",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "D2D8BF39AC354FB280DBC9F2CD39D3DC",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Wall_Angle",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "BFBB438A327141E49E8AA2C15305EBF9",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Floor",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "779923A575C5415AB96551D51EC83A4D",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Ramp",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "49147A8C16484DB5B6E1D206DF882F7D",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Roof_Corner",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "EC26AD4C339F4B07AB258EEE2D7FC27F",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Half_Pitch",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "1A6F105E94FC4CA68786414AE8F72439",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Halfpiece",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "D628AA7930D847E9BF8FA19AF64BFBFD",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "ReinforcedWood_Beam",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseBuildingInsulation_+"
+						},
+						"Value": 94
+					},
+					{
+						"Stat": {
+							"Value": "BaseReinforcedBuilding_+"
+						},
+						"Value": 2
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "A388AA892BD44C74A17AD32FECFC776F",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		}
+	]
+}

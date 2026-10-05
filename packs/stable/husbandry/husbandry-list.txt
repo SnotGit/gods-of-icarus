@@ -1,0 +1,12 @@
+stable\husbandry - loadout contents:
+
+- Luxury Chicken Coop
+- Glass Food Trough
+- Metal Food Trough
+- Rustic Food Trough
+- Ornate Water Trough
+- Metal Water Trough
+- Stone Water Trough
+- Ranching Station
+- Electronic Food Trough
+- Filtered Water Trough

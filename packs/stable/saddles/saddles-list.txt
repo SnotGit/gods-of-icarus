@@ -1,0 +1,10 @@
+stable\saddles - loadout contents:
+
+- Specialised Raptor Saddle
+- Armored Saddle
+- Crocodile Skin Saddle
+- Deluxe Leather Saddle
+- Desert Tracker Saddle
+- Arctic Explorer Saddle
+- Racing Saddle
+- Sandworm Scale Saddle

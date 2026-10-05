@@ -1,0 +1,397 @@
+{
+ "InventoryID": "MetaInventoryID_Main",
+ "Items": [
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_Composite_Door",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "A6BF5C3675E54F81BC57BBF135EF8043",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_Composite_Window",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "87AE22FAC3E44D218635FF139876CBCB",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_Composite_Railing",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "77EB88CA56E244CF8CF9B04FEDAF471E",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_Composite_Railing_B",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "F86D9FBF6F76489093ADEC21494F01C1",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_Composite_Railing_C",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "F3F0A8BCB1994918B144F1A9C2A59569",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_Composite_Railing_Gate",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "751379A2A01C49239986619D0F2ED3E4",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_Composite_Ladder",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "D8F7D3D9A66D4120900BA953507FF743",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  }
+ ]
+}

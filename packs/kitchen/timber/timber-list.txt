@@ -1,0 +1,9 @@
+kitchen\timber - loadout contents:
+
+- Kitchen Bench
+- Biofuel Stove
+- Plumbed Sink
+- Kitchen Storage Block
+- Kitchen Corner Bench
+- Butchery Bench
+- Medicine Bench

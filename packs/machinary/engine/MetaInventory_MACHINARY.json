@@ -1,0 +1,1371 @@
+{
+	"InventoryID": "MetaInventoryID_Main",
+	"Items": [
+		{
+			"ItemStaticData": {
+				"RowName": "Masonry_Bench_T3",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 500
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "692EA3AFB0BE4D7B93DEF25BA0D34FF6",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Carpentry_Bench",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 500
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "62F97AA594F0422B80490E2903BAB6BE",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Concrete_Furnace_V2",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseSmeltingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "A7C5C1B21C88455786DB77D393331BBC",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Electric_Furnace_Large",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseSmeltingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "F555FD5FEE624571B4A83BFE75123826",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Kit_Electric_Furnace",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseSmeltingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "67BEC5A2AA8A487F8771D726B6F9EAB7",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Meta_Furnace_Printed",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseSmeltingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "9FDCB5EA450D4957B8046C0F337B1FCE",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Anvil_Bench_T4_v2",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "47C52CDC85BD4C388D41B8AFA737A6B0",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Carpentry_Bench_T4",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "6FA79D82D689458E967C4AF145A3162D",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Masonry_Bench_T4",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "0DDF07E714FB4C8AB35A5078D5720068",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Electric_Armor_Bench",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "3DA7C042BDFA44948CD052751DB26986",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Chemistry_Bench",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "174F2D0B87194C38AA22342323F154E4",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Glassworking_Bench_V2",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "C90E6AF1DD3D431EAF83782DBAB072CB",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Fabricator",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "6DD28465A2114B98B8EBACC5D730C8A4",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Manufacturer",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "959E9AD618A24AB5A3FD2FA29834C35A",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Material_Processor",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "0890B5A2CDEF4B0287B53DDADB9AB053",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Polymerizer",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "83DA9433C2B1411FA82B781A20DC01B2",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Cement_Mixer",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "ECB2501838514EB890E1F7F1D11DE255",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Rustic_Decoration_Bench",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseCraftingSpeed_+%"
+						},
+						"Value": 500
+					},
+					{
+						"Stat": {
+							"Value": "BaseBurnChance_%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "A4E182140A8C4E85967CFE0A8C75C6E4",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Water_Purifier_T4",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "78AF6538DAE04D18BAA08EB7737FC499",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Battery_Shelf_T4",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				},
+				{
+					"PropertyType": "Fillable_Type",
+					"Value": 1
+				},
+				{
+					"PropertyType": "Fillable_StoredUnits",
+					"Value": 6000000
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "CEFB1F16D2D74F7EA3FA1F62CFA2ED75",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Solar_Panel",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "2F7B2F2D6A7748C083504AE4E31C9269",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Flat_Solar_Panel",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 5
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "962D01F850E34A22ACB09299E6174275",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		}
+	]
+}

@@ -1,0 +1,10 @@
+building-parts\wood-waxed - loadout contents:
+
+- Beeswax Wood Wall x20
+- Beeswax Wood Wall Angled x20
+- Beeswax Wood Floor x20
+- Beeswax Wood Roof/Ramp x20
+- Beeswax Wood Roof Corner x20
+- Beeswax Wood Halfpitches x20
+- Beeswax Wood Halfpieces x20
+- Beeswax Wood Beam x20

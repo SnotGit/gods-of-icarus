@@ -1,0 +1,1483 @@
+{
+	"InventoryID": "MetaInventoryID_Main",
+	"Items": [
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Bed",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "4A2EF9D8443F4D4D91A006D9D34A4B4E",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Bookshelf",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseGenericSlots_+"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "BaseInventoryCannotSpoil_?"
+						},
+						"Value": 1
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "1CE4E40395D641B8A705A489D6E91E3B",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Candle",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseEnergyTransmutationResourceCost_+%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "F2E6F26E73B44FAA8BCF9F8FFFFC0011",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Dining_Chair",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "8C64EEC6B05D4A72A4FB03B615BB04C7",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Dresser",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseGenericSlots_+"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "BaseInventoryCannotSpoil_?"
+						},
+						"Value": 1
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "105ED36BAA0946EB91812F20CA2D7B8D",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Fireplace",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "AA04AC41CF5B497CA3A6FA25634596FD",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Fireplace_Cap",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "2C6C25BEEA004264ABF346C50BB5752F",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Fireplace_Ext",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "1D042D98781E407084559ED68AD7BD33",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Living_Chair",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "CB9F51667DA64D34941303D74E2135C7",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Living_Chair2",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "9E1AD3E73AB0474292ECCC050E1F3DC3",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Living_Chair3",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "C5EDA080609F42D094C72A2D5AD7C06B",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Nightstand",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseGenericSlots_+"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "BaseInventoryCannotSpoil_?"
+						},
+						"Value": 1
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "66A304B3FED242928DE9114222576135",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Partition",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "4585734CEDA24B8A895AAE34B1D792F3",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Rug",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "4EFC3CC8F6054ABCA4DCB92300DF9C7D",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Safe",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseGenericSlots_+"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "BaseInventoryCannotSpoil_?"
+						},
+						"Value": 1
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "851A3252340149BABF69428398C34320",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Shelf_Wall",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "B022C68A597C40128AFB5B137B06CA11",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Sitting_Bench",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "EDBEDE9198644AD1883C8C9F88D8F047",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Table_10Seater",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "B58F009A1E4A41E080F4E89267BF8BA8",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Table_6Seater",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "CC7E1B7E41574673AB20C4D81D4D401D",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Table_Round",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "5E2D7F43643C484BAFE6F091715ACD07",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Vase",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "1BE12251BCB248058DD8A3937095B296",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Vault",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseGenericSlots_+"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "BaseInventoryCannotSpoil_?"
+						},
+						"Value": 1
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "8D9624F2B6FB4DE8AE60C44AA57EECC8",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Wall_Sign",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "8529475C72244429BE047E219DEA1678",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Gold_Wardrobe",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseGenericSlots_+"
+						},
+						"Value": 300
+					},
+					{
+						"Stat": {
+							"Value": "BaseInventoryCannotSpoil_?"
+						},
+						"Value": 1
+					},
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "41EF35FE0DC5422DB115C4088EB3DDC1",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Teddy_Bear",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 20
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "IsInvulnerable_?"
+						},
+						"Value": 1
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "0BA222AA6E4C461B9D01A9386D374A8B",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		}
+	]
+}

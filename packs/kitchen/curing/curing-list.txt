@@ -1,0 +1,4 @@
+kitchen\curing - loadout contents:
+
+- Smoker
+- Salting Station

@@ -1,0 +1,10 @@
+storage - loadout contents:
+
+- Plastic Crate x10
+- Iron Cupboard
+- MXC Crate
+- MXC "Preservation" Crate
+- Small Iron Cupboard
+- Wood Cupboard
+- Small Wood Cupboard
+- Small Interior Wood Cupboard

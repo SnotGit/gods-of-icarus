@@ -1,0 +1,7 @@
+orbital-pets\cats - loadout contents:
+
+- Cryogenically Frozen Grey Tabby Cat
+- Cryogenically Frozen Orange Tabby Cat
+- Cryogenically Frozen Black Cat
+- Cryogenically Frozen Himalayan Seal Point Cat
+- Cryogenically Frozen Tortoise Shell Ragdoll Cat

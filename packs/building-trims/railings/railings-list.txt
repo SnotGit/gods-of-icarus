@@ -1,0 +1,15 @@
+building-trims\railings - loadout contents:
+
+- Aluminium Railing x20
+- Aluminium Railing Gate x20
+- Steel Barred Railing x20
+- Steel Barred Railing Gate x20
+- Concrete Railing x20
+- Concrete Railing Gate x20
+- Thatch Railing x20
+- Thatch Railing Gate x20
+- Wood Railing x20
+- Wood Railing Gate x20
+- Interior Wood Railing x20
+- Interior Wood Gate x20
+- Interior Wood Railing Gate x20

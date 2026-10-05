@@ -1,0 +1,3 @@
+stable\resources - loadout contents:
+
+- Wool x50

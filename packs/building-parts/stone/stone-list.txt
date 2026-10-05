@@ -1,0 +1,17 @@
+building-parts\stone - loadout contents:
+
+- Stone Wall x20
+- Stone Wall Angled x20
+- Stone Wall/Roof Curved x20
+- Stone Curved Wall Angles x20
+- Stone Floor x20
+- Stone Frame x20
+- Stone Roof/Ramp x20
+- Stone Roof Corner x20
+- Stone Roof Curved Angle x20
+- Stone Halfpitches x20
+- Stone Halfpieces x20
+- Stone Beam x20
+- Stone Advanced Beams x20
+- Stone Curved Buildings x20
+- Stone Diagonal Buildings x20

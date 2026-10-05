@@ -1,0 +1,397 @@
+{
+ "InventoryID": "MetaInventoryID_Main",
+ "Items": [
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_SmokedComposite_Door",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "E62E36153FE54091B302259CA17BD1BC",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_SmokedComposite_Window",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "7718827A407443A4A07FDAD81D74A2A5",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_SmokedComposite_Railing",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "163A738556244805915BD19709040B1A",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_SmokedComposite_Railing_B",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "D1AB645C0E3843F89832C555E91133C2",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_SmokedComposite_Railing_C",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "BA4D101B6EB543DABAB152E78CFB58DE",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_SmokedComposite_Railing_Gate",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "A54F66995095481E8DFBB5AF8C90152A",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  },
+  {
+   "ItemStaticData": {
+    "RowName": "GOI_SmokedComposite_Ladder",
+    "DataTableName": "D_ItemsStatic"
+   },
+   "ItemDynamicData": [
+    {
+     "PropertyType": "AssociatedItemInventoryId",
+     "Value": 0
+    },
+    {
+     "PropertyType": "AssociatedItemInventorySlot",
+     "Value": 0
+    },
+    {
+     "PropertyType": "DynamicState",
+     "Value": 0
+    },
+    {
+     "PropertyType": "GunCurrentMagSize",
+     "Value": 0
+    },
+    {
+     "PropertyType": "CurrentAmmoType",
+     "Value": 0
+    },
+    {
+     "PropertyType": "BuildingVariation",
+     "Value": 0
+    },
+    {
+     "PropertyType": "ItemableStack",
+     "Value": 20
+    }
+   ],
+   "ItemCustomStats": [],
+   "CustomProperties": {
+    "StaticWorldStats": [],
+    "StaticWorldHeldStats": [],
+    "Stats": [
+     {
+      "Stat": {
+       "Value": "IsInvulnerable_?"
+      },
+      "Value": 1
+     }
+    ],
+    "Alterations": [],
+    "LivingItemSlots": []
+   },
+   "DatabaseGUID": "A4525AB2E03D496EAAED47B0A1D68178",
+   "ItemOwnerLookupId": -1,
+   "RuntimeTags": {
+    "GameplayTags": []
+   }
+  }
+ ]
+}

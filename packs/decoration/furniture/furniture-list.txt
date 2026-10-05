@@ -1,0 +1,12 @@
+decoration\furniture - loadout contents:
+
+- Stool x10
+- Carved Wood Wardrobe
+- Carved Wood Narrow Wardrobe
+- Carved Wood Cabinet
+- Industrial Wardrobe
+- Industrial Display Cabinet
+- Brutalist Wardrobe
+- Brutalist Display Cabinet
+- Homestead Cabinet
+- Large Homestead Cabinet

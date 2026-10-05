@@ -1,0 +1,60 @@
+armors\Custom-set - loadout contents:
+
+- Rimetusk Head Armor
+    max health +800%
+    health regen +800%
+    physical resistance +215%
+    wind resistance +100%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +15%
+
+- Arctic Survival Chest Armor
+    max health +800%
+    health regen +800%
+    physical resistance +200%
+    fire resistance +100%
+    wind resistance +100%
+    wound resistance +150%
+    deep wound resistance +150%
+    hemorrhage resistance +150%
+    bleed resistance +150%
+    cave sickness resistance +100%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +5%
+
+- Arctic Survival Arms Armor
+    max health +800%
+    health regen +800%
+    physical resistance +230%
+    poison resistance +100%
+    wind resistance +100%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +5%
+    poison duration -120%
+
+- Bastion Armor Legs
+    max health +800%
+    health regen +800%
+    physical resistance +250%
+    collision resistance +100%
+    wind resistance +100%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +5%
+
+- Bastion Armor Feet
+    max health +800%
+    health regen +800%
+    physical resistance +200%
+    fall resistance +140%
+    chance to resist sprain +120%
+    wind resistance +100%
+    slow resistance +40%
+    poison duration -100%
+    bacterial affliction duration -100%
+    parasitic affliction duration -100%
+    physical trauma duration -100%
+    attacks cause slow +30%

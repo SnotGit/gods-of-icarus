@@ -1,0 +1,23 @@
+{
+  "name": "The Bear",
+  "author": "Gods Of Icarus",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Ride a brown or a polar bear. Jump, fight.",
+  "match": "the-bear_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "species": [
+    "TheBear_Brown",
+    "TheBear_Polar"
+  ],
+  "tables": "tables.json",
+  "names": {
+    "TheBear_Brown": "The Bear",
+    "TheBear_Polar": "The Polar Bear"
+  },
+  "classes": {
+    "TheBear_Brown": "BP_Mount_TheBear_C",
+    "TheBear_Polar": "BP_Mount_TheBear_Polar_C"
+  }
+}

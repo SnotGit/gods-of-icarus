@@ -1,0 +1,12 @@
+decoration\signs - loadout contents:
+
+- Industrial Sign - Square x10
+- Industrial Sign - Triangle x10
+- Industrial Sign - Diamond x10
+- Fish Poster x10
+- Helpful UDA Sign x10
+- Safety Poster x10
+- Lab Info Poster x10
+- Sandworm Lifecycle Poster x10
+- Group 15 Sign x10
+- Group 15 Sign (Defaced) x10

@@ -1,0 +1,671 @@
+{
+	"InventoryID": "MetaInventoryID_Main",
+	"Items": [
+		{
+			"ItemStaticData": {
+				"RowName": "Alloy_Armor_Head",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "Durability",
+					"Value": 10000000
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "LW_ApeClub_Plate_A"
+					},
+					{
+						"Value": "Storm_Resistance_2"
+					},
+					{
+						"Value": "Storm_Resistance_2"
+					},
+					{
+						"Value": "Storm_Resistance_2"
+					},
+					{
+						"Value": "Storm_Resistance_2"
+					},
+					{
+						"Value": "Storm_Resistance_2"
+					},
+					{
+						"Value": "Reinforced_Building"
+					},
+					{
+						"Value": "Reinforced_Building"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "D19CBEA7C75C477B893D5EB8B10B5649",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Alloy_Armor_Chest",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "Durability",
+					"Value": 10000000
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "LW_ApeClub_Plate_A"
+					},
+					{
+						"Value": "LW_RG_Battery_C"
+					},
+					{
+						"Value": "LavaHunterFlamethrower_Chassis_A"
+					},
+					{
+						"Value": "LavaHunterFlamethrower_Chassis_A"
+					},
+					{
+						"Value": "Reinforced_Building"
+					},
+					{
+						"Value": "Reinforced_Building"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "0B4BCAAB2B53453DB616B3B84FBE3340",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Alloy_Armor_Arms",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "Durability",
+					"Value": 10000000
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "LW_ApeClub_Plate_A"
+					},
+					{
+						"Value": "LW_RG_Fist_C"
+					},
+					{
+						"Value": "LW_RG_Fist_C"
+					},
+					{
+						"Value": "Reinforced_Building"
+					},
+					{
+						"Value": "Reinforced_Building"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "F61FA329C80D4FD1864B42FB94084353",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Alloy_Armor_Legs",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "Durability",
+					"Value": 10000000
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "LW_ApeClub_Plate_A"
+					},
+					{
+						"Value": "LW_WyrmChainsaw_Handle_B"
+					},
+					{
+						"Value": "LW_WyrmChainsaw_Handle_B"
+					},
+					{
+						"Value": "Reinforced_Building"
+					},
+					{
+						"Value": "Reinforced_Building"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "66B2E5FB7C1D47A5916FF32B31F7D93A",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Alloy_Armor_Feet",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "Durability",
+					"Value": 10000000
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Total_Fall_Resistance"
+					},
+					{
+						"Value": "Quick_Healing_1"
+					},
+					{
+						"Value": "Quick_Healing_1"
+					},
+					{
+						"Value": "Quick_Healing_1"
+					},
+					{
+						"Value": "Quick_Healing_1"
+					},
+					{
+						"Value": "Quick_Healing_1"
+					},
+					{
+						"Value": "Reinforced_Building"
+					},
+					{
+						"Value": "Reinforced_Building"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "EEEDE3078DE04C449804F81758000E42",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		}
+	]
+}

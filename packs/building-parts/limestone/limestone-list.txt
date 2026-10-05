@@ -1,0 +1,17 @@
+building-parts\limestone - loadout contents:
+
+- Limestone Wall x20
+- Limestone Wall Angled x20
+- Limestone Wall/Roof Curved x20
+- Limestone Curved Wall Angles x20
+- Limestone Floor x20
+- Limestone Frame x20
+- Limestone Ramp x20
+- Limestone Roof Corner x20
+- Limestone Roof Curved Angle x20
+- Limestone Halfpitches x20
+- Limestone Halfpieces x20
+- Limestone Beam x20
+- Limestone Advanced Beams x20
+- Limestone Curved Buildings x20
+- Limestone Diagonal Buildings x20

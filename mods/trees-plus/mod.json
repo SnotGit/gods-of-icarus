@@ -1,0 +1,10 @@
+{
+  "name": "TreesPlus",
+  "author": "laanp",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Plant trees and bushes from every biome.",
+  "match": "laanp-TreesPlus_v*_w*_P.pak",
+  "github": "laanp/Icarus_Mods_Separated",
+  "server": true
+}

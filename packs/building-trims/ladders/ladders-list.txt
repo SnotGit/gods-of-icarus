@@ -1,0 +1,5 @@
+building-trims\ladders - loadout contents:
+
+- Thatch Ladder x20
+- Wood Ladder x20
+- Interior Wood Ladder x20

@@ -1,0 +1,12 @@
+tools - loadout contents:
+
+- Lithium Axe
+- Lithium Pickaxe
+- Lithium Sickle
+- Lithium Knife
+- Inaris "Ventura" Knife
+- Inaris "Crimson" Knife
+- Larkwell Martinez Hammer
+- Taxidermy Knife
+- Electricity Tool
+- Water Pipe Tool

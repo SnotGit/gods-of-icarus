@@ -1,0 +1,14 @@
+{
+  "name": "Composite",
+  "author": "GOI mods laboratory",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Large glass panes, every shape of reinforced glass and its trims, in two lines: clear glass in brushed aluminium frames, smoked glass in anthracite frames.",
+  "match": "composite_4_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "pack": [
+    "building-parts/composite",
+    "building-trims/composite"
+  ]
+}

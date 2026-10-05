@@ -1,0 +1,17 @@
+building-parts\composite\smoked - loadout contents:
+
+- Smoked Composite Wall x20
+- Smoked Composite Wall Angled x20
+- Smoked Composite Wall/Roof Curved x20
+- Smoked Composite Curved Wall Angles x20
+- Smoked Composite Floor x20
+- Smoked Composite Roof x20
+- Smoked Composite Roof Corner x20
+- Smoked Composite Roof Curved Angle x20
+- Smoked Composite Halfpitches x20
+- Smoked Composite Halfpieces x20
+- Smoked Composite Beam x20
+- Smoked Composite Advanced Beams x20
+- Smoked Composite Curved Buildings x20
+- Smoked Composite Diagonal Buildings x20
+- Smoked Composite Trapdoor x20

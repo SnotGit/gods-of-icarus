@@ -1,0 +1,247 @@
+{
+	"InventoryID": "MetaInventoryID_Main",
+	"Items": [
+		{
+			"ItemStaticData": {
+				"RowName": "Submachine_Gun_Scout",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseProjectileAccuracy_+%"
+						},
+						"Value": 100
+					},
+					{
+						"Stat": {
+							"Value": "BaseProjectileHipFireSpreadXCentidegrees_+"
+						},
+						"Value": -160
+					},
+					{
+						"Stat": {
+							"Value": "BaseProjectileHipFireSpreadYCentidegrees_+"
+						},
+						"Value": -160
+					},
+					{
+						"Stat": {
+							"Value": "BaseProjectileAimingSpreadXCentidegrees_+"
+						},
+						"Value": -50
+					},
+					{
+						"Stat": {
+							"Value": "BaseProjectileAimingSpreadYCentidegrees_+"
+						},
+						"Value": -55
+					},
+					{
+						"Stat": {
+							"Value": "BaseProjectileDamage_+%"
+						},
+						"Value": 75
+					},
+					{
+						"Stat": {
+							"Value": "BaseCriticalDamage_+%"
+						},
+						"Value": 50
+					},
+					{
+						"Stat": {
+							"Value": "BaseFireDamage_+%"
+						},
+						"Value": 100
+					},
+					{
+						"Stat": {
+							"Value": "BaseAttacksCauseBurn_%"
+						},
+						"Value": 100
+					},
+					{
+						"Stat": {
+							"Value": "BaseChanceToNotConsumeAmmo_%"
+						},
+						"Value": 100
+					},
+					{
+						"Stat": {
+							"Value": "BaseItemWear_+%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "BaseRateOfFirePerMinute_+"
+						},
+						"Value": 100
+					}
+				],
+				"Alterations": [],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "4E51F81FCBBB437B9C1547DB01CEF577",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "LegendaryWeapon_Sniper",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [
+					{
+						"Stat": {
+							"Value": "BaseElementalDamage_+%"
+						},
+						"Value": 25
+					},
+					{
+						"Stat": {
+							"Value": "BaseChanceToNotConsumeAmmo_%"
+						},
+						"Value": 100
+					},
+					{
+						"Stat": {
+							"Value": "BaseAimDownSightsSpeed_+%"
+						},
+						"Value": 60
+					},
+					{
+						"Stat": {
+							"Value": "BaseCriticalDamage_+%"
+						},
+						"Value": 100
+					},
+					{
+						"Stat": {
+							"Value": "BaseAmmoCapacity_+"
+						},
+						"Value": 1
+					},
+					{
+						"Stat": {
+							"Value": "BaseReloadSpeed_+%"
+						},
+						"Value": -10
+					},
+					{
+						"Stat": {
+							"Value": "BaseItemWear_+%"
+						},
+						"Value": -100
+					},
+					{
+						"Stat": {
+							"Value": "BaseRateOfFirePerMinute_+"
+						},
+						"Value": 140
+					}
+				],
+				"Alterations": [
+					{
+						"Value": "Legendary_Sniper_Stock_A"
+					},
+					{
+						"Value": "Legendary_Sniper_Stock_B"
+					},
+					{
+						"Value": "Legendary_Sniper_Barrel_A"
+					},
+					{
+						"Value": "Legendary_Sniper_Barrel_B"
+					},
+					{
+						"Value": "Legendary_Sniper_Scope_A"
+					},
+					{
+						"Value": "Legendary_Sniper_Module_B"
+					},
+					{
+						"Value": "Legendary_Sniper_Module_B"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "38440DFCE38344489F59A3D9BF6EA5F7",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		}
+	]
+}

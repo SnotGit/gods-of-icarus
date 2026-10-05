@@ -1,0 +1,22 @@
+mineral - loadout contents:
+
+- UDA Wood Resource Supply
+- UDA Stone Resource Supply
+- UDA Silica Ore Resource Supply
+- UDA Oxite Resource Supply
+- UDA Sulfur Resource Supply
+- UDA Iron Ore Resource Supply
+- UDA Copper Ore Resource Supply
+- UDA Gold Ore Resource Supply
+- UDA Aluminium Ore Resource Supply
+- UDA Platinum Ore Resource Supply
+- UDA Titanium Ore Resource Supply
+- UDA Lithium Ore Resource Supply
+- UDA Crystallized Ruby Resource Supply
+- UDA Obsidian Resource Supply
+- UDA Scoria Resource Supply
+- UDA Clay Resource Supply
+- UDA Limestone Resource Supply
+- UDA Dirt Resource Supply
+- UDA Comet Coal Resource Supply
+- UDA Synthetic Enzymes Resource Supply

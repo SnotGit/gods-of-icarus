@@ -1,0 +1,17 @@
+building-parts\scoria - loadout contents:
+
+- Scoria Wall x20
+- Scoria Wall Angled x20
+- Scoria Wall/Roof Curved x20
+- Scoria Curved Wall Angles x20
+- Scoria Floor x20
+- Scoria Frame x20
+- Scoria Roof/Ramp x20
+- Scoria Roof Corner x20
+- Scoria Roof Curved Angle x20
+- Scoria Halfpitches x20
+- Scoria Halfpieces x20
+- Scoria Beam x20
+- Scoria Advanced Beams x20
+- Scoria Curved Buildings x20
+- Scoria Diagonal Buildings x20

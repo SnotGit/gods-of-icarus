@@ -1,0 +1,130 @@
+{
+	"InventoryID": "MetaInventoryID_Main",
+	"Items": [
+		{
+			"ItemStaticData": {
+				"RowName": "Solar_Backpack",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "1E73630F70D2477CA7E1218825FD1CB0",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		}
+	]
+}

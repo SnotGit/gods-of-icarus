@@ -1,0 +1,18 @@
+building-parts\concrete - loadout contents:
+
+- Concrete Wall x20
+- Concrete Wall Angled x20
+- Concrete Wall/Roof Curved x20
+- Concrete Curved Wall Angles x20
+- Concrete Floor x20
+- Concrete Frame x20
+- Concrete Ramp/Stairs x20
+- Steel Roofing x20
+- Concrete Roof Curved Angle x20
+- Concrete Halfpitches x20
+- Concrete Halfpieces x20
+- Concrete Beam x20
+- Concrete Advanced Beams x20
+- Concrete Curved Buildings x20
+- Concrete Diagonal Buildings x20
+- Heavy Trapdoor x20

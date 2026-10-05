@@ -1,0 +1,35 @@
+decoration\lab - loadout contents:
+
+- Surgical Equipment x10
+- Cryogenic Sample Storage x10
+- Centrifuge x10
+- Flasks x10
+- Lab Stand x10
+- Stirrer x10
+- Lab Table x10
+- Microscope x10
+- Moisture Analyzer x10
+- Sterile Mortar & Pestle x10
+- Scales x10
+- Test Tubes x10
+- Surgical Masks x10
+- Chemicals x10
+- Cleaning Supplies x10
+- Eye Wash Station x10
+- Large Flask x10
+- Labcoats x10
+- Molecules x10
+- Paper Towels x10
+- Safety Goggles x10
+- Skeleton Stand x10
+- Science Tray x10
+- Soap Dispensers x10
+- Medical Trolley x5
+- Dissected Creature x5
+- Small Specimen Sample x10
+- Specimen Sample x10
+- Large Specimen Sample x10
+- Enzyme Vat x10
+- Enzyme Vat (Empty) x10
+- Battered Lab Desk
+- Medic Cabinet

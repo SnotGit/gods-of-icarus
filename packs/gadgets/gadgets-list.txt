@@ -1,0 +1,14 @@
+gadgets - loadout contents:
+
+- Battery Powered Lantern
+- Advanced Orbital Exchange Interface
+- Dropship Landing Pad
+- MXC Fuel Canister
+- Biofuel Can
+- Shengong "Hulu" Canteen
+- Larkwell Martinez Oxygen Tank
+- MXC Campfire
+- IC-001 Radar
+- Inaris Powerbank
+- MXC Refined Oil Canister
+- Portable Water Tank

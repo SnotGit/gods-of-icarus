@@ -1,0 +1,10 @@
+{
+  "name": "No Weather",
+  "author": "Gods Of Icarus",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "No more snow or sand on your buildings.",
+  "match": "no-weather-effect_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}

@@ -1,0 +1,9 @@
+building-trims\composite\clean - loadout contents:
+
+- Composite Door x20
+- Composite Window x20
+- Composite Railing A x20
+- Composite Railing B x20
+- Composite Railing C x20
+- Composite Railing Gate x20
+- Composite Ladder x20

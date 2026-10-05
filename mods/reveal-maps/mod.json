@@ -1,0 +1,8 @@
+{
+  "name": "Reveal Maps",
+  "author": "Gods Of Icarus",
+  "kind": "maps",
+  "card": "card.png",
+  "summary": "The whole map uncovered, on the maps you tick.",
+  "server": false
+}

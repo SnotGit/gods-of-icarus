@@ -1,0 +1,9 @@
+building-trims\windows - loadout contents:
+
+- Aluminium Window x20
+- Steel Barred Window x20
+- Heavy Glass Window x20
+- Glass Window x20
+- Reinforced Glass Window x20
+- Thatch Window x20
+- Wood Window x20

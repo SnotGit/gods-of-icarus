@@ -1,0 +1,17 @@
+building-parts\composite\clean - loadout contents:
+
+- Composite Wall x20
+- Composite Wall Angled x20
+- Composite Wall/Roof Curved x20
+- Composite Curved Wall Angles x20
+- Composite Floor x20
+- Composite Roof x20
+- Composite Roof Corner x20
+- Composite Roof Curved Angle x20
+- Composite Halfpitches x20
+- Composite Halfpieces x20
+- Composite Beam x20
+- Composite Advanced Beams x20
+- Composite Curved Buildings x20
+- Composite Diagonal Buildings x20
+- Composite Trapdoor x20

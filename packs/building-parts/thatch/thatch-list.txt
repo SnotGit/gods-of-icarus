@@ -1,0 +1,11 @@
+building-parts\thatch - loadout contents:
+
+- Thatch Wall x20
+- Thatch Wall Angled x20
+- Thatch Floor x20
+- Thatch Roof/Ramp x20
+- Thatch Roof Corner x20
+- Thatch Halfpitches x20
+- Thatch Halfpieces x20
+- Thatch Beam x20
+- Thatch Trapdoor x20

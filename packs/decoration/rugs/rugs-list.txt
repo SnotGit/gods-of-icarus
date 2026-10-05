@@ -1,0 +1,16 @@
+decoration\rugs - loadout contents:
+
+- Garganutan Rug x5
+- Black Wolf Rug
+- Bear Rug
+- Buffalo Rug
+- Wolf Rug
+- Cougar Rug
+- Deer Rug
+- Hyena Rug
+- Jaguar Rug
+- Polar Bear Rug
+- Snow Leopard Rug
+- Snow Wolf Rug
+- Thick Woven Rug
+- Thin Woven Rug

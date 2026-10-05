@@ -1,0 +1,38 @@
+lights - loadout contents:
+
+- Basic Wall Light
+- Single Wall Light
+- Exposed Wall Light
+- Frosted Wall Light
+- Bunker Light x10
+- Caged Light x10
+- Exposed Light x10
+- Frosted Light x10
+- Shrouded Light x10
+- Spotlight x10
+- Worklamp x10
+- Directional Worklamp
+- Art Deco Floor Lamp
+- Art Deco Wall Light
+- Art Deco Chandelier
+- Brutalist Lamp
+- Brutalist Square Lamp
+- Industrial Lamp
+- Rustic Lamp
+- Carved Wood Desk Lamp
+- Battery Cavelight
+- Battery Spotlight
+- Floor Torch x20
+- Wall Torch x20
+- Homestead Lamp Post x5
+- Brazier
+- Sandworm Brazier
+- Full Sandworm Brazier
+- Homestead Wall Lamp x5
+- Rustic Candles
+- Carved Wood Candlestick
+- Industrial Candlestick
+- Brutalist Candlestick
+- Homestead Wall Candle x5
+- Homestead Rustic Lamp x5
+- Rimetusk Chandelier

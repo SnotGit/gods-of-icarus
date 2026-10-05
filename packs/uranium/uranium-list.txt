@@ -1,0 +1,7 @@
+uranium - loadout contents:
+
+- Nuclear Centrifuge
+- Nuclear Reactor
+- Uranium Extraction Unit
+- Raw Uranium x10
+- Automated Defense System: Tesla Coil

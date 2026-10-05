@@ -1,0 +1,5 @@
+decoration\gear - loadout contents:
+
+- Burlap Sack x10
+- Saddle Bag x10
+- Sled

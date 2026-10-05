@@ -1,0 +1,4 @@
+weapons - loadout contents:
+
+- Scouts Submachine Gun
+- Anti-materiel Rifle

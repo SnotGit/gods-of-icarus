@@ -1,0 +1,10 @@
+building-trims\doors - loadout contents:
+
+- Aluminium Door x20
+- Steel Barred Door x20
+- Concrete Door x20
+- Glass Door x20
+- Reinforced Glass Door x20
+- Thatch Door x20
+- Wood Door x20
+- Interior Wood Door x20

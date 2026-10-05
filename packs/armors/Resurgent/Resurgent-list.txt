@@ -1,0 +1,57 @@
+armors\Resurgent - loadout contents:
+
+- Resurgent Head Armor
+    max health +800%
+    health regen +800%
+    physical resistance +200%
+    wind resistance +100%
+    exposure resistance +50%
+    storm stamina regen +200%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +5%
+    oxygen consumption -100%
+
+- Resurgent Chest Armor
+    max health +800%
+    health regen +800%
+    physical resistance +200%
+    fire resistance +100%
+    wind resistance +100%
+    cave sickness resistance +100%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +5%
+
+- Resurgent Arm Armor
+    max health +800%
+    health regen +800%
+    physical resistance +230%
+    poison resistance +100%
+    wind resistance +100%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +5%
+    poison duration -120%
+
+- Resurgent Leg Armor
+    max health +800%
+    health regen +800%
+    physical resistance +250%
+    collision resistance +100%
+    wind resistance +100%
+    stamina regen +100%
+    stamina consumption -25%
+    movement speed +5%
+
+- Resurgent Feet Armor
+    max health +800%
+    health regen +800%
+    physical resistance +200%
+    fall resistance +100%
+    chance to resist sprain +40%
+    wind resistance +100%
+    poison duration -100%
+    bacterial affliction duration -100%
+    parasitic affliction duration -100%
+    physical trauma duration -100%

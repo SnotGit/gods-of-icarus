@@ -1,0 +1,16 @@
+building-parts\glass - loadout contents:
+
+- Glass Wall x20
+- Glass Wall Angled x20
+- Glass Wall/Roof Curved x20
+- Glass Curved Wall Angles x20
+- Glass Floor x20
+- Glass Roof x20
+- Glass Roof Corner x20
+- Glass Roof Curved Angle x20
+- Glass Halfpitches x20
+- Glass Halfpieces x20
+- Glass Beam x20
+- Glass Advanced Beams x20
+- Glass Curved Buildings x20
+- Glass Diagonal Buildings x20

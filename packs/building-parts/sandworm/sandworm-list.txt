@@ -1,0 +1,10 @@
+building-parts\sandworm - loadout contents:
+
+- Sandworm Wall x20
+- Sandworm Wall Angled x20
+- Sandworm Floor x20
+- Sandworm Roof/Ramp x20
+- Sandworm Roof Corner x20
+- Sandworm Halfpitches x20
+- Sandworm Halfpieces x20
+- Sandworm Beam x20

@@ -1,0 +1,5528 @@
+[
+ {
+  "rowName": "Advanced_Iron_Lure",
+  "nom": "Advanced Iron Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ape_Attachment",
+  "nom": "Garganutan Brute Force",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseBluntTrauma_%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseMeleeDamage_+",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Armor_Comfort_1",
+  "nom": "Armor Pajama 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseComfortLevel_+",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Armor_Comfort_2",
+  "nom": "Armor Pajama 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseComfortLevel_+",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Arms_FistDamage_1",
+  "nom": "Fist Damage 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFistMeleeDamage_+%",
+    "valeur": 200
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Arms_FistDamage_2",
+  "nom": "Fist Damage 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFistMeleeDamage_+%",
+    "valeur": 500
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Arms_ThrowAccuracy_1",
+  "nom": "Projectile Accuracy 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseKnifeProjectileAccuracy_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseSpearProjectileAccuracy_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Arms_ThrowAccuracy_2",
+  "nom": "Projectile Accuracy 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseKnifeProjectileAccuracy_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseSpearProjectileAccuracy_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Attacks_Cause_Bleed_1",
+  "nom": "Bleed 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseBleed_%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseMeleeDamage_+",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Attacks_Cause_Poison_1",
+  "nom": "Toxic 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCausePoison_%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseMeleeDamage_+",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Attacks_Cause_Shock_1",
+  "nom": "Shock 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseElectroshock_%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseMeleeDamage_+",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Axe_WoodYield_1",
+  "nom": "Wood Yield 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFellingRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Axe_WoodYield_2",
+  "nom": "Wood Yield 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFellingRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Bark_Lure",
+  "nom": "Bark Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Biolab_AlphaWolf_Melee",
+  "nom": "Alpha Wolf Wounding",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseWound_%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseAttacksCauseDeepWound_%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Biolab_IceMammoth_Melee",
+  "nom": "Frozen Mammoth Frost",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseFreeze_%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFrostDamage_+",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Biolab_Sandworm_Armor",
+  "nom": "Sandworm Plating",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseFireDamageResistance_+%",
+    "valeur": -15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Biolab_Scorpion_Armor",
+  "nom": "Giant Scorpion Thorns",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToReturnDamage_%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseDamageReturned_%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Barrel_A",
+  "nom": "Optimized Barrel",
+  "description": "Chance to Not Consume Ammo",
+  "effets": [
+   {
+    "stat": "BaseChanceToNotConsumeAmmo_%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Barrel_B",
+  "nom": "Serrated Barrel",
+  "description": "Cause Bleed and Wound on Hit",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseBleed_%",
+    "valeur": 33
+   },
+   {
+    "stat": "BaseAttacksCauseWound_%",
+    "valeur": 33
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Barrel_C",
+  "nom": "Binding Barrel",
+  "description": "Cause Immobilise on Hit",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseImmobilise_%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Chamber_A",
+  "nom": "High-impact Chamber",
+  "description": "Fewer Rounds but Greatly Increased Damage and Chance to Slow",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": -3
+   },
+   {
+    "stat": "BaseAttacksCauseSlow_%",
+    "valeur": 75
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Chamber_B",
+  "nom": "Accelerated Chamber",
+  "description": "Fewer Rounds but Increased Fire Rate, Damage and Chance to Reduce Physical Resistance",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": -2
+   },
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseAttacksCauseVulnerable_%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Chamber_C",
+  "nom": "Combustive chamber",
+  "description": "Increased Fire Rate and a Chance to Cause Burn",
+  "effets": [
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": 33
+   },
+   {
+    "stat": "BaseAttacksCauseBurn_%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Handle_A",
+  "nom": "Lightweight Grip",
+  "description": "Run Faster and Resist Physical Damage",
+  "effets": [
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Handle_B",
+  "nom": "Tactical Grip",
+  "description": "Less Threat and Increased Damage",
+  "effets": [
+   {
+    "stat": "BaseAnimalThreatModifier_+%",
+    "valeur": -20
+   },
+   {
+    "stat": "BaseStealthDamage_+%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Handle_C",
+  "nom": "Reinforced Grip",
+  "description": "Increase Projectile Damage",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Trigger_A",
+  "nom": "Amplifying Trigger",
+  "description": "Increases all Fire, Electric, Cold and Poison Damage",
+  "effets": [
+   {
+    "stat": "BaseElementalDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Trigger_B",
+  "nom": "Impact Trigger",
+  "description": "Buff yourself with Rage on Hit. A Stacking Physical Damage Buff.",
+  "effets": [
+   {
+    "stat": "BaseRageChance_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BlackWolf_Trigger_C",
+  "nom": "Reflex Trigger",
+  "description": "Buff yourself with Adrenaline on Hit. A Movement Speed and Stamina Buff.",
+  "effets": [
+   {
+    "stat": "BaseAdrenalineChance_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Black_Wolf_Lure",
+  "nom": "Black Wolf Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 35
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Blue_Reed_Lure",
+  "nom": "Blue Reed Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Bone_Lure",
+  "nom": "Bone Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Bone_Yeild_1",
+  "nom": "Carcass Connoisseur 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseBoneHarvestedFromAnimals_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseFurHarvestedFromAnimals_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Bone_Yeild_2",
+  "nom": "Carcass Connoisseur 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseBoneHarvestedFromAnimals_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFurHarvestedFromAnimals_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Boss_Tracker_1",
+  "nom": "Scanner 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "MapCanSeeWorldBosses_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "BurnChancePrevention_1",
+  "nom": "Inflammable 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseBurnChance_%",
+    "valeur": -25
+   }
+  ],
+  "legalSur": "ALL(  ALL( Traits.Buildable ),  ANY( Building.Wood, Building.InteriorWood ) )",
+  "craftable": true
+ },
+ {
+  "rowName": "Carrying_Bonus_1",
+  "nom": "Extra Pockets 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseWeightCapacity_+",
+    "valeur": 5
+   },
+   {
+    "stat": "BaseBackpackSlots_+",
+    "valeur": 2
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Carrying_Bonus_2",
+  "nom": "Extra Pockets 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseWeightCapacity_+",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseBackpackSlots_+",
+    "valeur": 4
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Cat_Boss_Attachment",
+  "nom": "[DNT] Cat Boss Focus",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseMarkedTarget_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseAttacksCauseHighlightedTarget_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Cat_Boss_Lure",
+  "nom": "[DNT] Cat Boss Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchRareFish_+%",
+    "valeur": 200
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Cave_Resistance_1",
+  "nom": "Cave Dweller 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaveHealthRegen_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BasePneumoniaResistance_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Cave_Resistance_2",
+  "nom": "Cave Dweller 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaveHealthRegen_+%",
+    "valeur": 60
+   },
+   {
+    "stat": "BasePneumoniaResistance_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Chest_Oxygen_1",
+  "nom": "Oxygen 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseOxygenConsumption_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Chest_Oxygen_2",
+  "nom": "Oxygen 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseOxygenConsumption_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Chilled",
+  "nom": "Chilled",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseSpoilTime_+%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "ClayYield_1",
+  "nom": "Claysmith 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShatteringClayRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "ClayYield_2",
+  "nom": "Claysmith 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShatteringClayRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Cocoa",
+  "nom": "Contains Cocoa",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Coffee",
+  "nom": "Contains Coffee",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Coffee_With_Cream",
+  "nom": "Contains Coffee With Cream",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Contains_Infected_Vesper",
+  "nom": "Contains Infected Vesper",
+  "description": "Contains a Vesper treated with a Synthetic Enzyme Virus",
+  "effets": [
+   {
+    "stat": "ContainsVesper_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Contains_Vesper",
+  "nom": "Contains Vesper",
+  "description": "Contains a Vesper",
+  "effets": [
+   {
+    "stat": "ContainsVesper_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Cooling",
+  "nom": "Contains Cool Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Copper_Yeild_1",
+  "nom": "Coppersmith 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningCopperRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Copper_Yeild_2",
+  "nom": "Coppersmith 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningCopperRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Corrosive_Water",
+  "nom": "Contains Corrosive Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "CraftingSpeed_1",
+  "nom": "Effective 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCraftingSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "CraftingSpeed_2",
+  "nom": "Effective 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCraftingSpeed_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Cured_Leather_Lure",
+  "nom": "Cured Leather Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Dirty_Water",
+  "nom": "Contains Tainted Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Dirty_Water_Lava",
+  "nom": "Contains Sulfur Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Dirty_Water_Swamp",
+  "nom": "Contains Swamp Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Dogtags_Lure",
+  "nom": "Dog Tags Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchRareFish_+%",
+    "valeur": 80
+   },
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Durability_1",
+  "nom": "Durable 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "ALL( Item.Tool.Axe )",
+  "craftable": true
+ },
+ {
+  "rowName": "Durability_2",
+  "nom": "Durable 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "ANY( Item.Tool.FishingRod )",
+  "craftable": true
+ },
+ {
+  "rowName": "Durability_3",
+  "nom": "Durable 3",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "ALL( Item.Tool.Pickaxe )",
+  "craftable": true
+ },
+ {
+  "rowName": "Durability_4",
+  "nom": "Durable 4",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "ANY( Item.Tool.FishingRod )",
+  "craftable": true
+ },
+ {
+  "rowName": "Durability_5",
+  "nom": "Durable 5",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "ALL(  ALL( Item.Weapon.Spear ),  NONE( Item.Tool.Thrown ) )",
+  "craftable": true
+ },
+ {
+  "rowName": "Durability_6",
+  "nom": "Durable 6",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.LightningRod )",
+  "craftable": true
+ },
+ {
+  "rowName": "Durability_7",
+  "nom": "Durable 7",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 300
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.LightningRod )",
+  "craftable": true
+ },
+ {
+  "rowName": "Durability_8",
+  "nom": "Durable 8",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 500
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.LightningRod )",
+  "craftable": true
+ },
+ {
+  "rowName": "EnergyTransmuationEfficiency_1",
+  "nom": "Efficiency 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseEnergyTransmutationResourceCost_+%",
+    "valeur": -25
+   }
+  ],
+  "legalSur": "ANY( Item.Crafting.Campfire )",
+  "craftable": true
+ },
+ {
+  "rowName": "EnergyTransmuationEfficiency_2",
+  "nom": "Efficiency 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseEnergyTransmutationResourceCost_+%",
+    "valeur": -50
+   }
+  ],
+  "legalSur": "ANY( Item.Crafting.Campfire )",
+  "craftable": true
+ },
+ {
+  "rowName": "Fall_Resistance_1",
+  "nom": "Surefooted 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFallDamageResistance_%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseChanceToResistSprain_%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Fall_Resistance_2",
+  "nom": "Surefooted 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFallDamageResistance_%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseChanceToResistSprain_%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Feather_Lure",
+  "nom": "Feather Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "FellingDamage_1",
+  "nom": "Woodsman 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFellingDamage_+",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "ALL(  ALL( Item.Tool.Knife ),  NONE( Item.Tool.Thrown ) )",
+  "craftable": true
+ },
+ {
+  "rowName": "FellingDamage_2",
+  "nom": "Woodsman 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFellingDamage_+",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Fertilized_Egg",
+  "nom": "Fertilized Egg",
+  "description": "",
+  "effets": [
+   {
+    "stat": "FertilizedEgg_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Fibre_Lure",
+  "nom": "Fibre Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchCommonFish_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseCaughtFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Filtered_Water",
+  "nom": "Contains Filtered Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Frosted",
+  "nom": "Frosted",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseTransmutableUnits_+%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Fruit_Smoothie",
+  "nom": "Contains Fruit Smoothie",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Gold_Ore_Lure",
+  "nom": "Gold Ore Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtFishQuality_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Gold_Yeild_1",
+  "nom": "Goldsmith 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningGoldRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Gold_Yeild_2",
+  "nom": "Goldsmith 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningGoldRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Gorse_Flower_Lure",
+  "nom": "Gorse Flower Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Green_Tea",
+  "nom": "Contains Green Tea",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Guns_Damage_1",
+  "nom": "Guns Damage 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseStealthDamage_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Guns_Damage_2",
+  "nom": "Guns Damage 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseStealthDamage_+%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Guns_ExtendedAmmo_1",
+  "nom": "Guns Extended Ammo 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseFirearmReloadSpeed_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Guns_ExtendedAmmo_2",
+  "nom": "Guns Extended Ammo 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": 2
+   },
+   {
+    "stat": "BaseFirearmReloadSpeed_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "HedgehogDamage_1",
+  "nom": "Spikey 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseHedgehogDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.Hedgehog )",
+  "craftable": true
+ },
+ {
+  "rowName": "Honey_Tea",
+  "nom": "Contains Honey Tea",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Hornet_Attachment",
+  "nom": "Thornet Venom",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseMiasma_%",
+    "valeur": 20
+   },
+   {
+    "stat": "BasePoisonDamage_+",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ice_Water",
+  "nom": "Contains Ice Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Iron_Lure",
+  "nom": "Iron Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Knife_VestigeChance_1",
+  "nom": "Vestige Chance 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToHarvestCreatureTrophiesOnSkinning_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Knife_VestigeChance_2",
+  "nom": "Vestige Chance 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToHarvestCreatureTrophiesOnSkinning_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Amp_A",
+  "nom": "Sustaining Core",
+  "description": "Increase Health Regen on Attacks",
+  "effets": [
+   {
+    "stat": "BaseEnduranceChance_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Amp_B",
+  "nom": "Breaching Core",
+  "description": "Additional Damage to Armor",
+  "effets": [
+   {
+    "stat": "BaseArmorDamageModifier_+%",
+    "valeur": 200
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Amp_C",
+  "nom": "Tactical Core",
+  "description": "Chance to Deal Double Damage on Hit",
+  "effets": [
+   {
+    "stat": "BaseChanceToDealDoubleDamage_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Dampener_A",
+  "nom": "Crushing Reinforcement",
+  "description": "Attacks Cause Vulnerable and Bleed",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseVulnerable_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseAttacksCauseBleed_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Dampener_B",
+  "nom": "Restraining Reinforcement",
+  "description": "Chance to Immobilize the Target",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseImmobilise_%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Dampener_C",
+  "nom": "Forceful Reinforcement",
+  "description": "Raw Damage and Critical Hit Increase",
+  "effets": [
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseMeleeDamage_+%",
+    "valeur": 35
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Enhancer_A",
+  "nom": "Fortified Injector",
+  "description": "Increased Physical Damage Resistance",
+  "effets": [
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Enhancer_B",
+  "nom": "Resolute Injector",
+  "description": "Chance to Resist Wounds, Deep Wounds and Hemorrhage",
+  "effets": [
+   {
+    "stat": "BaseWoundResistance_%",
+    "valeur": 75
+   },
+   {
+    "stat": "BaseDeepWoundResistance_%",
+    "valeur": 75
+   },
+   {
+    "stat": "BaseHemorrhageResistance_%",
+    "valeur": 75
+   },
+   {
+    "stat": "BaseBleedResistance_%",
+    "valeur": 75
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Enhancer_C",
+  "nom": "Crippling Injector",
+  "description": "Chance to Slow Target on Hit",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseSlow_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Plate_A",
+  "nom": "Balanced Plates",
+  "description": "Stamina Regeneration and Swing Cost Reduction",
+  "effets": [
+   {
+    "stat": "BaseStaminaRegen_+%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseStaminaConsumed_+%",
+    "valeur": -25
+   },
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Plate_B",
+  "nom": "Lightweight Plates",
+  "description": "A Lighter Head which reduces attack but drastically increases swing speed.",
+  "effets": [
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": 45
+   },
+   {
+    "stat": "BaseMeleeDamage_+",
+    "valeur": -30
+   },
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_ApeClub_Plate_C",
+  "nom": "Weighted Plates",
+  "description": "A Heavier Head which Deals more Damage, but is slower to swing.",
+  "effets": [
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": -25
+   },
+   {
+    "stat": "BaseMeleeDamage_+",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAttacksCauseBluntTrauma_%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Placeholder",
+  "nom": "LW Placeholder",
+  "description": "[DNT] LW Placeholder",
+  "effets": [
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Battery_A",
+  "nom": "Smelting Gadget",
+  "description": "Chance to Automatically Smelt Mined Ore",
+  "effets": [
+   {
+    "stat": "BaseMiningSmeltChance_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Battery_B",
+  "nom": "Lucky Gadget",
+  "description": "Chance to Fully Mine a Voxel",
+  "effets": [
+   {
+    "stat": "BaseChanceToMineVoxelInstantly_+%",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Battery_C",
+  "nom": "Delving Gadget",
+  "description": "Immune to Cave Sickness",
+  "effets": [
+   {
+    "stat": "BasePneumoniaResistance_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Bracket_A",
+  "nom": "Injector Core",
+  "description": "Increased Stamina Regeneration and Movement Speed",
+  "effets": [
+   {
+    "stat": "BaseStaminaRegen_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Bracket_B",
+  "nom": "Broadened Core",
+  "description": "Increased Mining Yield",
+  "effets": [
+   {
+    "stat": "BaseMiningRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Bracket_C",
+  "nom": "Streamlined Core",
+  "description": "Increases Attack Speed",
+  "effets": [
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Cuff_A",
+  "nom": "Efficient Handle",
+  "description": "Reduced Biofuel Usage",
+  "effets": [
+   {
+    "stat": "BaseFlamethrowerFuelUse_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Cuff_B",
+  "nom": "Light Handle",
+  "description": "Significantly Reduced Stamina Cost",
+  "effets": [
+   {
+    "stat": "BaseStaminaActionCost_+%",
+    "valeur": -70
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Cuff_C",
+  "nom": "Sturdy Handle",
+  "description": "Reduced Item Wear",
+  "effets": [
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Fist_A",
+  "nom": "Breaking Fist",
+  "description": "Increased Mining Yield",
+  "effets": [
+   {
+    "stat": "BaseMiningRewards_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Fist_B",
+  "nom": "Wide Fist",
+  "description": "Increased Mining Radius",
+  "effets": [
+   {
+    "stat": "BaseMiningRadius_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_RG_Fist_C",
+  "nom": "Defender\\'s Fist",
+  "description": "Reduces Physical and Poison Damage",
+  "effets": [
+   {
+    "stat": "BasePoisonDamageResistance_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BasePoisonModifierDuration_+%",
+    "valeur": -60
+   },
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Backpack_A",
+  "nom": "Noxious Cephalon",
+  "description": "Projectiles Leave Poisonous Trails",
+  "effets": [
+   {
+    "stat": "GunAmmoIsStickyTrails_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseProjectilePayloadDamage_+",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Backpack_B",
+  "nom": "Rejuvenating Cephalon",
+  "description": "Projectiles Heal And Leave Healing Areas",
+  "effets": [
+   {
+    "stat": "GunAmmoTargetedPlayersHeal_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseGunAmmoTargetedPlayersHealAmount_+",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Backpack_C",
+  "nom": "Explosive Cephalon",
+  "description": "Projectiles Explode On Impact",
+  "effets": [
+   {
+    "stat": "GunAmmoIsExplosive_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseProjectilePayloadDamage_+",
+    "valeur": 250
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Guard_A",
+  "nom": "Light Mantle",
+  "description": "Increases the Speed of the Projectile",
+  "effets": [
+   {
+    "stat": "BaseProjectileSpeed_+%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Guard_B",
+  "nom": "Persisting Mantle",
+  "description": "Splash Effects And Debuffs Last Longer",
+  "effets": [
+   {
+    "stat": "BaseProjectileSplashLifespan_+%",
+    "valeur": 35
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Guard_C",
+  "nom": "Expanding Mantle",
+  "description": "Expands the Range of Splash Effects",
+  "effets": [
+   {
+    "stat": "BaseProjectileAOE_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Loader_A",
+  "nom": "Vicious Gills",
+  "description": "Sacrifice Firerate & Ammo for a Larger Splash Zone",
+  "effets": [
+   {
+    "stat": "BaseSemiAutomaticRateOfFirePerMinute_+%",
+    "valeur": -30
+   },
+   {
+    "stat": "BaseProjectileAOE_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFirearmFillablePerShot_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseProjectilePayloadDamage_+%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Loader_B",
+  "nom": "Efficient Gills",
+  "description": "Conserve Ammo while Sacrificing Speed",
+  "effets": [
+   {
+    "stat": "BaseSemiAutomaticRateOfFirePerMinute_+%",
+    "valeur": -5
+   },
+   {
+    "stat": "BaseFirearmFillablePerShot_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Loader_C",
+  "nom": "Accelerated Gills",
+  "description": "Fire Fast with Less Splash",
+  "effets": [
+   {
+    "stat": "BaseSemiAutomaticRateOfFirePerMinute_+%",
+    "valeur": 35
+   },
+   {
+    "stat": "BaseFirearmFillablePerShot_+%",
+    "valeur": -10
+   },
+   {
+    "stat": "BaseProjectileAOE_+%",
+    "valeur": -30
+   },
+   {
+    "stat": "BaseProjectilePayloadDamage_+%",
+    "valeur": -30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Muzzle_A",
+  "nom": "Savage Radula",
+  "description": "Increases initial impact Damage or Healing",
+  "effets": [
+   {
+    "stat": "BaseProjectilePayloadDamage_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseGunAmmoTargetedPlayersHealAmount_+",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Muzzle_B",
+  "nom": "Swarming Radula",
+  "description": "Fire Multiple Projectiles",
+  "effets": [
+   {
+    "stat": "BaseAmmoSpreadX_+",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseAmmoSpreadY_+",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseProjectileAOE_+%",
+    "valeur": -40
+   },
+   {
+    "stat": "BaseProjectilePayloadDamage_+%",
+    "valeur": -40
+   },
+   {
+    "stat": "BaseGunAmmoMultiProjectiles_+",
+    "valeur": 4
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_Slug_Muzzle_C",
+  "nom": "Rubbery Radula",
+  "description": "Projectiles will now Bounce",
+  "effets": [
+   {
+    "stat": "BaseProjectileBounciness_+",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseProjectileMaxBounces_+",
+    "valeur": 3
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Drive_A",
+  "nom": "Refined Drive",
+  "description": "Chance to Gather Refined Wood",
+  "effets": [
+   {
+    "stat": "BaseFellingRefinedWoodChance_%",
+    "valeur": 75
+   },
+   {
+    "stat": "BaseFellingRefinedWoodConversion_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Drive_B",
+  "nom": "Optic Drive",
+  "description": "Highlight Tree Pieces",
+  "effets": [
+   {
+    "stat": "FellingHighlightsWoodPieces_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Drive_C",
+  "nom": "Lightened Drive",
+  "description": "Reduced Weight and Increased Movement Speed",
+  "effets": [
+   {
+    "stat": "BaseWeight_+",
+    "valeur": -5000
+   },
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Handle_A",
+  "nom": "Stabilization Handle",
+  "description": "Reduced Wear and Vibration. Increased Critical Damage.",
+  "effets": [
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -25
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseScreenshakeMultiplier_+",
+    "valeur": -75
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Handle_B",
+  "nom": "Protective Handle",
+  "description": "Increased Collision and Physical Damage Resistance",
+  "effets": [
+   {
+    "stat": "BaseCollisionDamageResistance_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Handle_C",
+  "nom": "Hollow Handle",
+  "description": "Increased Fuel Capacity and Durability",
+  "effets": [
+   {
+    "stat": "BaseFillableResource_+",
+    "valeur": 1000
+   },
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Motor_A",
+  "nom": "Skinning Motor",
+  "description": "Allows Skinning of All Creatures",
+  "effets": [
+   {
+    "stat": "BaseSkinningRewards_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseSkinningSpeed_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Motor_B",
+  "nom": "Expanded Motor",
+  "description": "Automatically Pickup Chopped Wood",
+  "effets": [
+   {
+    "stat": "AutomaticWoodCollectionOnHarvest_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Motor_C",
+  "nom": "Refined Motor",
+  "description": "Increases Wood Yield",
+  "effets": [
+   {
+    "stat": "BaseFellingRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Saw_A",
+  "nom": "Piercing Blade",
+  "description": "Blades will now Pierce when Fired",
+  "effets": [
+   {
+    "stat": "BaseProjectilePierceCount_+",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Saw_B",
+  "nom": "Diamond Blade",
+  "description": "Felling and Physical Damage Increase",
+  "effets": [
+   {
+    "stat": "BaseFellingDamage_+",
+    "valeur": 25
+   },
+   {
+    "stat": "BasePhysicalDamage_+",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LW_WyrmChainsaw_Saw_C",
+  "nom": "Serrated Blade",
+  "description": "Increased Hardpoint Damage and Bleed Chance",
+  "effets": [
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAttacksCauseBleed_%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Laser_ElectricConversion",
+  "nom": "Electric Conversion",
+  "description": "",
+  "effets": [
+   {
+    "stat": "ConvertLaserToElectricDamage_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAttacksCauseElectroshock_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Laser_FireConversion",
+  "nom": "Fire Conversion",
+  "description": "",
+  "effets": [
+   {
+    "stat": "ConvertLaserToFireDamage_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAttacksCauseBurn_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Laser_FrostConversion",
+  "nom": "Frost Conversion",
+  "description": "",
+  "effets": [
+   {
+    "stat": "ConvertLaserToFrostDamage_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAttacksCauseFreeze_%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Laser_PoisonConversion",
+  "nom": "Poison Conversion",
+  "description": "",
+  "effets": [
+   {
+    "stat": "ConvertLaserToPoisonDamage_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAttacksCausePoison_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Chassis_A",
+  "nom": "Safety Frame",
+  "description": "Adds Fire Damage Resistance",
+  "effets": [
+   {
+    "stat": "BaseFireDamageResistance_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Chassis_B",
+  "nom": "Lightweight Frame",
+  "description": "Removes Safeguards for a Lighter Weapon",
+  "effets": [
+   {
+    "stat": "BaseWeight_+",
+    "valeur": -5000
+   },
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Chassis_C",
+  "nom": "Sturdy Frame",
+  "description": "Sturdy Material that Reduces Degradation when Firing",
+  "effets": [
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Fuel_A",
+  "nom": "Searing Tank",
+  "description": "Modified Biofuel Creates Searing Heat",
+  "effets": [
+   {
+    "stat": "BaseFireDamage_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Fuel_B",
+  "nom": "Flaring Tank",
+  "description": "Superheated Biofuel Causes Lingering Burn Effects",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseBurn_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Fuel_C",
+  "nom": "Efficient Tank",
+  "description": "Consumes Biofuel in Parallel to Increase Efficiency",
+  "effets": [
+   {
+    "stat": "BaseFlamethrowerFuelUse_+%",
+    "valeur": -25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Injector_A",
+  "nom": "Charged Injector",
+  "description": "Adds Alternate Fire to Shoot Fireballs.",
+  "effets": [
+   {
+    "stat": "CanUseAlternateFireFlamethrowerFireball_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAlternateFlameThrowerFuelUse_+",
+    "valeur": 350
+   },
+   {
+    "stat": "BaseExplosiveDamage_+",
+    "valeur": 350
+   },
+   {
+    "stat": "BaseExplosiveDamageRadius_+",
+    "valeur": 300
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Injector_B",
+  "nom": "Persistent Injector",
+  "description": "A Compression Injector which Leaves Persistent Pools of Fire on the Ground",
+  "effets": [
+   {
+    "stat": "BaseChanceFlamethrowerSpawnsLavaPuddle_%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Injector_C",
+  "nom": "Burst Injector",
+  "description": "Adds Alternate Fire which Triggers a Fire Burst Around the user",
+  "effets": [
+   {
+    "stat": "CanUseAlternateFireFlamethrowerBurst_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAlternateFlameThrowerFuelUse_+",
+    "valeur": 450
+   },
+   {
+    "stat": "BaseExplosiveDamage_+",
+    "valeur": 350
+   },
+   {
+    "stat": "BaseExplosiveDamageRadius_+",
+    "valeur": 500
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Nozzle_A",
+  "nom": "Ignition Nozzle",
+  "description": "A more Intense Flame that can Burn through Resistances",
+  "effets": [
+   {
+    "stat": "BaseAttacksCausePyrophobia_%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseFlamethrowerRange_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Nozzle_B",
+  "nom": "Splitting Nozzle",
+  "description": "Shoots an additional stream of Flame",
+  "effets": [
+   {
+    "stat": "FlamethrowerHasSplitter_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseFlamethrowerFlameDamageRadius_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "LavaHunterFlamethrower_Nozzle_C",
+  "nom": "Lengthened Nozzle",
+  "description": "Streamlined Nozzle which Increases Range",
+  "effets": [
+   {
+    "stat": "BaseFlamethrowerRange_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Lava_Hunter_Attachment",
+  "nom": "Lava Hunter Burn",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseBurn_%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFireDamage_+",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Leather_Yeild_1",
+  "nom": "Huntsman 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseLeatherHarvestedFromAnimals_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Leather_Yeild_2",
+  "nom": "Huntsman 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseLeatherHarvestedFromAnimals_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Arms_A",
+  "nom": "Low-Profile Limb",
+  "description": "Deal More Damage while Stealthed",
+  "effets": [
+   {
+    "stat": "BaseStealthDamage_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAimingMovementSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Arms_B",
+  "nom": "Flexible Limb",
+  "description": "Fired Arrows Move Faster Towards their Target",
+  "effets": [
+   {
+    "stat": "BaseArrowProjectileSpeed_+%",
+    "valeur": 75
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Arms_C",
+  "nom": "Agile Limb",
+  "description": "Increased Rate of Fire and Reload Speed",
+  "effets": [
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Grip_A",
+  "nom": "Masterwork Grip",
+  "description": "Deals More Consistent Damage and Lasts Longer.",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseBowItemWear_+%",
+    "valeur": -25
+   },
+   {
+    "stat": "BaseBowProjectileAccuracy_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Grip_B",
+  "nom": "Fortified Grip",
+  "description": "Block Incoming Damage While Aiming",
+  "effets": [
+   {
+    "stat": "IceSledgeHammerBlock_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseShieldBlockRadiusDegrees_+",
+    "valeur": 85
+   },
+   {
+    "stat": "BaseShieldBlock_%",
+    "valeur": 85
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Grip_C",
+  "nom": "Braced Grip",
+  "description": "Fire Slower and Hit Harder",
+  "effets": [
+   {
+    "stat": "BaseBowStaminaActionCost_+%",
+    "valeur": 150
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": -50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Module_A",
+  "nom": "Defence Module",
+  "description": "Provides more Physical Resistance",
+  "effets": [
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 8
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Module_B",
+  "nom": "Tracking Module",
+  "description": "Improved Target Acquisition",
+  "effets": [
+   {
+    "stat": "BaseBowAimDownSightsSpeed_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseBowStaminaActionCost_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Module_C",
+  "nom": "Lightweight Module",
+  "description": "Allows for Faster Movement Speed",
+  "effets": [
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Shelf_A",
+  "nom": "Hardened Point Rest",
+  "description": "Allows Piercing of Hardened Points",
+  "effets": [
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Shelf_B",
+  "nom": "Anchored Rest",
+  "description": "Immobilise Chance",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseImmobilise_%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Bow_Shelf_C",
+  "nom": "Aligned Rest",
+  "description": "Fire with More Accuracy and Chance to Reuse Ammo",
+  "effets": [
+   {
+    "stat": "BaseChanceProjectilesBreak_%",
+    "valeur": -5
+   },
+   {
+    "stat": "BaseProjectileAccuracy_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Barrel_A",
+  "nom": "Silenced Barrel",
+  "description": "Draws Far Less Animal Threat when Firing and Deals additional Stealth Damage.",
+  "effets": [
+   {
+    "stat": "BaseFirearmLoudness_+%",
+    "valeur": -90
+   },
+   {
+    "stat": "BaseStealthDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "IsAudioSilenced_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Barrel_B",
+  "nom": "Match Grade Barrel",
+  "description": "Raw Damage Increase And Increased Accuracy",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 35
+   },
+   {
+    "stat": "BaseProjectileAccuracy_+%",
+    "valeur": 60
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Barrel_C",
+  "nom": "Stabilized Barrel",
+  "description": "Sometimes Prevents Consumption of Ammo",
+  "effets": [
+   {
+    "stat": "BaseChanceToNotConsumeAmmo_%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseAimDownSightsSpeed_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Module_A",
+  "nom": "Storage Module",
+  "description": "Allows for the Chambering of an Additional Round.",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Module_B",
+  "nom": "Kinetic Module",
+  "description": "Increases Base Projectile Damage and Reload Speed",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Module_C",
+  "nom": "Preservation Module",
+  "description": "Sometimes Prevents Consumption of Ammo",
+  "effets": [
+   {
+    "stat": "BaseChanceToNotConsumeAmmo_%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Scope_A",
+  "nom": "Spotter Scope",
+  "description": "Highlights Creatures when Aiming and Deals Extra Damage",
+  "effets": [
+   {
+    "stat": "HighlightSmallAnimalsWhenADS_?",
+    "valeur": 1
+   },
+   {
+    "stat": "HighlightMediumAnimalsWhenADS_?",
+    "valeur": 1
+   },
+   {
+    "stat": "HighlightLargeAnimalsWhenADS_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "FirearmScopeType_Enum",
+    "valeur": 5
+   },
+   {
+    "stat": "BaseAnimalHighlightDistance_+",
+    "valeur": 17500
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Scope_B",
+  "nom": "Precision Scope",
+  "description": "Deals more Raw Critical Damage",
+  "effets": [
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 100
+   },
+   {
+    "stat": "FirearmScopeType_Enum",
+    "valeur": 6
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Scope_C",
+  "nom": "Pinning Scope",
+  "description": "Chance to Apply Immobilise",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseImmobilise_%",
+    "valeur": 33
+   },
+   {
+    "stat": "FirearmScopeType_Enum",
+    "valeur": 7
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Stock_A",
+  "nom": "Balanced Stock",
+  "description": "Increased Aim and Movement Speed",
+  "effets": [
+   {
+    "stat": "BaseAimDownSightsSpeed_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 5
+   },
+   {
+    "stat": "BaseAimingMovementSpeed_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Stock_B",
+  "nom": "Impact Stock",
+  "description": "Allows Piercing of Hardened Points",
+  "effets": [
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legendary_Sniper_Stock_C",
+  "nom": "Conductive Stock",
+  "description": "Increases the Usefulness for Fire, Ice, Poison and Electric Damage.",
+  "effets": [
+   {
+    "stat": "BaseElementalDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legs_Jump_1",
+  "nom": "Jump 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseJumpingStaminaActionCost_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Legs_Jump_2",
+  "nom": "Jump 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseJumpingStaminaActionCost_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Back_A",
+  "nom": "Fracturing Head",
+  "description": "Can Mine Basic Ore",
+  "effets": [
+   {
+    "stat": "CanMineVoxels_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseMiningRewards_%",
+    "valeur": 130
+   },
+   {
+    "stat": "BaseMiningRadius_+",
+    "valeur": 80
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Back_B",
+  "nom": "Sweeping Head",
+  "description": "Sweep Attack Hits Multiple Targets",
+  "effets": [
+   {
+    "stat": "IceSledgeHammerStd_?",
+    "valeur": -1
+   },
+   {
+    "stat": "IceSledgeHammerSweep_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": -5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Back_C",
+  "nom": "Shattering Head",
+  "description": "Extra Damage, Increased Against Armor and Hardened Points",
+  "effets": [
+   {
+    "stat": "BaseMeleeDamage_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseArmorDamageModifier_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Handle_A",
+  "nom": "Sturdy Frame",
+  "description": "Alternate Fire Can Now Block",
+  "effets": [
+   {
+    "stat": "IceSledgeHammerBlock_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseShieldBlockRadiusDegrees_+",
+    "valeur": 125
+   },
+   {
+    "stat": "BaseShieldBlock_%",
+    "valeur": 75
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Handle_B",
+  "nom": "Impact Frame",
+  "description": "Alternate Fire is Now an Area of Effect Ground Slam",
+  "effets": [
+   {
+    "stat": "IceSledgeHammerSlam_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseMeleeDamage_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Handle_C",
+  "nom": "Light Frame",
+  "description": "Light Frame allows faster attacks and movement",
+  "effets": [
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Head_A",
+  "nom": "Shattering Face",
+  "description": "Gain Frozen Ore And Break Rock Nodes Easier",
+  "effets": [
+   {
+    "stat": "BaseShatteringDamage_+",
+    "valeur": 200
+   },
+   {
+    "stat": "BaseFrozenOrePerMinedResource_%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Head_B",
+  "nom": "Heavy Face",
+  "description": "Extra Damage and Crit Damage",
+  "effets": [
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 35
+   },
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": -5
+   },
+   {
+    "stat": "BaseMeleeDamage_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Head_C",
+  "nom": "Blunt Face",
+  "description": "Chance to Immobilize Target",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseImmobilise_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Weight_A",
+  "nom": "Glacial Base",
+  "description": "Emits an Aura which Slows Nearby Enemies",
+  "effets": [
+   {
+    "stat": "GrantedAuraFrostCloud_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Weight_B",
+  "nom": "Balanced Base",
+  "description": "Reduce Stamina Cost and Increase Shattering Yield",
+  "effets": [
+   {
+    "stat": "BaseToolStaminaActionCost_+%",
+    "valeur": -15
+   },
+   {
+    "stat": "BaseShatteringRewards_%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Mammoth_Sledgehammer_Weight_C",
+  "nom": "Frosty Base",
+  "description": "Freeze Target with Persistent Damage",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseFreeze_%",
+    "valeur": 35
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Melee_Attack_Speed_1",
+  "nom": "Speedy 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Melee_Attack_Speed_2",
+  "nom": "Speedy 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttackSpeed_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Melee_Damage_1",
+  "nom": "Impact 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMeleeDamage_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Melee_Damage_2",
+  "nom": "Impact 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMeleeDamage_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Milk_Fresh",
+  "nom": "Fresh Milk",
+  "description": "",
+  "effets": [
+   {
+    "stat": "FertilizedEgg_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Milk_Spoiled",
+  "nom": "Spoiled Milk",
+  "description": "",
+  "effets": [
+   {
+    "stat": "FertilizedEgg_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "MissionModifiedEDS",
+  "nom": "Modified Formula",
+  "description": "A modified version of the EDS Ammo.",
+  "effets": [
+   {
+    "stat": "IsInvolvedInQuest_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Movement_Bonus_1",
+  "nom": "Acrobatic 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseClimbingSpeed_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "BaseJumpingStaminaActionCost_+%",
+    "valeur": -15
+   },
+   {
+    "stat": "BaseSwimSpeed_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Movement_Bonus_2",
+  "nom": "Acrobatic 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseClimbingSpeed_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseJumpingStaminaActionCost_+%",
+    "valeur": -30
+   },
+   {
+    "stat": "BaseSwimSpeed_+%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "ObsidianYield_1",
+  "nom": "Obsidiansmith 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShatteringObsidianRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "ObsidianYield_2",
+  "nom": "Obsidiansmith 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShatteringObsidianRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Pickaxe_BauxiteYield_1",
+  "nom": "Aluminium Yield 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningBauxiteRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Pickaxe_BauxiteYield_2",
+  "nom": "Aluminium Yield 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningBauxiteRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Pickaxe_MiningRadius_1",
+  "nom": "Mining Radius 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningRadius_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Pickaxe_MiningRadius_2",
+  "nom": "Mining Radius 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningRadius_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Pistol_Accuracy_1",
+  "nom": "Pistol Accuracy 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BasePistolProjectileAccuracy_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BasePistolCriticalDamage_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Pistol_Accuracy_2",
+  "nom": "Pistol Accuracy 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BasePistolProjectileAccuracy_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BasePistolCriticalDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Plant_Boss_Attachment",
+  "nom": "[DNT] Plant Boss Felling",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseInfectedBarkPerWoodChopped_%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFellingRewards_%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Platnium_Yeild_1",
+  "nom": "Platinumsmith 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningPlatinumRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Platnium_Yeild_2",
+  "nom": "Platinumsmith 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningPlatinumRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Plough_Platinum",
+  "nom": "Dug with a Platinum Plow",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BasePlantedCropYield_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCreatesCropPlotTier_+",
+    "valeur": 3
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Plough_Steel",
+  "nom": "Dug with a Steel Plow",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCreatesCropPlotTier_+",
+    "valeur": 2
+   },
+   {
+    "stat": "CanHarvestSeeds_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Plough_Titanium",
+  "nom": "Dug with a Titanium Plow",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BasePlantedCropYield_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCreatesCropPlotTier_+",
+    "valeur": 4
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Poison_Sac_Lure",
+  "nom": "Poison Sac Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchRareFish_+%",
+    "valeur": 80
+   },
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Poison_Water_1",
+  "nom": "Desert Nomad 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BasePoisonResistance_%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseWaterConsumption_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Poison_Water_2",
+  "nom": "Desert Nomad 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BasePoisonResistance_%",
+    "valeur": 60
+   },
+   {
+    "stat": "BaseWaterConsumption_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Prime_Meat_Yeild_1",
+  "nom": "Butcher 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMeatHarvestedFromAnimals_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BasePrimeMeatDropChance_%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Prime_Meat_Yeild_2",
+  "nom": "Butcher 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMeatHarvestedFromAnimals_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BasePrimeMeatDropChance_%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "ProjectileDamage_1",
+  "nom": "Deadly 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 2
+   }
+  ],
+  "legalSur": "ANY(  ALL( Traits.Ballistic, Item.Ammo.Arrow ),  ALL( Traits.Ballistic, Item.Ammo.Bolt ) )",
+  "craftable": true
+ },
+ {
+  "rowName": "ProjectileDamage_2",
+  "nom": "Deadly 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "ANY(  ALL( Traits.Ballistic, Item.Ammo.Arrow ),  ALL( Traits.Ballistic, Item.Ammo.Bolt ) )",
+  "craftable": true
+ },
+ {
+  "rowName": "ProjectileDamage_3",
+  "nom": "Deadly 3",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "ANY(  ALL( Traits.Ballistic, Item.Ammo.Arrow ),  ALL( Traits.Ballistic, Item.Ammo.Bolt ) )",
+  "craftable": true
+ },
+ {
+  "rowName": "Purified_Water",
+  "nom": "Contains Purified Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Quick_Healing_1",
+  "nom": "Restorative 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseBacterialModifierDuration_+%",
+    "valeur": -20
+   },
+   {
+    "stat": "BaseParasiticModifierDuration_+%",
+    "valeur": -20
+   },
+   {
+    "stat": "BasePhysicalTraumaModifierDuration_+%",
+    "valeur": -20
+   },
+   {
+    "stat": "BasePoisonModifierDuration_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Rain_Water",
+  "nom": "Contains Rain Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_ADS_Upgrade_1",
+  "nom": "Scope 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAimDownSightsSpeed_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseAimDownSightsZoom_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_ADS_Upgrade_2",
+  "nom": "Scope 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAimDownSightsSpeed_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAimDownSightsZoom_+%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Additional_Projectile_1",
+  "nom": "Extra Projectiles 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToFireAdditionalProjectile_%",
+    "valeur": 45
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Ammo_Highlight_1",
+  "nom": "Highlight 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseArrowProjectileSpeed_+%",
+    "valeur": 15
+   },
+   {
+    "stat": "HighlightShotProjectile_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Ammo_Highlight_2",
+  "nom": "Highlight 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseArrowProjectileSpeed_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "HighlightShotProjectile_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Animal_Highlighting_1",
+  "nom": "Lock-On 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "HighlightSmallAnimalsWhenADS_?",
+    "valeur": 1
+   },
+   {
+    "stat": "HighlightMediumAnimalsWhenADS_?",
+    "valeur": 1
+   },
+   {
+    "stat": "HighlightLargeAnimalsWhenADS_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseAimDownSightsSpeed_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Damage_1",
+  "nom": "Damaging 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 35
+   },
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": -8
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Damage_2",
+  "nom": "Damaging 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 60
+   },
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": -15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Decreased_Spread_1",
+  "nom": "Decreased Spread 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShotgunProjectileAccuracy_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Decreased_Spread_2",
+  "nom": "Decreased Spread 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShotgunProjectileAccuracy_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Economic_1",
+  "nom": "Budget 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceProjectilesBreak_%",
+    "valeur": -5
+   },
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Economic_2",
+  "nom": "Budget 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceProjectilesBreak_%",
+    "valeur": -10
+   },
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Extended_1",
+  "nom": "Extended-Mag 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": 2
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Increased_Spread_1",
+  "nom": "Increased Spread 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShotgunProjectileAccuracy_+%",
+    "valeur": -40
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": -25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Lightweight_1",
+  "nom": "Lightweight 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFirearmCarryWeight_+%",
+    "valeur": -50
+   },
+   {
+    "stat": "BaseAimingMovementSpeed_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Lightweight_2",
+  "nom": "Lightweight 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseFirearmCarryWeight_+%",
+    "valeur": -75
+   },
+   {
+    "stat": "BaseAimingMovementSpeed_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Rapid_Fire_1",
+  "nom": "Rapid-Fire 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseChargeSpeed_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Sniper_1",
+  "nom": "Sniper 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAimDownSightsZoom_+%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 35
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Sniper_2",
+  "nom": "Sniper 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAimDownSightsZoom_+%",
+    "valeur": 60
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 35
+   },
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Speed_1",
+  "nom": "Speedy Shots 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAimingMovementSpeed_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Speed_2",
+  "nom": "Speedy Shots 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAimingMovementSpeed_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Stealth_1",
+  "nom": "Covert 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseStealthDamage_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseAnimalThreatModifier_+%",
+    "valeur": -15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Stealth_2",
+  "nom": "Covert 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseStealthDamage_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseAnimalThreatModifier_+%",
+    "valeur": -30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Wear_1",
+  "nom": "Sturdy 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseArrowProjectileSpeed_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -15
+   },
+   {
+    "stat": "BaseStaminaActionCost_+%",
+    "valeur": -25
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Ranged_Weapon_Wear_2",
+  "nom": "Sturdy 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseArrowProjectileSpeed_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -30
+   },
+   {
+    "stat": "BaseStaminaActionCost_+%",
+    "valeur": -40
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Reaping_Yeild_1",
+  "nom": "Reaper 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseReapingRewards_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Reaping_Yeild_2",
+  "nom": "Reaper 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseReapingRewards_%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAttacksCauseHemorrhage_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Reed_Flower_Lure",
+  "nom": "Reed Flower Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Refined_Wood_Lure",
+  "nom": "Refined Wood Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Regen_Resistance_1",
+  "nom": "Plating 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseHealthRegen_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Regen_Resistance_2",
+  "nom": "Plating 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseHealthRegen_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BasePhysicalDamageResistance_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Reinforced_Building",
+  "nom": "Reinforced",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseWindDamageResistance_%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseMaximumHealth_+%",
+    "valeur": 400
+   },
+   {
+    "stat": "BaseReinforcedBuilding_+",
+    "valeur": 3
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Repair_Time_1",
+  "nom": "Repairman 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseActionHoldTime_+%",
+    "valeur": -6
+   },
+   {
+    "stat": "BaseStaminaActionCost_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Repair_Time_2",
+  "nom": "Repairman 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseActionHoldTime_+%",
+    "valeur": -12
+   },
+   {
+    "stat": "BaseStaminaActionCost_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Rifle_Accuracy_1",
+  "nom": "Rifle Accuracy 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseRifleProjectileAccuracy_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseRifleCriticalDamage_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Rifle_Accuracy_2",
+  "nom": "Rifle Accuracy 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseRifleProjectileAccuracy_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseRifleCriticalDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "RockGolem_Attachment",
+  "nom": "Quarrite Protection",
+  "description": "",
+  "effets": [
+   {
+    "stat": "GrantedAuraPhysicalDamageResistance_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseHealthRegen_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Rotten_Meat_Lure",
+  "nom": "Rotten Meat Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchCommonFish_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Rubber_Lure",
+  "nom": "Rubber Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchRareFish_+%",
+    "valeur": 80
+   },
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Salted",
+  "nom": "Preserved",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseSpoilTime_+%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Arm_A",
+  "nom": "Reinforced Attachment",
+  "description": "Increases Projectile Damage",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Arm_B",
+  "nom": "Piercing Attachment",
+  "description": "Hardened Point Penetration and Extra Damage",
+  "effets": [
+   {
+    "stat": "BaseHardenedPointPenetration_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Arm_C",
+  "nom": "Streamlined Attachment",
+  "description": "Increases Reload Speed",
+  "effets": [
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 33
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Barrel_A",
+  "nom": "Rending Rail",
+  "description": "Increased Damage and Reload Speed, and Causes Bleed",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseBleed_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Barrel_B",
+  "nom": "Corrosive Rail",
+  "description": "Infuses Projectiles to Poison Damage and Chance to Inflict a Poison Debuff",
+  "effets": [
+   {
+    "stat": "BasePoisonDamage_+",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseAttacksCausePoison_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BasePoisonDamage_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Barrel_C",
+  "nom": "Miasmic Rail",
+  "description": "Creates a Toxic Cloud at Hit Location, Weakening and Damaging Enemies over time.",
+  "effets": [
+   {
+    "stat": "BaseChanceSandwormCrossbowSpawnsToxicGas_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Launcher_A",
+  "nom": "Impaling Launcher",
+  "description": "Pin Enemies to the Spot",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseImmobilise_%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Launcher_B",
+  "nom": "Precise Launcher",
+  "description": "Critical Damage Boost",
+  "effets": [
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 100
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Launcher_C",
+  "nom": "Heavy Launcher",
+  "description": "Increase the Raw Damage of the Launcher",
+  "effets": [
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseProjectileSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Stock_A",
+  "nom": "Farsight Stock",
+  "description": "Increased Zoom and Accuracy when Aiming",
+  "effets": [
+   {
+    "stat": "BaseAimDownSightsZoom_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseAimDownSightsSpeed_+%",
+    "valeur": -10
+   },
+   {
+    "stat": "BaseProjectileAimingSpreadHorizontal_+",
+    "valeur": -15
+   },
+   {
+    "stat": "BaseProjectileAimingSpreadVertical_+",
+    "valeur": -15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Stock_B",
+  "nom": "Lightweight Stock",
+  "description": "Reduced Movement Penalties",
+  "effets": [
+   {
+    "stat": "BaseMovementSpeed_+%",
+    "valeur": 5
+   },
+   {
+    "stat": "BaseMovementSpeedWhileReloading_+%",
+    "valeur": 30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SandwormCrossbow_Stock_C",
+  "nom": "Signal Stock",
+  "description": "Shows Bosses on Map and Highlights Shot Javelins",
+  "effets": [
+   {
+    "stat": "MapCanSeeWorldBosses_?",
+    "valeur": 1
+   },
+   {
+    "stat": "HighlightShotProjectile_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseChanceProjectilesBreak_%",
+    "valeur": -5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Sandwyrm_Lure",
+  "nom": "Sandwyrm Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "CaughtFishWeight_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "ScoriaYield_1",
+  "nom": "Scoriasmith 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShatteringScoriaRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "ScoriaYield_2",
+  "nom": "Scoriasmith 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseShatteringScoriaRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Barrel_A",
+  "nom": "Focusing Barrel",
+  "description": "Shots have a Chance to Mark the Target, Increasing Damage from the next hit",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseMarkedTarget_%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Barrel_B",
+  "nom": "Bounce Barrel",
+  "description": "Bullets Ricochet off Surfaces and Targets",
+  "effets": [
+   {
+    "stat": "BaseProjectileRicochetCount_+",
+    "valeur": 3
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Barrel_C",
+  "nom": "Homing Barrel",
+  "description": "Smart Targeting Allows Projectiles to Home in on Targets",
+  "effets": [
+   {
+    "stat": "BaseBulletHomingBehaviourEnabled_?",
+    "valeur": 1
+   },
+   {
+    "stat": "ShouldForceAimAssist_?",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseHomingMagnitude_+%",
+    "valeur": 25000
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Chamber_A",
+  "nom": "Miasma Infuser",
+  "description": "Adds Poison Damage and a Chance to Inflict Miasma",
+  "effets": [
+   {
+    "stat": "BasePoisonDamage_+",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAttacksCauseMiasma_%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Chamber_B",
+  "nom": "Fire Infuser",
+  "description": "Adds Fire Damage and a Chance to Inflict Burn",
+  "effets": [
+   {
+    "stat": "BaseFireDamage_+",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAttacksCauseBurn_%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Chamber_C",
+  "nom": "Frost Infuser",
+  "description": "Adds Frost Damage and a Chance to Inflict Freeze",
+  "effets": [
+   {
+    "stat": "BaseFrostDamage_+",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseAttacksCauseFreeze_%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Mag_A",
+  "nom": "Heavy Magazine",
+  "description": "Lower Capacity but Hits Harder",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": -3
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 50
+   },
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Mag_B",
+  "nom": "Agile Magazine",
+  "description": "Increase to Reload Speed and Damage",
+  "effets": [
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Mag_C",
+  "nom": "Loaded Magazine",
+  "description": "More Capacity but Less Reload Speed",
+  "effets": [
+   {
+    "stat": "BaseAmmoCapacity_+",
+    "valeur": 6
+   },
+   {
+    "stat": "BaseReloadSpeed_+%",
+    "valeur": -25
+   },
+   {
+    "stat": "BaseRateOfFirePerMinute_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseProjectileDamage_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Stock_A",
+  "nom": "Stacking Stock",
+  "description": "Chance to Inflict a Vulnerable Debuff, Increasing Damage Taken on Targets",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseVulnerable_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Stock_B",
+  "nom": "Lucky Stock",
+  "description": "Chance to Not Consume Ammo",
+  "effets": [
+   {
+    "stat": "BaseChanceToNotConsumeAmmo_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Stock_C",
+  "nom": "Precision Stock",
+  "description": "Hit Weak and Strong Points Harder",
+  "effets": [
+   {
+    "stat": "BaseCriticalDamage_+%",
+    "valeur": 25
+   },
+   {
+    "stat": "BaseHardenedPointDamage_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scorpion_Tail_Lure",
+  "nom": "Scorpion Tail Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 35
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Scyther_Attachment",
+  "nom": "Scyther Adaption",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseSwimSpeed_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseMeleeDamageResistance_%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Seed_Harvester",
+  "nom": "Seed Harvester",
+  "description": "Allows collection of seeds while harvesting at the penalty of slightly reduced yields",
+  "effets": [
+   {
+    "stat": "BaseReapingRewards_%",
+    "valeur": -15
+   },
+   {
+    "stat": "CanHarvestSeeds_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Sledgehammer_Slow_1",
+  "nom": "Sledge Slow 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseSlow_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Sledgehammer_Slow_2",
+  "nom": "Sledge Slow 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseSlow_%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Slug_Attachment",
+  "nom": "Hammerhead Slug Slime",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseAttacksCauseSlow_%",
+    "valeur": 30
+   },
+   {
+    "stat": "BaseSlowResistance_%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "SmeltingSpeed_1",
+  "nom": "Well Stoked 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseSmeltingSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "ANY( Item.Crafting.Furnace )",
+  "craftable": true
+ },
+ {
+  "rowName": "SmeltingSpeed_2",
+  "nom": "Well Stoked 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseSmeltingSpeed_+%",
+    "valeur": 15
+   }
+  ],
+  "legalSur": "ANY( Item.Crafting.Furnace )",
+  "craftable": true
+ },
+ {
+  "rowName": "Stealth_Movement_1",
+  "nom": "Stealthy 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseStealthThreatModifier_+%",
+    "valeur": -10
+   },
+   {
+    "stat": "BaseCrouchSpeed_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Stealth_Movement_2",
+  "nom": "Stealthy 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseStealthThreatModifier_+%",
+    "valeur": -20
+   },
+   {
+    "stat": "BaseCrouchSpeed_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Stomach_Capacity_1",
+  "nom": "Hearty 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumStomachFullness_+",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseFoodModifierDuration_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Stomach_Capacity_2",
+  "nom": "Hearty 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMaximumStomachFullness_+",
+    "valeur": 1
+   },
+   {
+    "stat": "BaseFoodModifierDuration_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Storage_1",
+  "nom": "Expanded 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseGenericSlots_+",
+    "valeur": 3
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.Storage )",
+  "craftable": true
+ },
+ {
+  "rowName": "Storage_2",
+  "nom": "Expanded 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseGenericSlots_+",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.Storage )",
+  "craftable": true
+ },
+ {
+  "rowName": "Storage_3",
+  "nom": "Expanded 3",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseGenericSlots_+",
+    "valeur": 8
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.Storage )",
+  "craftable": true
+ },
+ {
+  "rowName": "Storage_4",
+  "nom": "Expanded 4",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseGenericSlots_+",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "ALL( Item.Deployable.Storage )",
+  "craftable": true
+ },
+ {
+  "rowName": "Storm_Resistance_1",
+  "nom": "Storm Rider 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseStormStaminaRegen_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseExposureResistance_+%",
+    "valeur": 5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Storm_Resistance_2",
+  "nom": "Storm Rider 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseStormStaminaRegen_+%",
+    "valeur": 40
+   },
+   {
+    "stat": "BaseExposureResistance_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Thorned",
+  "nom": "Thorned",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseSpoilTime_+%",
+    "valeur": 50
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Threshing_1",
+  "nom": "Threshing",
+  "description": "",
+  "effets": [
+   {
+    "stat": "CanHarvestSeeds_?",
+    "valeur": 1
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Titanium_Yield_1",
+  "nom": "Titaniumsmith 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningTitaniumRewards_+%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Titanium_Yield_2",
+  "nom": "Titaniumsmith 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseMiningTitaniumRewards_+%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Tool_Durability_1",
+  "nom": "Tool Durability 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -5
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Tool_Durability_2",
+  "nom": "Tool Durability 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -15
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Tool_StaminaCost_1",
+  "nom": "Tool Stamina Cost 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseToolStaminaActionCost_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Tool_StaminaCost_2",
+  "nom": "Tool Stamina Cost 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseToolStaminaActionCost_+%",
+    "valeur": -30
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Tool_Use_1",
+  "nom": "Worksman 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseToolStaminaActionCost_+%",
+    "valeur": -15
+   },
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Tool_Use_2",
+  "nom": "Worksman 2",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseToolStaminaActionCost_+%",
+    "valeur": -30
+   },
+   {
+    "stat": "BaseItemWear_+%",
+    "valeur": -20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Total_Fall_Resistance",
+  "nom": "Surefooted 2",
+  "description": "No Fall Damage",
+  "effets": [
+   {
+    "stat": "BaseFallDamageResistance_%",
+    "valeur": 100
+   },
+   {
+    "stat": "BaseChanceToResistSprain_%",
+    "valeur": 40
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Treated_Water",
+  "nom": "Contains Treated Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Warming",
+  "nom": "Contains Warm Water",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "White_Jelly_Lure",
+  "nom": "White Jelly Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchRareFish_+%",
+    "valeur": 80
+   },
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 20
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Wild_Tea",
+  "nom": "Contains Gorse Tea",
+  "description": "",
+  "effets": [],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "WindResistance_1",
+  "nom": "Sturdy 1",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseWindDamageResistance_%",
+    "valeur": 25
+   }
+  ],
+  "legalSur": "ALL(  ALL( Traits.Buildable ),  ANY( Building.Wood, Building.InteriorWood ) )",
+  "craftable": true
+ },
+ {
+  "rowName": "Wolf_Lure",
+  "nom": "Wolf Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseFishingCaptureZoneSize_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Wood_Lure",
+  "nom": "Wood Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseCaughtSaltwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishWeight_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ },
+ {
+  "rowName": "Yeast_Lure",
+  "nom": "Yeast Lure",
+  "description": "",
+  "effets": [
+   {
+    "stat": "BaseChanceToCatchUncommonFish_+%",
+    "valeur": 20
+   },
+   {
+    "stat": "BaseCaughtFreshwaterFishQuality_+%",
+    "valeur": 10
+   },
+   {
+    "stat": "BaseCaughtFishLength_+%",
+    "valeur": 10
+   }
+  ],
+  "legalSur": "aucune (injection d'instance seulement)",
+  "craftable": false
+ }
+]

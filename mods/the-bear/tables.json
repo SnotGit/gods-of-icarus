@@ -1,0 +1,2403 @@
+{
+ "BASES": {
+  "TheBear_Brown": [
+   2895.8,
+   425
+  ],
+  "TheBear_Polar": [
+   2895.8,
+   425
+  ]
+ },
+ "tables": {
+  "D_Mounts": {
+   "Rows": [
+    {
+     "Name": "TheBear_Brown",
+     "AISetup": {
+      "RowName": "Mount_TheBear_Brown"
+     },
+     "Icon": "/Game/Assets/2DArt/UI/FieldGuide/Creatures/Conifer/T_Bestiary_Bear.T_Bestiary_Bear",
+     "Variations": [
+      {
+       "bCanBeSelected": true,
+       "bCanBeSelectedByForcedEvolution": false,
+       "MeshMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly.M_CRE_Bear_Grizzly"
+       },
+       "GFurMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly_fur.M_CRE_Bear_Grizzly_fur"
+       },
+       "CarcassMeshMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly_carc.M_CRE_Bear_Grizzly_carc"
+       },
+       "CarcassGFurMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly_fur_carc.M_CRE_Bear_Grizzly_fur_carc"
+       },
+       "Weighting": 2000
+      },
+      {
+       "bCanBeSelected": true,
+       "bCanBeSelectedByForcedEvolution": false,
+       "MeshMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly.M_CRE_Bear_Grizzly"
+       },
+       "GFurMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly_Contaminated_fur.M_CRE_Bear_Grizzly_Contaminated_fur"
+       },
+       "CarcassMeshMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly_carc.M_CRE_Bear_Grizzly_carc"
+       },
+       "CarcassGFurMaterials": {
+        "0": "/Game/ASS/CRE/GrizzlyBear/M_CRE_Bear_Grizzly_fur_carc.M_CRE_Bear_Grizzly_fur_carc"
+       },
+       "Weighting": 50
+      }
+     ],
+     "RelevantSaddleQuery": {
+      "RowName": "Any_Saddle"
+     },
+     "SupportedCombatStates": [
+      "DoNotEngage",
+      "NeutralEngagement",
+      "AggressiveEngagement"
+     ],
+     "SupportedMovementStates": [
+      "Follow",
+      "IdleWander",
+      "IdleStanding",
+      "IdleLying"
+     ],
+     "Animations": {
+      "(TagName=\"BT.Mount.Animation.IdleStanding\")": "/Game/ThirdPartyAssets/AnimalsVol01/Bear/Meshes/Animations/Montages/Bear_Stand_Idle_Montage.Bear_Stand_Idle_Montage",
+      "(TagName=\"BT.Mount.Animation.Rest\")": "/Game/ThirdPartyAssets/AnimalsVol01/Bear/Meshes/Animations/Montages/Bear_Rest_Montage.Bear_Rest_Montage",
+      "(TagName=\"BT.Mount.Animation.Eat\")": "/Game/ThirdPartyAssets/AnimalsVol01/Bear/Meshes/Animations/Montages/Bear_Stand_Eating_Montage.Bear_Stand_Eating_Montage",
+      "(TagName=\"BT.Mount.Animation.Jump\")": "/Game/TheBear/AM_TheBear_Jump.AM_TheBear_Jump",
+      "(TagName=\"BT.Mount.Animation.Attack\")": "/Game/TheBear/AM_TheBear_Attack.AM_TheBear_Attack"
+     },
+     "InventoryPreviewCameraSettings": {
+      "RowName": "Mount_Buffalo"
+     },
+     "DefaultNames": [
+      "NSLOCTEXT(\"D_Mounts\", \"TheBear_Brown-DefaultNames-0\", \"The Bear\")"
+     ],
+     "MapIcon": {
+      "RowName": "Mount"
+     },
+     "RelativeFeetOffset": {
+      "Y": 10,
+      "Z": 10
+     },
+     "RelativeLightOffset": {
+      "X": 5.577991962432861,
+      "Y": -33.10087585449219,
+      "Z": 66
+     },
+     "MountTalentArchetype": {
+      "RowName": "Creature_TheBear"
+     },
+     "bUseTemperature": true
+    },
+    {
+     "Name": "TheBear_Polar",
+     "AISetup": {
+      "RowName": "Mount_TheBear_Polar"
+     },
+     "Icon": "/Game/Assets/2DArt/UI/FieldGuide/Creatures/Arctic/T_Bestiary_PolarBear.T_Bestiary_PolarBear",
+     "Variations": [
+      {
+       "bCanBeSelected": true,
+       "bCanBeSelectedByForcedEvolution": false,
+       "MeshMaterials": {
+        "0": "/Game/ASS/CRE/Bear/PolarBear/M_CRE_Bear_Polar.M_CRE_Bear_Polar"
+       },
+       "GFurMaterials": {
+        "0": "/Game/ASS/CRE/Bear/PolarBear/M_CRE_Bear_Polar_fur.M_CRE_Bear_Polar_fur"
+       },
+       "CarcassMeshMaterials": {
+        "0": "/Game/ASS/CRE/Bear/PolarBear/M_CRE_Bear_Polar_carc.M_CRE_Bear_Polar_carc"
+       },
+       "CarcassGFurMaterials": {
+        "0": "/Game/ASS/CRE/Bear/PolarBear/M_CRE_Bear_Polar_fur_carc.M_CRE_Bear_Polar_fur_carc"
+       },
+       "Weighting": 2000
+      }
+     ],
+     "RelevantSaddleQuery": {
+      "RowName": "Any_Saddle"
+     },
+     "SupportedCombatStates": [
+      "DoNotEngage",
+      "NeutralEngagement",
+      "AggressiveEngagement"
+     ],
+     "SupportedMovementStates": [
+      "Follow",
+      "IdleWander",
+      "IdleStanding",
+      "IdleLying"
+     ],
+     "Animations": {
+      "(TagName=\"BT.Mount.Animation.IdleStanding\")": "/Game/ThirdPartyAssets/AnimalsVol01/Bear/Meshes/Animations/Montages/Bear_Stand_Idle_Montage.Bear_Stand_Idle_Montage",
+      "(TagName=\"BT.Mount.Animation.Rest\")": "/Game/ThirdPartyAssets/AnimalsVol01/Bear/Meshes/Animations/Montages/Bear_Rest_Montage.Bear_Rest_Montage",
+      "(TagName=\"BT.Mount.Animation.Eat\")": "/Game/ThirdPartyAssets/AnimalsVol01/Bear/Meshes/Animations/Montages/Bear_Stand_Eating_Montage.Bear_Stand_Eating_Montage",
+      "(TagName=\"BT.Mount.Animation.Jump\")": "/Game/TheBear/AM_TheBear_Jump.AM_TheBear_Jump",
+      "(TagName=\"BT.Mount.Animation.Attack\")": "/Game/TheBear/AM_TheBear_Attack.AM_TheBear_Attack"
+     },
+     "InventoryPreviewCameraSettings": {
+      "RowName": "Mount_Buffalo"
+     },
+     "DefaultNames": [
+      "NSLOCTEXT(\"D_Mounts\", \"TheBear_Polar-DefaultNames-0\", \"The Polar Bear\")"
+     ],
+     "MapIcon": {
+      "RowName": "Mount"
+     },
+     "RelativeFeetOffset": {
+      "Y": 10,
+      "Z": 10
+     },
+     "RelativeLightOffset": {
+      "X": 5.577991962432861,
+      "Y": -33.10087585449219,
+      "Z": 66
+     },
+     "MountTalentArchetype": {
+      "RowName": "Creature_TheBear"
+     },
+     "bUseTemperature": true
+    }
+   ]
+  },
+  "D_AISetup": {
+   "Rows": [
+    {
+     "Name": "Mount_TheBear_Brown",
+     "ActorClass": "/Game/TheBear/BP_Mount_TheBear.BP_Mount_TheBear_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "TheBear_Brown"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_Bear"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Mount_TheBear_Brown"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 0,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 125,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 125,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 125,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 4.210000038146973,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 150,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 5.800000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 600,
+       "BrakingDeceleration": 800,
+       "RotationRate": 150,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.449999809265137,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 900,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 175,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 8,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 900,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 175,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.449999809265137,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 150,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 2000,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "TheBearMount_Brown"
+     },
+     "CollisionHitEventBones": [
+      "RigChest",
+      "RigSpine1",
+      "RigSpine2",
+      "RigHead"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       1,
+       0
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait )"
+     },
+     "Trophy": {
+      "RowName": "Bear_Head"
+     },
+     "Loot": {
+      "RowName": "Bear_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Large"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Bear"
+     }
+    },
+    {
+     "Name": "Mount_TheBear_Polar",
+     "ActorClass": "/Game/TheBear/BP_Mount_TheBear_Polar.BP_Mount_TheBear_Polar_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "TheBear_Polar"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_PolarBear"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Mount_TheBear_Polar"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 0,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 125,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 125,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 125,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 4.210000038146973,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 150,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 5.800000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 600,
+       "BrakingDeceleration": 800,
+       "RotationRate": 150,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.449999809265137,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 900,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 175,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 8,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 900,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 175,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.449999809265137,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 150,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 2000,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "TheBearMount_Polar"
+     },
+     "CollisionHitEventBones": [
+      "RigNeck2",
+      "RigSpine2",
+      "RigPelvis"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       1,
+       0
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait )"
+     },
+     "Trophy": {
+      "RowName": "PolarBear_Head"
+     },
+     "Loot": {
+      "RowName": "PolarBear_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Large"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Polar_Bear"
+     }
+    }
+   ]
+  },
+  "D_AIGrowth": {
+   "Rows": [
+    {
+     "Name": "Mount_TheBear_Brown",
+     "Base": {
+      "(Value=\"BaseMovementSpeed_+\")": 190,
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 10,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 5000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 7500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseCharacterMass_+\")": 500,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseNPCMinTargetDistanceForCharge_+\")": 300,
+      "(Value=\"BaseNPCMaxTargetDistanceForCharge_+\")": 1500,
+      "(Value=\"BaseNPCChargeAttackCooldown_+\")": 10,
+      "(Value=\"CanNPCDamageVoxels_?\")": 0,
+      "(Value=\"BaseMiningRadius_+\")": 0,
+      "(Value=\"BaseStaminaRegenPerMinute_+\")": 2100,
+      "(Value=\"BaseStaminaRegenFromEmptyDelay_+\")": 5000,
+      "(Value=\"BaseStaminaRegenDelay_+\")": 2000,
+      "(Value=\"BaseWeightCapacity_+\")": 100,
+      "(Value=\"BaseMaximumOxygen_+\")": 300,
+      "(Value=\"BaseMaximumFood_+\")": 300,
+      "(Value=\"BaseMaximumWater_+\")": 300,
+      "(Value=\"BaseStaminaConsumed_+%\")": 0,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 240,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 120,
+      "(Value=\"BaseOxygenConsumptionPerHour_+\")": 0,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseFallDamageResistance_%\")": 15,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMeleeDamage_+%\")": 50
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_Mount_SlinkerHealth.C_Mount_SlinkerHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_Mount_SlinkerMeleeDamage.C_Mount_SlinkerMeleeDamage'",
+     "CustomStats": [
+      {
+       "Stat": {
+        "Value": "BaseMaximumStamina_+"
+       },
+       "Curve": "CurveFloat'/Game/Data/AI/Curves/C_Mount_Slinker_Stamina.C_Mount_Slinker_Stamina'"
+      }
+     ],
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_GenericExperience.C_GenericExperience'"
+    },
+    {
+     "Name": "Mount_TheBear_Polar",
+     "Base": {
+      "(Value=\"BaseMovementSpeed_+\")": 190,
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 10,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 5000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 7500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseCharacterMass_+\")": 500,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseNPCMinTargetDistanceForCharge_+\")": 300,
+      "(Value=\"BaseNPCMaxTargetDistanceForCharge_+\")": 1500,
+      "(Value=\"BaseNPCChargeAttackCooldown_+\")": 10,
+      "(Value=\"CanNPCDamageVoxels_?\")": 0,
+      "(Value=\"BaseMiningRadius_+\")": 0,
+      "(Value=\"BaseStaminaRegenPerMinute_+\")": 2100,
+      "(Value=\"BaseStaminaRegenFromEmptyDelay_+\")": 5000,
+      "(Value=\"BaseStaminaRegenDelay_+\")": 2000,
+      "(Value=\"BaseWeightCapacity_+\")": 100,
+      "(Value=\"BaseMaximumOxygen_+\")": 300,
+      "(Value=\"BaseMaximumFood_+\")": 300,
+      "(Value=\"BaseMaximumWater_+\")": 300,
+      "(Value=\"BaseStaminaConsumed_+%\")": 0,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 240,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 120,
+      "(Value=\"BaseOxygenConsumptionPerHour_+\")": 0,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseFallDamageResistance_%\")": 15,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMeleeDamage_+%\")": 50
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_Mount_SlinkerHealth.C_Mount_SlinkerHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_Mount_SlinkerMeleeDamage.C_Mount_SlinkerMeleeDamage'",
+     "CustomStats": [
+      {
+       "Stat": {
+        "Value": "BaseMaximumStamina_+"
+       },
+       "Curve": "CurveFloat'/Game/Data/AI/Curves/C_Mount_Slinker_Stamina.C_Mount_Slinker_Stamina'"
+      }
+     ],
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_GenericExperience.C_GenericExperience'"
+    }
+   ]
+  },
+  "D_AICreatureType": {
+   "Rows": [
+    {
+     "Name": "TheBear_Brown",
+     "CreatureName": "NSLOCTEXT(\"D_AICreatureType\", \"TheBear_Brown-CreatureName\", \"The Bear\")",
+     "Tag": {
+      "TagName": "NPC.Bear"
+     },
+     "SpawnStat": {
+      "Value": "BearSpawnRate_+%"
+     },
+     "AdditionalDamageStat": {
+      "Value": "BearExtraDamage_+%"
+     },
+     "AdditionalResistanceStat": {
+      "Value": "BearExtraDamageResistance_+%"
+     },
+     "SkinningXPEvent": {
+      "RowName": "Skin_Bear"
+     }
+    },
+    {
+     "Name": "TheBear_Polar",
+     "CreatureName": "NSLOCTEXT(\"D_AICreatureType\", \"TheBear_Polar-CreatureName\", \"The Polar Bear\")",
+     "Tag": {
+      "TagName": "NPC.PolarBear"
+     },
+     "SpawnStat": {
+      "Value": "PolarBearSpawnRate_+%"
+     },
+     "AdditionalDamageStat": {
+      "Value": "PolarBearExtraDamage_+%"
+     },
+     "AdditionalResistanceStat": {
+      "Value": "PolarBearExtraDamageResistance_+%"
+     },
+     "SkinningXPEvent": {
+      "RowName": "Skin_PolarBear"
+     }
+    }
+   ]
+  },
+  "D_AIAudioData": {
+   "Rows": [
+    {
+     "Name": "TheBearMount_Brown",
+     "FootstepSound": "/Game/FMOD/Events/SFX/Creatures/Footsteps/Bear/SFX_CRE_FOOTSTEPS_BEAR.SFX_CRE_FOOTSTEPS_BEAR",
+     "FrontFootSocket": "RigNeck2",
+     "RearFootSocket": "RigTail1",
+     "MovementSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_FOLIAGE_LARGE.SFX_CRE_FOLIAGE_LARGE",
+     "DeathCollisionSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_BODY_FALL_MEDIUM.SFX_CRE_BODY_FALL_MEDIUM",
+     "DeathCollisionSocket": "RigChest",
+     "WaterDeathSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_DEATHFALL_WATER_MED.SFX_CRE_DEATHFALL_WATER_MED",
+     "VocalisationSocket": "RigJaw",
+     "AttackVocalisation": {
+      "RowName": "BearAttack"
+     },
+     "FlinchVocalisation": {
+      "RowName": "BearFlinch"
+     },
+     "DeathVocalisation": {
+      "RowName": "BearDeath"
+     },
+     "StateVocalisations": {
+      "Idle": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "BearIdle",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Attacking": {
+       "StateEnteredVocalisation": {
+        "RowName": "BearSpot",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "BearAttacking",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      }
+     },
+     "FootstepMaxDistance": 6000,
+     "FoliageCheckMaxDistance": 6000
+    },
+    {
+     "Name": "TheBearMount_Polar",
+     "FootstepSound": "/Game/FMOD/Events/SFX/Creatures/Footsteps/Bear/SFX_CRE_FOOTSTEPS_BEAR.SFX_CRE_FOOTSTEPS_BEAR",
+     "FrontFootSocket": "RigNeck2",
+     "RearFootSocket": "RigTail1",
+     "MovementSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_FOLIAGE_LARGE.SFX_CRE_FOLIAGE_LARGE",
+     "DeathCollisionSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_BODY_FALL_LARGE.SFX_CRE_BODY_FALL_LARGE",
+     "DeathCollisionSocket": "RigSpine2",
+     "WaterDeathSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_DEATHFALL_WATER_LARGE.SFX_CRE_DEATHFALL_WATER_LARGE",
+     "VocalisationSocket": "RigJaw1",
+     "AttackVocalisation": {
+      "RowName": "PolarBearAttack"
+     },
+     "FlinchVocalisation": {
+      "RowName": "PolarBearFlinch"
+     },
+     "DeathVocalisation": {
+      "RowName": "PolarBearDeath"
+     },
+     "StateVocalisations": {
+      "Idle": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "PolarBearIdle",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Attacking": {
+       "StateEnteredVocalisation": {
+        "RowName": "PolarBearSpot",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "PolarBearAttacking",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      }
+     },
+     "FootstepMaxDistance": 6000,
+     "FoliageCheckMaxDistance": 6000
+    }
+   ]
+  },
+  "D_Saddles": {
+   "Rows": [
+    {
+     "Name": "Saddle_TheBear_Standard",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Standard"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Standard_Brown.SK_TheBear_Saddle_Standard_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Standard_Brown.T_TheBear_FurCull_Standard_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Standard",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Standard"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Standard_Polar.SK_TheBear_Saddle_Standard_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Standard_Polar.T_TheBear_FurCull_Standard_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Cargo",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Cargo"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Cargo_Brown.SK_TheBear_Saddle_Cargo_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Harness_Pack_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Harness_Pack_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Cargo_Brown.T_TheBear_FurCull_Cargo_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Cargo",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Cargo"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Cargo_Polar.SK_TheBear_Saddle_Cargo_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Harness_Pack_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Harness_Pack_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Cargo_Polar.T_TheBear_FurCull_Cargo_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Bearhide",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Bearhide"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_BearHide_Brown.SK_TheBear_Saddle_BearHide_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_BearHide_Brown.T_TheBear_FurCull_BearHide_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Bearhide",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Bearhide"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_BearHide_Polar.SK_TheBear_Saddle_BearHide_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_BearHide_Polar.T_TheBear_FurCull_BearHide_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_DeluxeLeather",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.DeluxeLeather"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_DeluxeLeather_Brown.SK_TheBear_Saddle_DeluxeLeather_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_DeluxeLeather_Brown.T_TheBear_FurCull_DeluxeLeather_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_DeluxeLeather",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.DeluxeLeather"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_DeluxeLeather_Polar.SK_TheBear_Saddle_DeluxeLeather_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_DeluxeLeather_Polar.T_TheBear_FurCull_DeluxeLeather_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_CrocSkin",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.CrocSkin"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_CrocSkin_Brown.SK_TheBear_Saddle_CrocSkin_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_CrocSkin_Brown.T_TheBear_FurCull_CrocSkin_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_CrocSkin",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.CrocSkin"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_CrocSkin_Polar.SK_TheBear_Saddle_CrocSkin_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_CrocSkin_Polar.T_TheBear_FurCull_CrocSkin_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Sandworm",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Sandworm"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Sandworm_Brown.SK_TheBear_Saddle_Sandworm_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Sandworm_Brown.T_TheBear_FurCull_Sandworm_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Sandworm",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Sandworm"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Sandworm_Polar.SK_TheBear_Saddle_Sandworm_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Sandworm_Polar.T_TheBear_FurCull_Sandworm_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Desert",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Desert"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Desert_Brown.SK_TheBear_Saddle_Desert_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Desert_Brown.T_TheBear_FurCull_Desert_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Desert",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Desert"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Desert_Polar.SK_TheBear_Saddle_Desert_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Desert_Polar.T_TheBear_FurCull_Desert_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Armored",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Armored"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Armored_Brown.SK_TheBear_Saddle_Armored_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Armored_Brown.T_TheBear_FurCull_Armored_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Armored",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Armored"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Armored_Polar.SK_TheBear_Saddle_Armored_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Armored_Polar.T_TheBear_FurCull_Armored_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Explorer",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Explorer"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Explorer_Brown.SK_TheBear_Saddle_Explorer_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Explorer_Brown.T_TheBear_FurCull_Explorer_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Explorer",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Explorer"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Explorer_Polar.SK_TheBear_Saddle_Explorer_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Explorer_Polar.T_TheBear_FurCull_Explorer_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Racing",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Racing"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Racing_Brown.SK_TheBear_Saddle_Racing_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Racing_Brown.T_TheBear_FurCull_Racing_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Racing",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Racing"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Racing_Polar.SK_TheBear_Saddle_Racing_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Racing_Polar.T_TheBear_FurCull_Racing_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Arctic",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Arctic"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Standard_Brown.SK_TheBear_Saddle_Standard_Brown",
+     "SkeletalMeshMaterialOverride": "/Game/ASS/ITM/M_ITM_Saddle_Arctic.M_ITM_Saddle_Arctic",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Standard_Brown.T_TheBear_FurCull_Standard_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Arctic",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Arctic"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Standard_Polar.SK_TheBear_Saddle_Standard_Polar",
+     "SkeletalMeshMaterialOverride": "/Game/ASS/ITM/M_ITM_Saddle_Arctic.M_ITM_Saddle_Arctic",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Standard_Polar.T_TheBear_FurCull_Standard_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Basic_Desert",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.BasicDesert"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Standard_Brown.SK_TheBear_Saddle_Standard_Brown",
+     "SkeletalMeshMaterialOverride": "/Game/ASS/ITM/M_ITM_Saddle_Desert.M_ITM_Saddle_Desert",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Standard_Brown.T_TheBear_FurCull_Standard_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Basic_Desert",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.BasicDesert"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Standard_Polar.SK_TheBear_Saddle_Standard_Polar",
+     "SkeletalMeshMaterialOverride": "/Game/ASS/ITM/M_ITM_Saddle_Desert.M_ITM_Saddle_Desert",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Standard_Polar.T_TheBear_FurCull_Standard_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_ArcticSurvival",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.ArcticSurvival"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_ArcticSurvival_Brown.SK_TheBear_Saddle_ArcticSurvival_Brown",
+     "SkeletalMeshMaterialOverride": "/Game/ASS/ITM/Saddle_Arctic_Survival/M_ITM_Saddle_Arctic_Survival.M_ITM_Saddle_Arctic_Survival",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_ArcticSurvival_Brown.T_TheBear_FurCull_ArcticSurvival_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_ArcticSurvival",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.ArcticSurvival"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_ArcticSurvival_Polar.SK_TheBear_Saddle_ArcticSurvival_Polar",
+     "SkeletalMeshMaterialOverride": "/Game/ASS/ITM/Saddle_Arctic_Survival/M_ITM_Saddle_Arctic_Survival.M_ITM_Saddle_Arctic_Survival",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_ArcticSurvival_Polar.T_TheBear_FurCull_ArcticSurvival_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_QuickTamer",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.QuickTamer"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_QuickTamer_Brown.SK_TheBear_Saddle_QuickTamer_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "DangerousHorizons"
+      }
+     },
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_QuickTamer_Brown.T_TheBear_FurCull_QuickTamer_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_QuickTamer",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.QuickTamer"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_QuickTamer_Polar.SK_TheBear_Saddle_QuickTamer_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "DangerousHorizons"
+      }
+     },
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_QuickTamer_Polar.T_TheBear_FurCull_QuickTamer_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Carrier",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Carrier"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Carrier_Brown.SK_TheBear_Saddle_Carrier_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "DangerousHorizons"
+      }
+     },
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Carrier_Brown.T_TheBear_FurCull_Carrier_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Carrier",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Carrier"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Carrier_Polar.SK_TheBear_Saddle_Carrier_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "DangerousHorizons"
+      }
+     },
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Carrier_Polar.T_TheBear_FurCull_Carrier_Polar"
+    },
+    {
+     "Name": "Saddle_TheBear_Radiation",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Radiation"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Brown",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Radiation_Brown.SK_TheBear_Saddle_Radiation_Brown",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Radiation_Brown.T_TheBear_FurCull_Radiation_Brown"
+    },
+    {
+     "Name": "Saddle_TheBearPolar_Radiation",
+     "SaddleTag": {
+      "TagName": "Item.Mount.Saddle.Radiation"
+     },
+     "SupportedMount": [
+      {
+       "RowName": "TheBear_Polar",
+       "DataTableName": "D_Mounts"
+      }
+     ],
+     "SkeletalMesh": "/Game/TheBear/Saddles/SK_TheBear_Saddle_Radiation_Polar.SK_TheBear_Saddle_Radiation_Polar",
+     "SaddleAnimBlueprint": "/Game/ASS/ITM/SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint.SK_ITM_Saddle_Buffalo_Skeleton_AnimBlueprint_C",
+     "SaddleBlueprint": "BlueprintGeneratedClass'/Game/BP/Mounts/BP_Seat_Mount.BP_Seat_Mount_C'",
+     "AttachSocket": "RigRoot",
+     "FurCullMask": "/Game/TheBear/Saddles/T_TheBear_FurCull_Radiation_Polar.T_TheBear_FurCull_Radiation_Polar"
+    }
+   ]
+  },
+  "D_TalentArchetypes": {
+   "Rows": [
+    {
+     "Name": "Creature_TheBear",
+     "Model": {
+      "RowName": "Creature"
+     },
+     "DisplayName": "NSLOCTEXT(\"D_TalentArchetypes\", \"Creature_TheBear-DisplayName\", \"The Bear\")",
+     "BackgroundTexture": "/Game/Assets/2DArt/UI/FieldGuide/Creatures/Conifer/T_Bestiary_Bear.T_Bestiary_Bear",
+     "Icon": "/Game/Assets/2DArt/UI/Icons/BossMonsters/Icon_Wolf.Icon_Wolf"
+    }
+   ]
+  },
+  "D_TalentTrees": {
+   "Rows": [
+    {
+     "Name": "Creature_TheBear",
+     "DisplayName": "NSLOCTEXT(\"D_TalentTrees\", \"Creature_TheBear-DisplayName\", \"The Bear\")",
+     "Icon": "/Game/Assets/2DArt/UI/Icons/Icon_ShipThrust.Icon_ShipThrust",
+     "Archetype": {
+      "RowName": "Creature_TheBear"
+     },
+     "FirstRank": {
+      "RowName": "Novice"
+     }
+    }
+   ]
+  },
+  "D_Talents": {
+   "Rows": [
+    {
+     "Name": "TheBear_Health",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_Health-DisplayName\", \"Wild Fortitude\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_Health-Description\", \"Increased Maximum Health\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_Health.T_Talent_Base_Health",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 300,
+      "Y": 500
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumHealth_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumHealth_+%\")": 10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumHealth_+%\")": 20
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumHealth_+%\")": 35
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "Creature_TheBear",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_ReducedFoodConsumption",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_ReducedFoodConsumption-DisplayName\", \"Metabolic Preservation\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_ReducedFoodConsumption-Description\", \"Reduced Food Usage\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedFoodConsumption.T_Talent_Base_ReducedFoodConsumption",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 500,
+      "Y": 700
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodConsumption_+%\")": -2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodConsumption_+%\")": -5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodConsumption_+%\")": -10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodConsumption_+%\")": -20
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "Creature_TheBear",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_SlowResistance",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_SlowResistance-DisplayName\", \"Riding Forward\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_SlowResistance-Description\", \"Increased Slow Resistance\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_SlowResistance.T_Talent_Base_SlowResistance",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 300,
+      "Y": 700
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseSlowResistance_%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseSlowResistance_%\")": 10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseSlowResistance_%\")": 20
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseSlowResistance_%\")": 40
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Health",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_WeightCapacity",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_WeightCapacity-DisplayName\", \"Strong Back\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_WeightCapacity-Description\", \"Increased Weight Capacity\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_WeightCapacity.T_Talent_Base_WeightCapacity",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 100,
+      "Y": 300
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWeightCapacity_+%\")": 2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWeightCapacity_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWeightCapacity_+%\")": 10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWeightCapacity_+%\")": 20
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Health",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "Creature_TheBear",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Creature_Slinker-DisplayName\", \"Slinker\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Creature_Slinker-Description\", \"Can specialize into combat damage modifiers or bonus to jumping\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_Slinker.T_Talent_Base_Slinker",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 500,
+      "Y": 500
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {},
+       "GrantedFlags": [
+        {
+         "RowName": "None",
+         "DataTableName": "D_CharacterFlags"
+        }
+       ]
+      }
+     ],
+     "bDefaultUnlocked": true,
+     "DrawMethodOverride": "YThenX"
+    },
+    {
+     "Name": "TheBear_Stamina",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_Stamina-DisplayName\", \"Natural Endurance\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_Stamina-Description\", \"Increased Maximum Stamina\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_Stamina.T_Talent_Base_Stamina",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 700,
+      "Y": 500
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumStamina_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumStamina_+%\")": 10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumStamina_+%\")": 20
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMaximumStamina_+%\")": 35
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "Creature_TheBear",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_FallDamageReduction",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_FallDamageReduction-DisplayName\", \"Catlike Grace\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_FallDamageReduction-Description\", \"Increased Fall Damage Reduction, Final Level Negates Fall Damage Completely\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FallDamageReduction.T_Talent_Base_FallDamageReduction",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 700,
+      "Y": 100
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFallDamageResistance_%\")": 15
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFallDamageResistance_%\")": 35
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFallDamageResistance_%\")": 65
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFallDamageResistance_%\")": 100,
+        "(Value=\"HasFallDamageImmunity_?\")": 1
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "CombatPet_Damage_TheBear",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_HealthRegeneration",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_HealthRegeneration-DisplayName\", \"Nurtured Recovery\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_HealthRegeneration-Description\", \"Increased Health Regeneration\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_HealthRegeneration.T_Talent_Base_HealthRegeneration",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 100,
+      "Y": 500
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseHealthRegen_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseHealthRegen_+%\")": 15
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseHealthRegen_+%\")": 30
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseHealthRegen_+%\")": 60
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Health",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_ReducedThreat",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_ReducedThreat-DisplayName\", \"Soft Padding\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_ReducedThreat-Description\", \"Reduced Animal Threat\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Wolf_MarkOnHit.T_Talent_Wolf_MarkOnHit",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 900,
+      "Y": 700
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAnimalThreatModifier_+%\")": -2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAnimalThreatModifier_+%\")": -5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAnimalThreatModifier_+%\")": -10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAnimalThreatModifier_+%\")": -20
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Stamina",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_FoodSlot",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_FoodSlot-DisplayName\", \"Large Stomach\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_FoodSlot-Description\", \"Increases Food Buff Effectiveness and allows an additional Food Buff\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodSlot.T_Talent_Base_FoodSlot",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 100,
+      "Y": 900
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFruitAndVegeModifierEffectiveness_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFruitAndVegeModifierEffectiveness_+%\")": 12
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFruitAndVegeModifierEffectiveness_+%\")": 15,
+        "(Value=\"BaseMaximumStomachFullness_+\")": 1
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_FoodBuffDuration",
+       "DataTableName": "D_Talents"
+      },
+      {
+       "RowName": "TheBear_DamageReduction",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_StaminaRegeneration",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_StaminaRegeneration-DisplayName\", \"Roaming Vitality\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_StaminaRegeneration-Description\", \"Increased Stamina Regeneration\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_StaminaRegeneration.T_Talent_Base_StaminaRegeneration",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 700,
+      "Y": 900
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseStaminaRegen_+%\")": 2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseStaminaRegen_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseStaminaRegen_+%\")": 10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseStaminaRegen_+%\")": 20
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_ReducedFoodConsumption",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_ReducedWaterUsage",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_ReducedWaterUsage-DisplayName\", \"Hydration Elasticity \")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_ReducedWaterUsage-Description\", \"Reduced Water Consumption\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_ReducedWaterUsage.T_Talent_Base_ReducedWaterUsage",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 500,
+      "Y": 900
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWaterConsumption_+%\")": -2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWaterConsumption_+%\")": -5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWaterConsumption_+%\")": -10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseWaterConsumption_+%\")": -20
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_ReducedFoodConsumption",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_FoodBuffDuration",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_FoodBuffDuration-DisplayName\", \"Perfect Pasturage\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_FoodBuffDuration-Description\", \"Increased Food Effects Duration\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_FoodBuffDuration.T_Talent_Base_FoodBuffDuration",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 300,
+      "Y": 900
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodModifierDuration_+%\")": 2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodModifierDuration_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodModifierDuration_+%\")": 10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseFoodModifierDuration_+%\")": 20
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_ReducedFoodConsumption",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_InventorySlots",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_InventorySlots-DisplayName\", \"Balanced Pack\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_InventorySlots-Description\", \"Increased Inventory Slots\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_InventorySlots.T_Talent_Base_InventorySlots",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 100,
+      "Y": 100
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMountCargoSlots_+\")": 1
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMountCargoSlots_+\")": 2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMountCargoSlots_+\")": 4
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_WeightCapacity",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "YThenX"
+    },
+    {
+     "Name": "TheBear_DamageReduction",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_DamageReduction-DisplayName\", \"Tough as Leather\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_DamageReduction-Description\", \"Increased Physical Damage Reduction\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_DamageReduction.T_Talent_Base_DamageReduction",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 100,
+      "Y": 700
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BasePhysicalDamageResistance_%\")": 2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BasePhysicalDamageResistance_%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BasePhysicalDamageResistance_%\")": 10
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Health",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_Jumping",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_Jumping-DisplayName\", \"Muscle Memory\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_Jumping-Description\", \"Reduced Jumping Stamina Cost\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Striker_MuscleMemory.T_Talent_Striker_MuscleMemory",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 900,
+      "Y": 300
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpingStaminaActionCost_+%\")": -5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpingStaminaActionCost_+%\")": -15
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpingStaminaActionCost_+%\")": -30
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpingStaminaActionCost_+%\")": -50,
+        "(Value=\"MountCanSprintJump_?\")": 1
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Stamina",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_MovementSpeed",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_MovementSpeed-DisplayName\", \"Racing Ready\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_MovementSpeed-Description\", \"Increased Movement Speed\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_MovementSpeed.T_Talent_Base_MovementSpeed",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 900,
+      "Y": 500
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMovementSpeed_+%\")": 2
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMovementSpeed_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMovementSpeed_+%\")": 10
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Stamina",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "YThenX"
+    },
+    {
+     "Name": "TheBear_SoloPredator",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_SoloPredator-DisplayName\", \"Solo Predator\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_SoloPredator-Description\", \"Reduced Threat in Tundra. Provides Aura that Prevents Hunting From Other Slinkers\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Striker_SoloPredator.T_Talent_Striker_SoloPredator",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 900,
+      "Y": 900
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseTundraAnimalThreatModifier_+%\")": -10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseTundraAnimalThreatModifier_+%\")": -25
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseTundraAnimalThreatModifier_+%\")": -50
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseTundraAnimalThreatModifier_+%\")": -50,
+        "(Value=\"GrantedAuraInhibitSlinkerHunting_?\")": 1
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_ReducedThreat",
+       "DataTableName": "D_Talents"
+      },
+      {
+       "RowName": "TheBear_StaminaRegeneration",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_Jumping_0",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_Jumping_0-DisplayName\", \"Expert Pouncer\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_Jumping_0-Description\", \"Increased Jump Distance and Chance to Cause Slow On Landing\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Striker_ExpertPouncer.T_Talent_Striker_ExpertPouncer",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 900,
+      "Y": 100
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpDistance_+%\")": 50
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpDistance_+%\")": 100
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpDistance_+%\")": 100,
+        "(Value=\"BasePounceCausesSlow_%\")": 25
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseJumpDistance_+%\")": 100,
+        "(Value=\"BasePounceCausesSlow_%\")": 100
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "TheBear_Jumping",
+       "DataTableName": "D_Talents"
+      },
+      {
+       "RowName": "TheBear_FallDamageReduction",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_SerratedClaws",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_SerratedClaws-DisplayName\", \"Serrated Claws\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_SerratedClaws-Description\", \"Chance to Cause Bleed and Hemorrhage on Hit\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Moa_Attack.T_Talent_Moa_Attack",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 500,
+      "Y": 100
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAttacksCauseBleed_%\")": 15
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAttacksCauseBleed_%\")": 30
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAttacksCauseBleed_%\")": 60,
+        "(Value=\"BaseAttacksCauseHemorrhage_%\")": 10
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAttacksCauseBleed_%\")": 100,
+        "(Value=\"BaseAttacksCauseHemorrhage_%\")": 25
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "CombatPet_Damage_TheBear",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "CombatPet_Damage_TheBear",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"CombatPet_Damage_Slinker-DisplayName\", \"Natural Ferocity\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"CombatPet_Damage_Slinker-Description\", \"Increased Melee Damage\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_CombatPetDamage.T_Talent_Base_CombatPetDamage",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 500,
+      "Y": 300
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMeleeDamage_+%\")": 5
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMeleeDamage_+%\")": 15
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMeleeDamage_+%\")": 30
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseMeleeDamage_+%\")": 60
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "Creature_TheBear",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    },
+    {
+     "Name": "TheBear_Leech",
+     "DisplayName": "NSLOCTEXT(\"D_Talents\", \"Slinker_Leech-DisplayName\", \"Voracious Eater\")",
+     "Description": "NSLOCTEXT(\"D_Talents\", \"Slinker_Leech-Description\", \"Recover Health when Dealing Damage to Creatures\")",
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Solo/Talent_Solo_LighterPenalty.Talent_Solo_LighterPenalty",
+     "TalentTree": {
+      "RowName": "Creature_TheBear"
+     },
+     "Position": {
+      "X": 300,
+      "Y": 100
+     },
+     "Size": {
+      "X": 128,
+      "Y": 128
+     },
+     "Rewards": [
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAttacksLeechHealth_%\")": 5,
+        "(Value=\"BaseHealthLeeched_%\")": 25
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAttacksLeechHealth_%\")": 10,
+        "(Value=\"BaseHealthLeeched_%\")": 33
+       },
+       "GrantedFlags": []
+      },
+      {
+       "GrantedStats": {
+        "(Value=\"BaseAttacksLeechHealth_%\")": 15,
+        "(Value=\"BaseHealthLeeched_%\")": 50
+       },
+       "GrantedFlags": []
+      }
+     ],
+     "RequiredTalents": [
+      {
+       "RowName": "CombatPet_Damage_TheBear",
+       "DataTableName": "D_Talents"
+      }
+     ],
+     "DrawMethodOverride": "ShortestDistance"
+    }
+   ]
+  }
+ }
+}

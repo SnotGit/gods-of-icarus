@@ -1,0 +1,7 @@
+npc - loadout contents:
+
+- Food Shop
+- Cultivation Specialist Henrickson
+- Chief Fisheries Officer Dunski
+- Predator Control Specialist Liardet
+- Norex Liaison 'Agent'

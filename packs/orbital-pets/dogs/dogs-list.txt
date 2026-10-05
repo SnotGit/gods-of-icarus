@@ -1,0 +1,9 @@
+orbital-pets\dogs - loadout contents:
+
+- Cryogenically Frozen Golden Labrador
+- Cryogenically Frozen Chocolate Labrador
+- Cryogenically Frozen German Shepherd
+- Cryogenically Frozen Panda German Shepherd
+- Cryogenically Frozen Pug
+- Cryogenically Frozen French Bulldog
+- Cryogenically Frozen Border Collie

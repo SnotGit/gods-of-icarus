@@ -1,0 +1,11 @@
+kitchen\homestead - loadout contents:
+
+- Homestead Refrigerator
+- Homestead Medicine Bench
+- Homestead Kitchen Sink
+- Homestead Kitchen Stove
+- Homestead Iron Stove
+- Homestead Kitchen Bench
+- Homestead Kitchen Corner Bench
+- Homestead Kitchen Storage Block
+- Homestead Butchery Bench

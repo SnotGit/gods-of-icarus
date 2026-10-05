@@ -1,0 +1,9 @@
+building-trims\composite\smoked - loadout contents:
+
+- Smoked Composite Door x20
+- Smoked Composite Window x20
+- Smoked Composite Railing A x20
+- Smoked Composite Railing B x20
+- Smoked Composite Railing C x20
+- Smoked Composite Railing Gate x20
+- Smoked Composite Ladder x20

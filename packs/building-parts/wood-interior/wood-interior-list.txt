@@ -1,0 +1,11 @@
+building-parts\wood-interior - loadout contents:
+
+- Interior Wood Wall x20
+- Interior Wood Wall Angled x20
+- Interior Wood Floor x20
+- Interior Curved Wood Floor x20
+- Interior Wood Ramp x20
+- Interior Wood Beam x20
+- Interior Wood Halfpieces x20
+- Interior Wood Halfpitches x20
+- Interior Wood Trapdoor x20

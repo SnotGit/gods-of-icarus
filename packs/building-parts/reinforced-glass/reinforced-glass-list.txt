@@ -1,0 +1,16 @@
+building-parts\reinforced-glass - loadout contents:
+
+- Reinforced Glass Wall x20
+- Reinforced Glass Wall Angled x20
+- Reinforced Glass Wall/Roof Curved x20
+- Reinforced Glass Curved Wall Angles x20
+- Reinforced Glass Floor x20
+- Reinforced Glass Roof x20
+- Reinforced Glass Roof Corner x20
+- Reinforced Glass Roof Curved Angle x20
+- Reinforced Glass Halfpitches x20
+- Reinforced Glass Halfpieces x20
+- Reinforced Glass Beam x20
+- Reinforced Glass Advanced Beams x20
+- Reinforced Glass Curved Buildings x20
+- Reinforced Glass Diagonal Buildings x20

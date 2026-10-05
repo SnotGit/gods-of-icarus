@@ -1,0 +1,11 @@
+building-parts\wood-basic - loadout contents:
+
+- Wood Wall x20
+- Wood Wall Angled x20
+- Wood Floor x20
+- Wood Roof/Ramp x20
+- Wood Roof Corner x20
+- Wood Halfpitches x20
+- Wood Halfpieces x20
+- Wood Beam x20
+- Wood Trapdoor x20

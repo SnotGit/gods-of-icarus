@@ -1,0 +1,10 @@
+decoration\industrial - loadout contents:
+
+- Container
+- Rusted Bear Trap x10
+- Wall Pipes x10
+- Dark Wall Pipes x10
+- Mining Cart Rail x10
+- Mining Cart x5
+- Mining Machinery x5
+- Road Cone x10

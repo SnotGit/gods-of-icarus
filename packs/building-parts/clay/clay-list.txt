@@ -1,0 +1,17 @@
+building-parts\clay - loadout contents:
+
+- Clay Brick Wall x20
+- Clay Brick Wall Angle x20
+- Clay Brick Wall/Roof Curved x20
+- Clay Brick Curved Wall Angles x20
+- Clay Brick Floor x20
+- Clay Brick Ramp x20
+- Clay Brick Roof Corner x20
+- Clay Brick Roof Curved Angle x20
+- Clay Brick Halfpitches x20
+- Clay Brick Halfpieces x20
+- Clay Brick Beam x20
+- Clay Brick Advanced Beams x20
+- Clay Brick Curved Buildings x20
+- Clay Brick Diagonal Buildings x20
+- Steel Barred Trapdoor Hatch x20

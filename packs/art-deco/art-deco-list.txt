@@ -1,0 +1,27 @@
+art-deco - loadout contents:
+
+- Art Deco Bed
+- Art Deco Bookshelf
+- Art Deco Candlestick
+- Art Deco Dining Chair
+- Art Deco Dresser
+- Art Deco Fireplace
+- Art Deco Fireplace Cap
+- Art Deco Fireplace Extension
+- Art Deco Lounge Chair
+- Art Deco 2-Seater Couch
+- Art Deco 3-Seater Couch
+- Art Deco Nightstand
+- Art Deco Partition
+- Art Deco Rug
+- Art Deco Safe
+- Art Deco Wall Shelf
+- Art Deco Sitting Bench
+- Art Deco 10-Seater Table
+- Art Deco 6-Seater Table
+- Art Deco Round Table
+- Art Deco Vase
+- Art Deco Vault
+- Art Deco Wall Sign
+- Art Deco Wardrobe
+- Teddy Bear x20

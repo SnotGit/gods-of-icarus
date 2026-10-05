@@ -1,0 +1,16 @@
+building-parts\ice - loadout contents:
+
+- Ice Wall x20
+- Ice Wall Angled x20
+- Ice Wall/Roof Curved x20
+- Ice Curved Wall Angles x20
+- Ice Floor x20
+- Ice Roof/Ramp x20
+- Ice Roof Corner x20
+- Ice Curved Roof Angles x20
+- Ice Halfpitches x20
+- Ice Halfpieces x20
+- Ice Beam x20
+- Ice Advanced Beams x20
+- Ice Curved Buildings x20
+- Ice Diagonal Buildings x20
