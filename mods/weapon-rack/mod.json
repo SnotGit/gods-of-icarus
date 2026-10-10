@@ -1,0 +1,13 @@
+{
+  "name": "Weapon Rack",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Steampunk workshop rack: guns, tools and lamps on display, a 300-slot cabinet, battery items recharged when powered.",
+  "match": "weapon-rack_8_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "pack": [
+    "storage/weapon-rack"
+  ]
+}

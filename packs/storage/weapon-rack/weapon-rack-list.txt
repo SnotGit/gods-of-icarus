@@ -1,0 +1,3 @@
+storage\weapon-rack - loadout contents:
+
+- GOI Weapon Rack
