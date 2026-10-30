@@ -1,0 +1,8 @@
+armors\Malformation - loadout contents:
+
+- Malformation Head Armor
+- Malformation Chest Armor
+- Malformation Arms Armor
+- Malformation Legs Armor
+- Malformation Feet Armor
+- Malformation Envirosuit

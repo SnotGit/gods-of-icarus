@@ -1,0 +1,1677 @@
+{
+ "tables": {
+  "D_Mounts": {
+   "Rows": [
+    {
+     "Name": "TheBlackWolf",
+     "AISetup": {
+      "RowName": "Tamed_TheBlackWolf"
+     },
+     "Icon": "/Game/Assets/2DArt/UI/FieldGuide/Creatures/Conifer/T_Bestiary_AlphaWolf.T_Bestiary_AlphaWolf",
+     "Variations": [
+      {
+       "bCanBeSelected": true,
+       "bCanBeSelectedByForcedEvolution": false,
+       "MeshMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/AlphaWolf/M_CRE_Wolf_Alpha.M_CRE_Wolf_Alpha"
+       },
+       "GFurMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/AlphaWolf/M_CRE_Wolf_Alpha_fur.M_CRE_Wolf_Alpha_fur"
+       },
+       "CarcassMeshMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/AlphaWolf/M_CRE_Wolf_Alpha_carc.M_CRE_Wolf_Alpha_carc"
+       },
+       "CarcassGFurMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/AlphaWolf/M_CRE_Wolf_Alpha_fur_carc.M_CRE_Wolf_Alpha_fur_carc"
+       },
+       "Weighting": 2000
+      }
+     ],
+     "SupportedCombatStates": [
+      "DoNotEngage",
+      "NeutralEngagement",
+      "AggressiveEngagement"
+     ],
+     "SupportedMovementStates": [
+      "Follow",
+      "IdleWander"
+     ],
+     "Animations": {
+      "(TagName=\"BT.Mount.Animation.IdleStanding\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Sit_Idle_NoHowl_Montage.Wolf_Sit_Idle_NoHowl_Montage",
+      "(TagName=\"BT.Mount.Animation.Rest\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Rest_Montage.Wolf_Rest_Montage",
+      "(TagName=\"BT.Mount.Animation.Eat\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Eating_Montage.Wolf_Eating_Montage",
+      "(TagName=\"BT.Mount.Animation.Jump\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Jump_Montage.Wolf_Jump_Montage",
+      "(TagName=\"BT.Mount.Animation.Attack\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Attack_Montage.Wolf_Attack_Montage",
+      "(TagName=\"BT.Mount.Animation.Dodge.Backwards\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Hop_Montage.Wolf_Hop_Montage",
+      "(TagName=\"BT.Mount.Animation.Drink\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Drinking_Montage_2.Wolf_Drinking_Montage_2"
+     },
+     "InventoryPreviewCameraSettings": {
+      "RowName": "Mount_Storca"
+     },
+     "DefaultNames": [
+      "NSLOCTEXT(\"D_Mounts\", \"TheBlackWolf-DefaultNames-0\", \"The Black Wolf\")"
+     ],
+     "MapIcon": {
+      "RowName": "Mount"
+     },
+     "RelativeFeetOffset": {
+      "X": -10,
+      "Y": -17.5,
+      "Z": 10
+     },
+     "MountTalentArchetype": {
+      "RowName": "Creature_Wolf"
+     },
+     "GrowthCurve": {
+      "RowName": "AI_Pets"
+     },
+     "bUseTemperature": true,
+     "ComfortableTemperatureRange": {
+      "Y": 35
+     }
+    },
+    {
+     "Name": "TheWhiteWolf",
+     "AISetup": {
+      "RowName": "Tamed_TheWhiteWolf"
+     },
+     "Icon": "/Game/Assets/2DArt/UI/FieldGuide/Creatures/Arctic/T_Bestiary_SnowWolf.T_Bestiary_SnowWolf",
+     "SupportedCombatStates": [
+      "DoNotEngage",
+      "NeutralEngagement",
+      "AggressiveEngagement"
+     ],
+     "SupportedMovementStates": [
+      "Follow",
+      "IdleWander"
+     ],
+     "Animations": {
+      "(TagName=\"BT.Mount.Animation.IdleStanding\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Sit_Idle_NoHowl_Montage.Wolf_Sit_Idle_NoHowl_Montage",
+      "(TagName=\"BT.Mount.Animation.Rest\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Rest_Montage.Wolf_Rest_Montage",
+      "(TagName=\"BT.Mount.Animation.Eat\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Eating_Montage.Wolf_Eating_Montage",
+      "(TagName=\"BT.Mount.Animation.Jump\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Jump_Montage.Wolf_Jump_Montage",
+      "(TagName=\"BT.Mount.Animation.Attack\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Attack_Montage.Wolf_Attack_Montage",
+      "(TagName=\"BT.Mount.Animation.Dodge.Backwards\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Hop_Montage.Wolf_Hop_Montage",
+      "(TagName=\"BT.Mount.Animation.Drink\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Drinking_Montage_2.Wolf_Drinking_Montage_2"
+     },
+     "InventoryPreviewCameraSettings": {
+      "RowName": "Mount_Storca"
+     },
+     "DefaultNames": [
+      "NSLOCTEXT(\"D_Mounts\", \"TheWhiteWolf-DefaultNames-0\", \"The White Wolf\")"
+     ],
+     "MapIcon": {
+      "RowName": "Mount"
+     },
+     "RelativeFeetOffset": {
+      "X": -10,
+      "Y": -17.5,
+      "Z": 10
+     },
+     "MountTalentArchetype": {
+      "RowName": "Creature_Snow_Wolf"
+     },
+     "GrowthCurve": {
+      "RowName": "AI_Pets"
+     },
+     "bUseTemperature": true,
+     "ComfortableTemperatureRange": {
+      "X": -17,
+      "Y": 26
+     },
+     "Variations": [
+      {
+       "bCanBeSelected": true,
+       "bCanBeSelectedByForcedEvolution": false,
+       "MeshMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/M_CRE_Snow_Wolf.M_CRE_Snow_Wolf"
+       },
+       "GFurMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/AlphaWolf/M_CRE_Snow_Wolf_Alpha_fur.M_CRE_Snow_Wolf_Alpha_fur"
+       },
+       "CarcassMeshMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/AlphaWolf/M_CRE_Snow_Wolf_Alpha_Carcass.M_CRE_Snow_Wolf_Alpha_Carcass"
+       },
+       "CarcassGFurMaterials": {
+        "0": "/Game/ASS/CRE/Wolf/AlphaWolf/M_CRE_Snow_Wolf_Alpha_Fur_Carcass.M_CRE_Snow_Wolf_Alpha_Fur_Carcass"
+       },
+       "Weighting": 2000
+      }
+     ]
+    },
+    {
+     "Name": "PuppyWolf",
+     "AISetup": {
+      "RowName": "Tamed_PuppyWolf"
+     },
+     "Icon": "/Game/Assets/2DArt/UI/Talents/Companion/T_Talent_Base_Wolf.T_Talent_Base_Wolf",
+     "Variations": [
+      {
+       "bCanBeSelected": true,
+       "bCanBeSelectedByForcedEvolution": false,
+       "MeshMaterials": {
+        "0": "/Game/ASS/CRE/Wolf_Juvie/M_CRE_Wolf_Juvie.M_CRE_Wolf_Juvie"
+       },
+       "GFurMaterials": {
+        "0": "/Game/ASS/CRE/Wolf_Juvie/M_CRE_Wolf_Juvie_fur.M_CRE_Wolf_Juvie_fur"
+       },
+       "CarcassMeshMaterials": {
+        "0": "/Game/ASS/CRE/Wolf_Juvie/M_CRE_Wolf_Juvie_Carcass.M_CRE_Wolf_Juvie_Carcass"
+       },
+       "CarcassGFurMaterials": {
+        "0": "/Game/ASS/CRE/Wolf_Juvie/M_CRE_Wolf_Juvie_Carcass_fur.M_CRE_Wolf_Juvie_Carcass_fur"
+       },
+       "Weighting": 2000
+      }
+     ],
+     "SupportedCombatStates": [
+      "DoNotEngage",
+      "NeutralEngagement",
+      "AggressiveEngagement"
+     ],
+     "SupportedMovementStates": [
+      "Follow",
+      "IdleWander"
+     ],
+     "Animations": {
+      "(TagName=\"BT.Mount.Animation.IdleStanding\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Sit_Idle_NoHowl_Montage.Wolf_Sit_Idle_NoHowl_Montage",
+      "(TagName=\"BT.Mount.Animation.Rest\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Rest_Montage.Wolf_Rest_Montage",
+      "(TagName=\"BT.Mount.Animation.Eat\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Eating_Montage.Wolf_Eating_Montage",
+      "(TagName=\"BT.Mount.Animation.Jump\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Jump_Montage.Wolf_Jump_Montage",
+      "(TagName=\"BT.Mount.Animation.Attack\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Attack_Montage.Wolf_Attack_Montage",
+      "(TagName=\"BT.Mount.Animation.Dodge.Backwards\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Hop_Montage.Wolf_Hop_Montage",
+      "(TagName=\"BT.Mount.Animation.Drink\")": "/Game/ThirdPartyAssets/AnimalsVol01/Wolf/Meshes/Animations/Wolf_Drinking_Montage_2.Wolf_Drinking_Montage_2"
+     },
+     "InventoryPreviewCameraSettings": {
+      "RowName": "Mount_Wolf"
+     },
+     "DefaultNames": [
+      "NSLOCTEXT(\"D_Mounts\", \"PuppyWolf-DefaultNames-0\", \"Puppy Wolf\")"
+     ],
+     "MapIcon": {
+      "RowName": "Mount"
+     },
+     "RelativeFeetOffset": {
+      "X": -10,
+      "Y": -17.5,
+      "Z": 10
+     },
+     "MountTalentArchetype": {
+      "RowName": "Creature_Wolf"
+     },
+     "GrowthCurve": {
+      "RowName": "AI_Pets"
+     },
+     "bUseTemperature": true,
+     "ComfortableTemperatureRange": {
+      "Y": 35
+     }
+    }
+   ]
+  },
+  "D_AISetup": {
+   "Rows": [
+    {
+     "Name": "Tamed_TheBlackWolf",
+     "ActorClass": "/Game/TheBlackWolf/BP_Tamed_TheBlackWolf.BP_Tamed_TheBlackWolf_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "TheBlackWolf"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_Alpha_Wolf"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Tamed_TheBlackWolf"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.6499999761581421,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 3.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 6,
+       "MaxAcceleration": 500,
+       "BrakingDeceleration": 650,
+       "RotationRate": 80,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 1800,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 200,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 450,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 300,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "TheBlackWolf"
+     },
+     "CollisionHitEventBones": [
+      "RigChest",
+      "RigNeck1",
+      "RigChest",
+      "RigSpine2",
+      "RigPelvis",
+      "RigNeck2"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       },
+       {
+        "TagName": "Item.Creature.Bait.Wolf"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       2,
+       0,
+       1
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait, Item.Creature.Bait.Wolf )"
+     },
+     "Trophy": {
+      "RowName": "AlphaWolf_Head"
+     },
+     "Loot": {
+      "RowName": "AlphaWolf_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Medium"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Alpha_Wolf_Boss"
+     },
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "Laika"
+      }
+     }
+    },
+    {
+     "Name": "Tamed_TheBlackWolf_Monster",
+     "ActorClass": "/Game/TheBlackWolf/BP_Tamed_TheBlackWolf_Monster.BP_Tamed_TheBlackWolf_Monster_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "TheBlackWolf"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_Alpha_Wolf"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Tamed_TheBlackWolf_Monster"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.6499999761581421,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 3.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 6,
+       "MaxAcceleration": 500,
+       "BrakingDeceleration": 650,
+       "RotationRate": 80,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 1800,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 200,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 450,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 300,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "TheBlackWolf"
+     },
+     "CollisionHitEventBones": [
+      "RigChest",
+      "RigNeck1",
+      "RigChest",
+      "RigSpine2",
+      "RigPelvis",
+      "RigNeck2"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       },
+       {
+        "TagName": "Item.Creature.Bait.Wolf"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       2,
+       0,
+       1
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait, Item.Creature.Bait.Wolf )"
+     },
+     "Trophy": {
+      "RowName": "AlphaWolf_Head"
+     },
+     "Loot": {
+      "RowName": "AlphaWolf_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Medium"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Alpha_Wolf_Boss"
+     },
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "Laika"
+      }
+     }
+    },
+    {
+     "Name": "Tamed_TheWhiteWolf",
+     "ActorClass": "/Game/TheBlackWolf/BP_Tamed_TheWhiteWolf.BP_Tamed_TheWhiteWolf_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "TheWhiteWolf"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_Alpha_Snow_Wolf"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Tamed_TheWhiteWolf"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.6499999761581421,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 3.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 6,
+       "MaxAcceleration": 500,
+       "BrakingDeceleration": 650,
+       "RotationRate": 80,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 1800,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 200,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 450,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 300,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "TheWhiteWolf"
+     },
+     "CollisionHitEventBones": [
+      "RigChest",
+      "RigNeck1",
+      "RigChest",
+      "RigSpine2",
+      "RigPelvis",
+      "RigNeck2"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       },
+       {
+        "TagName": "Item.Creature.Bait.Wolf"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       2,
+       0,
+       1
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait, Item.Creature.Bait.Wolf )"
+     },
+     "Trophy": {
+      "RowName": "SnowWolf_Head"
+     },
+     "Loot": {
+      "RowName": "AlphaWolf_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Medium"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Alpha_Wolf_Boss"
+     },
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "Laika"
+      }
+     }
+    },
+    {
+     "Name": "Tamed_TheWhiteWolf_Monster",
+     "ActorClass": "/Game/TheBlackWolf/BP_Tamed_TheWhiteWolf_Monster.BP_Tamed_TheWhiteWolf_Monster_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "TheWhiteWolf"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_Alpha_Snow_Wolf"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Tamed_TheWhiteWolf_Monster"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.6499999761581421,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 3.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 6,
+       "MaxAcceleration": 500,
+       "BrakingDeceleration": 650,
+       "RotationRate": 80,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 1800,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 200,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 450,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 300,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "TheWhiteWolf"
+     },
+     "CollisionHitEventBones": [
+      "RigChest",
+      "RigNeck1",
+      "RigChest",
+      "RigSpine2",
+      "RigPelvis",
+      "RigNeck2"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       },
+       {
+        "TagName": "Item.Creature.Bait.Wolf"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       2,
+       0,
+       1
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait, Item.Creature.Bait.Wolf )"
+     },
+     "Trophy": {
+      "RowName": "SnowWolf_Head"
+     },
+     "Loot": {
+      "RowName": "AlphaWolf_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Medium"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Alpha_Wolf_Boss"
+     },
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "Laika"
+      }
+     }
+    },
+    {
+     "Name": "Tamed_PuppyWolf",
+     "ActorClass": "/Game/PuppyWolf/BP_Tamed_PuppyWolf.BP_Tamed_PuppyWolf_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "PuppyWolf"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_Conifer_Wolf_Juvenile"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Tamed_PuppyWolf"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.6499999761581421,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 3.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 6,
+       "MaxAcceleration": 500,
+       "BrakingDeceleration": 650,
+       "RotationRate": 80,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 1800,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 200,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 450,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 300,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "PuppyWolf"
+     },
+     "CollisionHitEventBones": [
+      "RigChest",
+      "RigNeck1",
+      "RigChest",
+      "RigSpine2",
+      "RigPelvis",
+      "RigNeck2"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       },
+       {
+        "TagName": "Item.Creature.Bait.Wolf"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       2,
+       0,
+       1
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait, Item.Creature.Bait.Wolf )"
+     },
+     "Trophy": {
+      "RowName": "ConiferWolf_Head"
+     },
+     "Loot": {
+      "RowName": "Juvenile_Wolf_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Small"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Forest_Wolf"
+     },
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "Laika"
+      }
+     }
+    },
+    {
+     "Name": "Tamed_PuppyWolf_Monster",
+     "ActorClass": "/Game/PuppyWolf/BP_Tamed_PuppyWolf_Monster.BP_Tamed_PuppyWolf_Monster_C",
+     "ControllerClass": "/Game/BP/AI/Basic/Mounts/BP_MountAIController.BP_MountAIController_C",
+     "CreatureType": {
+      "RowName": "PuppyWolf"
+     },
+     "DeadItem": {
+      "RowName": "AnimalCarcass_Conifer_Wolf_Juvenile"
+     },
+     "Relationships": {
+      "RowName": "Player"
+     },
+     "AIGrowth": {
+      "RowName": "Tamed_PuppyWolf_Monster"
+     },
+     "MovementMapping": {
+      "Stationary": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Sneak": {
+       "MaxWalkSpeed": 0.6499999761581421,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      },
+      "Walk": {
+       "MaxWalkSpeed": 1,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Jog": {
+       "MaxWalkSpeed": 3.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Run": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 6,
+       "MaxAcceleration": 500,
+       "BrakingDeceleration": 650,
+       "RotationRate": 80,
+       "MaxSwimSpeed": 1
+      },
+      "Sprint": {
+       "MaxWalkSpeed": 7.5,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 1800,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 200,
+       "MaxSwimSpeed": 1
+      },
+      "Attacking": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 64,
+       "MaxAcceleration": 450,
+       "BrakingDeceleration": 50000,
+       "RotationRate": 300,
+       "MaxSwimSpeed": 1
+      },
+      "Following": {
+       "MaxWalkSpeed": 7.690000057220459,
+       "GroundFriction": 8,
+       "BrakingFriction": 4,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 500,
+       "RotationRate": 90,
+       "MaxSwimSpeed": 1
+      },
+      "Undefined": {
+       "MaxWalkSpeed": 3.2300000190734863,
+       "GroundFriction": 8,
+       "BrakingFriction": 2,
+       "MaxAcceleration": 300,
+       "BrakingDeceleration": 250,
+       "RotationRate": 100,
+       "MaxSwimSpeed": 1
+      }
+     },
+     "Audio": {
+      "RowName": "PuppyWolf"
+     },
+     "CollisionHitEventBones": [
+      "RigChest",
+      "RigNeck1",
+      "RigChest",
+      "RigSpine2",
+      "RigPelvis",
+      "RigNeck2"
+     ],
+     "ValidBaitTagQuery": {
+      "TagDictionary": [
+       {
+        "TagName": "GOAP.Food.Carnivore.Bait"
+       },
+       {
+        "TagName": "Item.Creature.Bait.Wolf"
+       }
+      ],
+      "QueryTokenStream": [
+       0,
+       1,
+       1,
+       2,
+       0,
+       1
+      ],
+      "AutoDescription": " ANY( GOAP.Food.Carnivore.Bait, Item.Creature.Bait.Wolf )"
+     },
+     "Trophy": {
+      "RowName": "ConiferWolf_Head"
+     },
+     "Loot": {
+      "RowName": "Juvenile_Wolf_Carcass_Loot"
+     },
+     "Hitable": {
+      "RowName": "AnimalBones_Small"
+     },
+     "bUseSurvivalCharacterState": true,
+     "bStartWithSurvivalTickDisabled": false,
+     "BestiaryGroup": {
+      "RowName": "Forest_Wolf"
+     },
+     "Metadata": {
+      "RequiredFeatureLevel": {
+       "RowName": "Laika"
+      }
+     }
+    }
+   ]
+  },
+  "D_AIGrowth": {
+   "Rows": [
+    {
+     "Name": "Tamed_TheBlackWolf",
+     "Base": {
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 20,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 4000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 4500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMinimumThreat_+\")": 1500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMaximumThreat_+\")": 200,
+      "(Value=\"BaseCharacterMass_+\")": 100,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseSlowResistance_%\")": 75,
+      "(Value=\"BaseImmobiliseResistance_%\")": 75,
+      "(Value=\"BaseMaximumFood_+\")": 200,
+      "(Value=\"BaseMaximumWater_+\")": 200,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 180,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 60,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseNPCMeleeAttacksPerMinute_+\")": 100,
+      "(Value=\"BaseFallDamageResistance_%\")": 40,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMovementSpeed_+\")": 150,
+      "(Value=\"BaseAttacksCauseWound_%\")": 50,
+      "(Value=\"BaseMeleeDamage_+\")": 5,
+      "(Value=\"BaseMeleeDamage_+%\")": 90
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_AlphaWolfBossHealth.C_AlphaWolfBossHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_Tame_Wolf_MeleeDamage.C_Tame_Wolf_MeleeDamage'",
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_AggressiveExperience.C_AggressiveExperience'"
+    },
+    {
+     "Name": "Tamed_TheBlackWolf_Monster",
+     "Base": {
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 20,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 4000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 4500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMinimumThreat_+\")": 1500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMaximumThreat_+\")": 200,
+      "(Value=\"BaseCharacterMass_+\")": 100,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseSlowResistance_%\")": 75,
+      "(Value=\"BaseImmobiliseResistance_%\")": 75,
+      "(Value=\"BaseMaximumFood_+\")": 200,
+      "(Value=\"BaseMaximumWater_+\")": 200,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 180,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 60,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseNPCMeleeAttacksPerMinute_+\")": 100,
+      "(Value=\"BaseFallDamageResistance_%\")": 40,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMovementSpeed_+\")": 150,
+      "(Value=\"BaseAttacksCauseWound_%\")": 100,
+      "(Value=\"BaseMeleeDamage_+\")": 5,
+      "(Value=\"BaseMeleeDamage_+%\")": 90
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_AlphaWolfBossHealth.C_AlphaWolfBossHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_Tame_Wolf_MeleeDamage.C_Tame_Wolf_MeleeDamage'",
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_AggressiveExperience.C_AggressiveExperience'"
+    },
+    {
+     "Name": "Tamed_TheWhiteWolf",
+     "Base": {
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 20,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 4000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 4500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMinimumThreat_+\")": 1500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMaximumThreat_+\")": 200,
+      "(Value=\"BaseCharacterMass_+\")": 100,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseSlowResistance_%\")": 75,
+      "(Value=\"BaseImmobiliseResistance_%\")": 75,
+      "(Value=\"BaseMaximumFood_+\")": 200,
+      "(Value=\"BaseMaximumWater_+\")": 200,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 180,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 60,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseNPCMeleeAttacksPerMinute_+\")": 100,
+      "(Value=\"BaseFallDamageResistance_%\")": 40,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMovementSpeed_+\")": 150,
+      "(Value=\"BaseAttacksCauseWound_%\")": 50,
+      "(Value=\"BaseMeleeDamage_+\")": 5,
+      "(Value=\"BaseMeleeDamage_+%\")": 90
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_AlphaWolfBossHealth.C_AlphaWolfBossHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_Tame_Wolf_MeleeDamage.C_Tame_Wolf_MeleeDamage'",
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_AggressiveExperience.C_AggressiveExperience'"
+    },
+    {
+     "Name": "Tamed_TheWhiteWolf_Monster",
+     "Base": {
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 20,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 4000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 4500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMinimumThreat_+\")": 1500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMaximumThreat_+\")": 200,
+      "(Value=\"BaseCharacterMass_+\")": 100,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseSlowResistance_%\")": 75,
+      "(Value=\"BaseImmobiliseResistance_%\")": 75,
+      "(Value=\"BaseMaximumFood_+\")": 200,
+      "(Value=\"BaseMaximumWater_+\")": 200,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 180,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 60,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseNPCMeleeAttacksPerMinute_+\")": 100,
+      "(Value=\"BaseFallDamageResistance_%\")": 40,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMovementSpeed_+\")": 150,
+      "(Value=\"BaseAttacksCauseWound_%\")": 100,
+      "(Value=\"BaseMeleeDamage_+\")": 5,
+      "(Value=\"BaseMeleeDamage_+%\")": 90
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_AlphaWolfBossHealth.C_AlphaWolfBossHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_Tame_Wolf_MeleeDamage.C_Tame_Wolf_MeleeDamage'",
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_AggressiveExperience.C_AggressiveExperience'"
+    },
+    {
+     "Name": "Tamed_PuppyWolf",
+     "Base": {
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 20,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 4000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 4500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMinimumThreat_+\")": 1500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMaximumThreat_+\")": 200,
+      "(Value=\"BaseCharacterMass_+\")": 100,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseSlowResistance_%\")": 10,
+      "(Value=\"BaseImmobiliseResistance_%\")": 10,
+      "(Value=\"BaseMaximumFood_+\")": 200,
+      "(Value=\"BaseMaximumWater_+\")": 200,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 180,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 60,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseNPCMeleeAttacksPerMinute_+\")": 100,
+      "(Value=\"BaseFallDamageResistance_%\")": 40,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMovementSpeed_+\")": 150,
+      "(Value=\"BaseMeleeDamage_+%\")": 278,
+      "(Value=\"BaseMaximumHealth_+\")": 3667
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_BearCubHealth.C_BearCubHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_BearCubMeleeDamage.C_BearCubMeleeDamage'",
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_AggressiveExperience.C_AggressiveExperience'"
+    },
+    {
+     "Name": "Tamed_PuppyWolf_Monster",
+     "Base": {
+      "(Value=\"BaseSwimSpeed_+\")": 300,
+      "(Value=\"BaseHealthRegenPerMinute_+\")": 20,
+      "(Value=\"BaseMinimumFallDamage_%\")": 1,
+      "(Value=\"BaseMaximumFallDamage_%\")": 100,
+      "(Value=\"BaseMinimumFallDamageVelocity_+\")": 1250,
+      "(Value=\"BaseMaximumFallDamageVelocity_+\")": 1950,
+      "(Value=\"BaseAIPerceptionMaxAge_+\")": 3,
+      "(Value=\"BaseAIDamagePerceptionMaxAge_+\")": 10,
+      "(Value=\"BaseAIPerceptionSightRadius_+\")": 4000,
+      "(Value=\"BaseAIPerceptionLoseSightRadius_+\")": 4500,
+      "(Value=\"BaseAIPerceptionPeripheralVisionAngle_+\")": 115,
+      "(Value=\"BaseAIPerceptionSoundRadius_+\")": 2500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMinimumThreat_+\")": 1500,
+      "(Value=\"BaseGOAPMotivationProtectiveDistanceMaximumThreat_+\")": 200,
+      "(Value=\"BaseCharacterMass_+\")": 100,
+      "(Value=\"BaseNPCAttackRadius_+\")": 500,
+      "(Value=\"CanNPCDamageDurableActors_?\")": 1,
+      "(Value=\"BaseHealthRegenDelay_+\")": 2,
+      "(Value=\"BaseSlowResistance_%\")": 10,
+      "(Value=\"BaseImmobiliseResistance_%\")": 10,
+      "(Value=\"BaseMaximumFood_+\")": 200,
+      "(Value=\"BaseMaximumWater_+\")": 200,
+      "(Value=\"BaseFoodConsumptionPerHour_+\")": 180,
+      "(Value=\"BaseWaterConsumptionPerHour_+\")": 60,
+      "(Value=\"BaseWaterConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BaseOxygenConsumedPerStaminaUsed_+%\")": 0,
+      "(Value=\"BasePhysicalDamageResistance_%\")": 40,
+      "(Value=\"BaseMaximumStomachFullness_+\")": 2,
+      "(Value=\"BaseNPCMeleeAttacksPerMinute_+\")": 100,
+      "(Value=\"BaseFallDamageResistance_%\")": 40,
+      "(Value=\"BaseFireDamageResistance_%\")": 40,
+      "(Value=\"BaseFrostDamageResistance_%\")": 40,
+      "(Value=\"BaseExplosiveDamageResistance_%\")": 40,
+      "(Value=\"BasePoisonDamageResistance_%\")": 40,
+      "(Value=\"BaseMovementSpeed_+\")": 150,
+      "(Value=\"BaseMeleeDamage_+%\")": 642,
+      "(Value=\"BaseMaximumHealth_+\")": 6280
+     },
+     "Health": "CurveFloat'/Game/Data/AI/Curves/C_BearCubHealth.C_BearCubHealth'",
+     "MeleeDamage": "CurveFloat'/Game/Data/AI/Curves/C_BearCubMeleeDamage.C_BearCubMeleeDamage'",
+     "ExperienceMultiplier": "CurveFloat'/Game/Data/AI/C_AggressiveExperience.C_AggressiveExperience'"
+    }
+   ]
+  },
+  "D_AICreatureType": {
+   "Rows": [
+    {
+     "Name": "TheBlackWolf",
+     "CreatureName": "NSLOCTEXT(\"D_AICreatureType\", \"TheBlackWolf-CreatureName\", \"The Black Wolf\")",
+     "Tag": {
+      "TagName": "NPC.Wolf.Alpha"
+     },
+     "SpawnStat": {
+      "Value": "WolfSpawnRate_+%"
+     },
+     "AdditionalDamageStat": {
+      "Value": "AlphaWolfBossExtraDamage_+%"
+     },
+     "AdditionalResistanceStat": {
+      "Value": "AlphaWolfBossExtraDamageResistance_+%"
+     },
+     "SkinningXPEvent": {
+      "RowName": "Skin_Alpha_Wolf"
+     }
+    },
+    {
+     "Name": "TheWhiteWolf",
+     "CreatureName": "NSLOCTEXT(\"D_AICreatureType\", \"TheWhiteWolf-CreatureName\", \"The White Wolf\")",
+     "Tag": {
+      "TagName": "NPC.Wolf.Alpha"
+     },
+     "SpawnStat": {
+      "Value": "WolfSpawnRate_+%"
+     },
+     "AdditionalDamageStat": {
+      "Value": "AlphaWolfBossExtraDamage_+%"
+     },
+     "AdditionalResistanceStat": {
+      "Value": "AlphaWolfBossExtraDamageResistance_+%"
+     },
+     "SkinningXPEvent": {
+      "RowName": "Skin_Alpha_Wolf"
+     }
+    },
+    {
+     "Name": "PuppyWolf",
+     "CreatureName": "NSLOCTEXT(\"D_AICreatureType\", \"PuppyWolf-CreatureName\", \"Puppy Wolf\")",
+     "Tag": {
+      "TagName": "NPC.Wolf"
+     },
+     "SpawnStat": {
+      "Value": "WolfSpawnRate_+%"
+     },
+     "AdditionalDamageStat": {
+      "Value": "ForestWolfExtraDamage_+%"
+     },
+     "AdditionalResistanceStat": {
+      "Value": "ForestWolfExtraDamageResistance_+%"
+     },
+     "SkinningXPEvent": {
+      "RowName": "Skin_Wolf"
+     }
+    }
+   ]
+  },
+  "D_AIAudioData": {
+   "Rows": [
+    {
+     "Name": "TheBlackWolf",
+     "FootstepSound": "/Game/FMOD/Events/SFX/Creatures/Footsteps/Wolf/SFX_CRE_WOLF_FOOTSTEPS.SFX_CRE_WOLF_FOOTSTEPS",
+     "FrontFootSocket": "RigLFLeg1",
+     "RearFootSocket": "RigLBLeg1",
+     "MovementSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_FOLIAGE_MEDIUM.SFX_CRE_FOLIAGE_MEDIUM",
+     "DeathCollisionSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_BODY_FALL_MEDIUM.SFX_CRE_BODY_FALL_MEDIUM",
+     "DeathCollisionSocket": "RigChest",
+     "WaterDeathSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_DEATHFALL_WATER_SMALL.SFX_CRE_DEATHFALL_WATER_SMALL",
+     "VocalisationSocket": "RigJaw",
+     "AttackVocalisation": {
+      "RowName": "AlphaWolfAttack"
+     },
+     "FlinchVocalisation": {
+      "RowName": "AlphaWolfFlinch"
+     },
+     "DeathVocalisation": {
+      "RowName": "AlphaWolfDie"
+     },
+     "StateVocalisations": {
+      "Idle": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "AlphaWolfIdle",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Attacking": {
+       "StateEnteredVocalisation": {
+        "RowName": "AlphaSpot",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "AlphaWolfAggro",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Relaxing": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "AlphaWolfIdle",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      }
+     },
+     "FoliageCheckMaxDistance": 6000
+    },
+    {
+     "Name": "TheWhiteWolf",
+     "FootstepSound": "/Game/FMOD/Events/SFX/Creatures/Footsteps/Wolf/SFX_CRE_WOLF_FOOTSTEPS.SFX_CRE_WOLF_FOOTSTEPS",
+     "FrontFootSocket": "RigLFLeg1",
+     "RearFootSocket": "RigLBLeg1",
+     "MovementSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_FOLIAGE_MEDIUM.SFX_CRE_FOLIAGE_MEDIUM",
+     "DeathCollisionSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_BODY_FALL_MEDIUM.SFX_CRE_BODY_FALL_MEDIUM",
+     "DeathCollisionSocket": "RigChest",
+     "WaterDeathSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_DEATHFALL_WATER_SMALL.SFX_CRE_DEATHFALL_WATER_SMALL",
+     "VocalisationSocket": "RigJaw",
+     "AttackVocalisation": {
+      "RowName": "AlphaWolfAttack"
+     },
+     "FlinchVocalisation": {
+      "RowName": "AlphaWolfFlinch"
+     },
+     "DeathVocalisation": {
+      "RowName": "AlphaWolfDie"
+     },
+     "StateVocalisations": {
+      "Idle": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "AlphaWolfIdle",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Attacking": {
+       "StateEnteredVocalisation": {
+        "RowName": "AlphaSpot",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "AlphaWolfAggro",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Relaxing": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "AlphaWolfIdle",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      }
+     },
+     "FoliageCheckMaxDistance": 6000
+    },
+    {
+     "Name": "PuppyWolf",
+     "FootstepSound": "/Game/FMOD/Events/SFX/Creatures/Footsteps/Wolf/SFX_CRE_DOG_FOOTSTEPS.SFX_CRE_DOG_FOOTSTEPS",
+     "FrontFootSocket": "RigLFLeg1",
+     "RearFootSocket": "RigLBLeg1",
+     "MovementSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_FOLIAGE_SMALL.SFX_CRE_FOLIAGE_SMALL",
+     "DeathCollisionSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_BODY_FALL_SMALL.SFX_CRE_BODY_FALL_SMALL",
+     "DeathCollisionSocket": "RigChest",
+     "WaterDeathSound": "/Game/FMOD/Events/SFX/Creatures/Movement/SFX_CRE_DEATHFALL_WATER_SMALL.SFX_CRE_DEATHFALL_WATER_SMALL",
+     "VocalisationSocket": "RigJaw",
+     "AttackVocalisation": {
+      "RowName": "DogLaikaBark"
+     },
+     "FlinchVocalisation": {
+      "RowName": "PugFlinch"
+     },
+     "DeathVocalisation": {
+      "RowName": "PugDeath"
+     },
+     "StateVocalisations": {
+      "Idle": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "DogPugIdle",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Fleeing": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Attacking": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      },
+      "Relaxing": {
+       "StateEnteredVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StatePersistentVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       },
+       "StateExitedVocalisation": {
+        "RowName": "None",
+        "DataTableName": "D_Vocalisations"
+       }
+      }
+     },
+     "FoliageCheckMaxDistance": 6000
+    }
+   ]
+  }
+ },
+ "BASES": {
+  "TheBlackWolf": [
+   6166.7,
+   0
+  ],
+  "TheWhiteWolf": [
+   6166.7,
+   0
+  ],
+  "PuppyWolf": [
+   3942.0,
+   0
+  ]
+ }
+}

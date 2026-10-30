@@ -1,0 +1,7 @@
+armors\Felixus - loadout contents:
+
+- Felixus Head Armor
+- Felixus Chest Armor
+- Felixus Arms Armor
+- Felixus Legs Armor
+- Felixus Feet Armor

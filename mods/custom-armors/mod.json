@@ -1,0 +1,14 @@
+{
+  "name": "Custom Armors",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "The Malformation and Felixus boss armors, and the Malformation envirosuit, ready to wear.",
+  "match": "armor-test_18_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "pack": [
+    "armors/Malformation",
+    "armors/Felixus"
+  ]
+}

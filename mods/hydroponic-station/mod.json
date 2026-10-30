@@ -1,0 +1,10 @@
+{
+  "name": "Hydroponics",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Grow decorative plants and trees at a station that waters every machine within 30 m.",
+  "match": "hydroponic-station_*_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}

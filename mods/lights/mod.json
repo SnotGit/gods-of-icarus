@@ -1,0 +1,10 @@
+{
+  "name": "Lights",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Twelve lamps for your bases, warm or cold white, a neon in ten colours, no power needed.",
+  "match": "lights_16_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}

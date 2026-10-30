@@ -1,0 +1,7 @@
+armors\Beastmaster - loadout contents:
+
+- LM Beastmaster Head Armor
+- LM Beastmaster Chest Armor
+- LM Beastmaster Arm Armor
+- LM Beastmaster Leg Armor
+- LM Beastmaster Feet Armor

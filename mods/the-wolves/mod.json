@@ -1,0 +1,41 @@
+{
+  "name": "The Wolves",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "A black or a white boss wolf, or a wolf pup that never grows up, at your side. Follows, fights.",
+  "match": "the-wolves_3_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "species": [
+    "TheBlackWolf",
+    "TheWhiteWolf",
+    "PuppyWolf"
+  ],
+  "tables": "tables.json",
+  "lineage": "Alpha",
+  "sex": 2,
+  "names": {
+    "TheBlackWolf": "The Black Wolf",
+    "TheWhiteWolf": "The White Wolf",
+    "PuppyWolf": "Puppy Wolf"
+  },
+  "classes": {
+    "TheBlackWolf": "BP_Tamed_TheBlackWolf_C",
+    "TheWhiteWolf": "BP_Tamed_TheWhiteWolf_C",
+    "PuppyWolf": "BP_Tamed_PuppyWolf_C"
+  },
+  "monster": {
+    "TheBlackWolf": "BP_Tamed_TheBlackWolf_Monster_C",
+    "TheWhiteWolf": "BP_Tamed_TheWhiteWolf_Monster_C",
+    "PuppyWolf": "BP_Tamed_PuppyWolf_Monster_C"
+  },
+  "rows": {
+    "BP_Tamed_TheBlackWolf_C": "Tamed_TheBlackWolf",
+    "BP_Tamed_TheBlackWolf_Monster_C": "Tamed_TheBlackWolf_Monster",
+    "BP_Tamed_TheWhiteWolf_C": "Tamed_TheWhiteWolf",
+    "BP_Tamed_TheWhiteWolf_Monster_C": "Tamed_TheWhiteWolf_Monster",
+    "BP_Tamed_PuppyWolf_C": "Tamed_PuppyWolf",
+    "BP_Tamed_PuppyWolf_Monster_C": "Tamed_PuppyWolf_Monster"
+  }
+}

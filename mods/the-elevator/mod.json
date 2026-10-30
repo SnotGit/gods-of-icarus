@@ -1,0 +1,10 @@
+{
+  "name": "The Elevator",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "A real elevator, 1 to 16 floors: a stainless or walnut cabin, or a deck in a Clean or Smoked glass shaft.",
+  "match": "the-elevator_9_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}

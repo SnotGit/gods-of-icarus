@@ -1,0 +1,10 @@
+{
+  "name": "Workshop Storage",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Workshop cupboard of 1 to 12 lockers, 300 slots each. Nothing spoils inside.",
+  "match": "workshop-storage_15_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}
