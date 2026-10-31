@@ -3,191 +3,6 @@
 	"Items": [
 		{
 			"ItemStaticData": {
-				"RowName": "Envirosuit_Lin",
-				"DataTableName": "D_ItemsStatic"
-			},
-			"ItemDynamicData": [
-				{
-					"PropertyType": "AssociatedItemInventoryId",
-					"Value": 0
-				},
-				{
-					"PropertyType": "AssociatedItemInventorySlot",
-					"Value": 0
-				},
-				{
-					"PropertyType": "DynamicState",
-					"Value": 0
-				},
-				{
-					"PropertyType": "GunCurrentMagSize",
-					"Value": 0
-				},
-				{
-					"PropertyType": "CurrentAmmoType",
-					"Value": 0
-				},
-				{
-					"PropertyType": "BuildingVariation",
-					"Value": 0
-				},
-				{
-					"PropertyType": "ItemableStack",
-					"Value": 1
-				}
-			],
-			"ItemCustomStats": [],
-			"CustomProperties": {
-				"StaticWorldStats": [],
-				"StaticWorldHeldStats": [],
-				"Stats": [],
-				"Alterations": [
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Carrying_Bonus_2"
-					},
-					{
-						"Value": "Stomach_Capacity_2"
-					},
-					{
-						"Value": "Stomach_Capacity_2"
-					},
-					{
-						"Value": "Stomach_Capacity_2"
-					},
-					{
-						"Value": "Stomach_Capacity_2"
-					},
-					{
-						"Value": "Stomach_Capacity_2"
-					},
-					{
-						"Value": "Chest_Oxygen_2"
-					},
-					{
-						"Value": "Chest_Oxygen_2"
-					},
-					{
-						"Value": "Chest_Oxygen_2"
-					},
-					{
-						"Value": "Chest_Oxygen_2"
-					},
-					{
-						"Value": "Chest_Oxygen_2"
-					},
-					{
-						"Value": "Poison_Water_2"
-					},
-					{
-						"Value": "Poison_Water_2"
-					},
-					{
-						"Value": "Poison_Water_2"
-					},
-					{
-						"Value": "Poison_Water_2"
-					},
-					{
-						"Value": "Poison_Water_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					},
-					{
-						"Value": "Regen_Resistance_2"
-					}
-				],
-				"LivingItemSlots": []
-			},
-			"DatabaseGUID": "6CA6833A3A054B7383A1B79F4C6B6865",
-			"ItemOwnerLookupId": -1,
-			"RuntimeTags": {
-				"GameplayTags": []
-			}
-		},
-		{
-			"ItemStaticData": {
 				"RowName": "Envirosuit_Colonist",
 				"DataTableName": "D_ItemsStatic"
 			},
@@ -365,7 +180,7 @@
 				],
 				"LivingItemSlots": []
 			},
-			"DatabaseGUID": "D259A0E96E6F42729A22B76D2C66EB4F",
+			"DatabaseGUID": "F4B549479BD845578C1E65212C80BC61",
 			"ItemOwnerLookupId": -1,
 			"RuntimeTags": {
 				"GameplayTags": []
@@ -550,7 +365,7 @@
 				],
 				"LivingItemSlots": []
 			},
-			"DatabaseGUID": "1337992CC22549F8A22E2EDFF0AA282A",
+			"DatabaseGUID": "EF8DECDAED084A628317ABBBE6C5293B",
 			"ItemOwnerLookupId": -1,
 			"RuntimeTags": {
 				"GameplayTags": []
@@ -735,7 +550,7 @@
 				],
 				"LivingItemSlots": []
 			},
-			"DatabaseGUID": "780DCFB1CB0947B688DCE63C48E72FFE",
+			"DatabaseGUID": "966BCA0EF67D45F49655511A4B33AE19",
 			"ItemOwnerLookupId": -1,
 			"RuntimeTags": {
 				"GameplayTags": []
@@ -920,7 +735,7 @@
 				],
 				"LivingItemSlots": []
 			},
-			"DatabaseGUID": "A97744DC5AF84363B04AD9071A2EDF13",
+			"DatabaseGUID": "0620EA4D26624EC696B7BB1975128679",
 			"ItemOwnerLookupId": -1,
 			"RuntimeTags": {
 				"GameplayTags": []
@@ -1105,7 +920,7 @@
 				],
 				"LivingItemSlots": []
 			},
-			"DatabaseGUID": "18F92C48434545769D88B309B4CFBE86",
+			"DatabaseGUID": "08B99CD788144852AB188FDE118D94C6",
 			"ItemOwnerLookupId": -1,
 			"RuntimeTags": {
 				"GameplayTags": []
@@ -1290,7 +1105,7 @@
 				],
 				"LivingItemSlots": []
 			},
-			"DatabaseGUID": "38D6BA20160345FBAE19EFD29D43411C",
+			"DatabaseGUID": "3E7E9ACEAEC54C589C78FF5EC78A1968",
 			"ItemOwnerLookupId": -1,
 			"RuntimeTags": {
 				"GameplayTags": []

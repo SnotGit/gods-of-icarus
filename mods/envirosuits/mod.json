@@ -8,6 +8,7 @@
   "github": "SnotGit/gods-of-icarus-mods",
   "server": true,
   "pack": [
-    "armors/Envirosuits"
+    "envirosuites/Lin",
+    "envirosuites/Colonist"
   ]
 }
