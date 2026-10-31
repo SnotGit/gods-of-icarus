@@ -5,4 +5,3 @@ armors\Malformation - loadout contents:
 - Malformation Arms Armor
 - Malformation Legs Armor
 - Malformation Feet Armor
-- Malformation Envirosuit

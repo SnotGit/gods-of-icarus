@@ -9,6 +9,7 @@
   "server": true,
   "pack": [
     "armors/Malformation",
-    "armors/Felixus"
+    "armors/Felixus",
+    "envirosuites/Malformation"
   ]
 }
