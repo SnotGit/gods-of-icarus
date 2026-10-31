@@ -1,8 +1,8 @@
 envirosuites\Colonist - loadout contents:
 
-- Colonist Envirosuit Yellow
-- Colonist Envirosuit Blue
-- Colonist Envirosuit Red
-- Colonist Envirosuit White
-- Colonist Envirosuit Pink
-- Colonist Envirosuit Ivory
+- Colonist Yellow
+- Colonist Blue
+- Colonist Red
+- Colonist Black
+- Colonist Pink
+- Colonist Ivory
