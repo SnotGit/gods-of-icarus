@@ -1,0 +1,13 @@
+{
+  "name": "Envirosuits",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Logistics Officer Lin's envirosuit from Eden, and the Colonist Envirosuit in six colors, ready to wear.",
+  "match": "envirosuits_19_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "pack": [
+    "armors/Envirosuits"
+  ]
+}

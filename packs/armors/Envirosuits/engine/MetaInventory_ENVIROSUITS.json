@@ -1,0 +1,1300 @@
+{
+	"InventoryID": "MetaInventoryID_Main",
+	"Items": [
+		{
+			"ItemStaticData": {
+				"RowName": "Envirosuit_Lin",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "6CA6833A3A054B7383A1B79F4C6B6865",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Envirosuit_Colonist",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "D259A0E96E6F42729A22B76D2C66EB4F",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Envirosuit_Colonist2",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "1337992CC22549F8A22E2EDFF0AA282A",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Envirosuit_Colonist3",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "780DCFB1CB0947B688DCE63C48E72FFE",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Envirosuit_Colonist4",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "A97744DC5AF84363B04AD9071A2EDF13",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Envirosuit_Colonist5",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "18F92C48434545769D88B309B4CFBE86",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		},
+		{
+			"ItemStaticData": {
+				"RowName": "Envirosuit_Colonist6",
+				"DataTableName": "D_ItemsStatic"
+			},
+			"ItemDynamicData": [
+				{
+					"PropertyType": "AssociatedItemInventoryId",
+					"Value": 0
+				},
+				{
+					"PropertyType": "AssociatedItemInventorySlot",
+					"Value": 0
+				},
+				{
+					"PropertyType": "DynamicState",
+					"Value": 0
+				},
+				{
+					"PropertyType": "GunCurrentMagSize",
+					"Value": 0
+				},
+				{
+					"PropertyType": "CurrentAmmoType",
+					"Value": 0
+				},
+				{
+					"PropertyType": "BuildingVariation",
+					"Value": 0
+				},
+				{
+					"PropertyType": "ItemableStack",
+					"Value": 1
+				}
+			],
+			"ItemCustomStats": [],
+			"CustomProperties": {
+				"StaticWorldStats": [],
+				"StaticWorldHeldStats": [],
+				"Stats": [],
+				"Alterations": [
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Carrying_Bonus_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Stomach_Capacity_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Chest_Oxygen_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Poison_Water_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					},
+					{
+						"Value": "Regen_Resistance_2"
+					}
+				],
+				"LivingItemSlots": []
+			},
+			"DatabaseGUID": "38D6BA20160345FBAE19EFD29D43411C",
+			"ItemOwnerLookupId": -1,
+			"RuntimeTags": {
+				"GameplayTags": []
+			}
+		}
+	]
+}

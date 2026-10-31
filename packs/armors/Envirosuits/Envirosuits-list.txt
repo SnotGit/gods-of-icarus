@@ -1,0 +1,9 @@
+armors\Envirosuits - loadout contents:
+
+- Lin Envirosuit
+- Colonist Envirosuit Yellow
+- Colonist Envirosuit Blue
+- Colonist Envirosuit Red
+- Colonist Envirosuit White
+- Colonist Envirosuit Pink
+- Colonist Envirosuit Ivory
