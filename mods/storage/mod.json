@@ -1,0 +1,14 @@
+{
+  "name": "Storage",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Lab Storage, Workshop Storage and Weapon Rack.",
+  "match": "storage_*_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "replaces": [
+    "weapon-rack_*_P.pak",
+    "workshop-storage_*_P.pak"
+  ]
+}
