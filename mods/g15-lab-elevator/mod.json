@@ -1,0 +1,10 @@
+{
+  "name": "G15 Lab Elevator",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "The laboratory elevator of Elysium, 1 to 16 floors, with its floors sign.",
+  "match": "g15-lab-elevator_*_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}
