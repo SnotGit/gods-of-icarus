@@ -1,0 +1,10 @@
+{
+  "name": "Wireless Reactor",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "The Nuclear Reactor powers every machine within 200 m, no cables.",
+  "match": "nuclear-reactor_*_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}
