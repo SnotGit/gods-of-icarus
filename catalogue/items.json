@@ -498,6 +498,18 @@
   "description": "A basic lure carefully crafted out of fiber, to attract more fish."
  },
  {
+  "rowName": "Fish_Paste_Lure",
+  "nom": "Fish Paste Lure",
+  "categorie": "Accessoires",
+  "tags": [
+   "Item.Attachment.FishingRod"
+  ],
+  "poids": 250,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A compressed ball of fish paste designed to dissolve slowly in water."
+ },
+ {
   "rowName": "Gold_Ore_Lure",
   "nom": "Gold Ore Lure",
   "categorie": "Accessoires",
@@ -920,7 +932,7 @@
  },
  {
   "rowName": "Pickaxe_Attachment_BauxiteYield_1",
-  "nom": "Aluminum Attachment",
+  "nom": "Aluminium Attachment",
   "categorie": "Accessoires",
   "tags": [
    "Item.Attachment.Rank.1",
@@ -929,11 +941,11 @@
   "poids": 1000,
   "maxStack": 1,
   "deployable": false,
-  "description": "An attachment that increases the yield of aluminum."
+  "description": "An attachment that increases the yield of aluminium."
  },
  {
   "rowName": "Pickaxe_Attachment_BauxiteYield_2",
-  "nom": "Specialist Aluminum Attachment",
+  "nom": "Specialist Aluminium Attachment",
   "categorie": "Accessoires",
   "tags": [
    "Item.Attachment.Rank.2",
@@ -942,7 +954,7 @@
   "poids": 1000,
   "maxStack": 1,
   "deployable": false,
-  "description": "An attachment that increases the yield of aluminum."
+  "description": "An attachment that increases the yield of aluminium."
  },
  {
   "rowName": "Pickaxe_Attachment_Copper_Yield_1",
@@ -2174,6 +2186,33 @@
   "description": "Heavy hitting with a slow reload, so make it count."
  },
  {
+  "rowName": "Dropship_Grenade_T4",
+  "nom": "Composite Dropship Recall Beacon",
+  "categorie": "Armes",
+  "tags": [
+   "Item.Equip.Quickbar",
+   "Item.Weapon.Grenade.Dropship"
+  ],
+  "poids": 500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Once thrown if the landing area is determined to be valid, will call your dropship to your current location."
+ },
+ {
+  "rowName": "Dropship_Grenade_Workshop",
+  "nom": "Sinotai Dropship Recall Beacon",
+  "categorie": "Armes",
+  "tags": [
+   "Item.Equip.Quickbar",
+   "Item.Meta.Consumable",
+   "Item.Weapon.Grenade.Dropship"
+  ],
+  "poids": 500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Once thrown if the landing area is determined to be valid, will call your dropship to your current location."
+ },
+ {
   "rowName": "Farmers_Shotgun",
   "nom": "Rusty Shotgun",
   "categorie": "Armes",
@@ -2190,7 +2229,6 @@
   "nom": "Flamethrower",
   "categorie": "Armes",
   "tags": [
-   "Item.Tool",
    "Item.Fillable.Biofuel",
    "Item.Weapon.Flamethrower"
   ],
@@ -2297,6 +2335,30 @@
   "maxStack": 1,
   "deployable": false,
   "description": "A compact device that creates hard light bullets through a complicated process of focusing energy through a ruby lens."
+ },
+ {
+  "rowName": "Launcher_Ammo_Rudimentary_Grenade",
+  "nom": "Crude Grenade",
+  "categorie": "Armes",
+  "tags": [
+   "Item.Weapon.Grenade.Frag"
+  ],
+  "poids": 300,
+  "maxStack": 10,
+  "deployable": false,
+  "description": "A makeshift grenade that can be thrown or used in a launcher."
+ },
+ {
+  "rowName": "Launcher_Ammo_Rudimentary_Smoke",
+  "nom": "Smoke Bomb",
+  "categorie": "Armes",
+  "tags": [
+   "Item.Weapon.Grenade"
+  ],
+  "poids": 300,
+  "maxStack": 10,
+  "deployable": false,
+  "description": "A makeshift smoke grenade that can be thrown or used in a launcher."
  },
  {
   "rowName": "LegendaryWeapon_Ape_Club",
@@ -3290,6 +3352,19 @@
   "maxStack": 20,
   "deployable": false,
   "description": "A powerful, precise projectile weapon."
+ },
+ {
+  "rowName": "WaterBomb",
+  "nom": "Water Bomb",
+  "categorie": "Armes",
+  "tags": [
+   "Item.Equip.Quickbar",
+   "Item.Weapon.Grenade"
+  ],
+  "poids": 50,
+  "maxStack": 25,
+  "deployable": false,
+  "description": "A thrown device for fire fighting."
  },
  {
   "rowName": "Wood_Bow",
@@ -8381,7 +8456,8 @@
   "nom": "Garganutan Fishing Trap",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.Trophy"
+   "Item.Decoration.Trophy",
+   "Item.Deployable.Fish.Trap"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -8622,7 +8698,8 @@
   "nom": "Brutalist Candlestick",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.Brutalist"
+   "Item.Decoration.Brutalist",
+   "Item.Deployable.Light"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -9829,7 +9906,7 @@
   "poids": 1000,
   "maxStack": 1,
   "deployable": true,
-  "description": "You may display your favourite catch here for all to see.",
+  "description": "You may display your favorite catch here for all to see.",
   "meteoSensible": false
  },
  {
@@ -9917,7 +9994,8 @@
   "nom": "Art Deco Candlestick",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.ArtDeco"
+   "Item.Decoration.ArtDeco",
+   "Item.Deployable.Light"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -9931,7 +10009,8 @@
   "nom": "Art Deco Chandelier",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.ArtDeco"
+   "Item.Decoration.ArtDeco",
+   "Item.Deployable.Light"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -10806,7 +10885,8 @@
   "nom": "Homestead Wall Candle",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.Homestead"
+   "Item.Decoration.Homestead",
+   "Item.Deployable.Light"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -11322,7 +11402,8 @@
   "nom": "Industrial Candlestick",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.Industrialist"
+   "Item.Decoration.Industrialist",
+   "Item.Deployable.Light"
   ],
   "poids": 10000,
   "maxStack": 1,
@@ -11540,6 +11621,20 @@
   "maxStack": 1,
   "deployable": true,
   "description": "A mounted Moa head.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "National_Flag",
+  "nom": "Flag Pole",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.NationalFlag",
+   "Item.Decoration"
+  ],
+  "poids": 5000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "A Flag Pole with flag, made to withstand harsh conditions.",
   "meteoSensible": false
  },
  {
@@ -12719,6 +12814,71 @@
   "meteoSensible": false
  },
  {
+  "rowName": "ResearchEquipment_Centrifuge",
+  "nom": "Battered Centrifuge",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.Decoration"
+  ],
+  "poids": 4000,
+  "maxStack": 5,
+  "deployable": true,
+  "description": "A Centrifuge brought from orbit.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "ResearchEquipment_Flasks",
+  "nom": "Battered Shaker",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.Decoration"
+  ],
+  "poids": 2500,
+  "maxStack": 5,
+  "deployable": true,
+  "description": "A Shaker brought from Orbit.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "ResearchEquipment_LabDesk",
+  "nom": "Battered Lab Desk",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.Decoration"
+  ],
+  "poids": 12000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "A simple Laboratory Desk brought from Orbit.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "ResearchEquipment_Microscope",
+  "nom": "Battered Microscope",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.Decoration"
+  ],
+  "poids": 3000,
+  "maxStack": 5,
+  "deployable": true,
+  "description": "A Microscope brought from Orbit.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "ResearchEquipment_TestTubes",
+  "nom": "Battered Test Tubes",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.Decoration"
+  ],
+  "poids": 1000,
+  "maxStack": 10,
+  "deployable": true,
+  "description": "Test Tubes brought from Orbit.",
+  "meteoSensible": false
+ },
+ {
   "rowName": "Roat_Trophy",
   "nom": "Roat Trophy",
   "categorie": "Decoration",
@@ -13209,7 +13369,8 @@
   "nom": "Sandworm Brazier",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.Trophy"
+   "Item.Decoration.Trophy",
+   "Item.Deployable.Light"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -13222,7 +13383,8 @@
   "nom": "Full Sandworm Brazier",
   "categorie": "Decoration",
   "tags": [
-   "Item.Decoration.Trophy"
+   "Item.Decoration.Trophy",
+   "Item.Deployable.Light"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -13515,6 +13677,32 @@
   "maxStack": 1,
   "deployable": true,
   "description": "The mounted remains of a Stomper.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "StoneBrick_Fireplace_Cap",
+  "nom": "Stone Brick Fireplace Cap",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.Decoration"
+  ],
+  "poids": 5000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "Vents the smoke so it doesn\\'t fill your room.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "StoneBrick_Fireplace_Ext",
+  "nom": "Stone Brick Fireplace Extension",
+  "categorie": "Decoration",
+  "tags": [
+   "Item.Decoration"
+  ],
+  "poids": 5000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "An Extension for the Stone Brick Fireplace.",
   "meteoSensible": false
  },
  {
@@ -13987,7 +14175,8 @@
   "nom": "Beer",
   "categorie": "Divers",
   "tags": [
-   "Item.AllowInFridge"
+   "Item.AllowInFridge",
+   "Item.Consumable.Drink"
   ],
   "poids": 500,
   "maxStack": 12,
@@ -14192,16 +14381,6 @@
   "description": "A solid and reliable tool for building strong structures."
  },
  {
-  "rowName": "Cobalt_Ore",
-  "nom": "Cobalt Ore",
-  "categorie": "Divers",
-  "tags": [],
-  "poids": 500,
-  "maxStack": 100,
-  "deployable": false,
-  "description": "A Versatile vibrant blue ore found rarely on Icarus."
- },
- {
   "rowName": "Cocoa",
   "nom": "Cocoa",
   "categorie": "Divers",
@@ -14301,6 +14480,18 @@
   "maxStack": 1,
   "deployable": false,
   "description": "Exotic matter, an impossibility in your hands. Requires Lasers to be Cut into smaller useable pieces."
+ },
+ {
+  "rowName": "Copper_Nail",
+  "nom": "Copper Nail",
+  "categorie": "Divers",
+  "tags": [
+   "Item.Resource.Nail"
+  ],
+  "poids": 12,
+  "maxStack": 100,
+  "deployable": false,
+  "description": "Lightweight copper fastener."
  },
  {
   "rowName": "Copper_Wire",
@@ -14436,6 +14627,30 @@
   "description": "Some rich Icarus soil extracted from the ground with a shovel."
  },
  {
+  "rowName": "Dough_Bread",
+  "nom": "Bread Dough",
+  "categorie": "Divers",
+  "tags": [
+   "Item.Resource.Spoilable"
+  ],
+  "poids": 50,
+  "maxStack": 50,
+  "deployable": false,
+  "description": "Makes bread, just add to a fire."
+ },
+ {
+  "rowName": "Dough_Flatbread",
+  "nom": "Flatbread Dough",
+  "categorie": "Divers",
+  "tags": [
+   "Item.Resource.Spoilable"
+  ],
+  "poids": 25,
+  "maxStack": 100,
+  "deployable": false,
+  "description": "Makes flatbread, just add to a fire."
+ },
+ {
   "rowName": "DropShip",
   "nom": "Drop Ship",
   "categorie": "Divers",
@@ -14446,18 +14661,6 @@
   "maxStack": 1,
   "deployable": false,
   "description": "Dropship"
- },
- {
-  "rowName": "Dropship_Grenade_T4",
-  "nom": "Composite Dropship Recall Beacon",
-  "categorie": "Divers",
-  "tags": [
-   "Item.Equip.Quickbar"
-  ],
-  "poids": 500,
-  "maxStack": 1,
-  "deployable": false,
-  "description": "Once thrown if the landing area is determined to be valid, will call your dropship to your current location."
  },
  {
   "rowName": "Electronics",
@@ -15725,12 +15928,26 @@
   "nom": "Blinky",
   "categorie": "Divers",
   "tags": [
-   "NPC.Fish.Freshwater"
+   "NPC.Fish.Freshwater",
+   "NPC.Fish.Unique"
   ],
   "poids": 0,
   "maxStack": 1,
   "deployable": false,
   "description": "A mutated fish found in radioactive areas."
+ },
+ {
+  "rowName": "Fish_Paste",
+  "nom": "Fish Paste",
+  "categorie": "Divers",
+  "tags": [
+   "Item.Resource",
+   "Item.Fuel.AnimalFat"
+  ],
+  "poids": 15,
+  "maxStack": 100,
+  "deployable": false,
+  "description": "Pureed fish and salt which can be used as a binding agent for a multitude of products."
  },
  {
   "rowName": "FlavoredDrinkIcon_Cocoa",
@@ -15832,6 +16049,20 @@
   "poids": 1,
   "maxStack": 1,
   "deployable": false
+ },
+ {
+  "rowName": "Flightless_Tank_Horn",
+  "nom": "Sandhorn Horn",
+  "categorie": "Divers",
+  "tags": [
+   "Item.Resource",
+   "Item.Creature.Loot",
+   "Item.Utility"
+  ],
+  "poids": 7500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A large tusk of the Sandhorn, can be broken down into a large amount of organic resin."
  },
  {
   "rowName": "Flour",
@@ -16035,7 +16266,7 @@
   "nom": "Fur Stack",
   "categorie": "Divers",
   "tags": [
-   "Item.Resource.Fur"
+   "Item.Resource"
   ],
   "poids": 12500,
   "maxStack": 1,
@@ -16180,7 +16411,8 @@
   "nom": "Honey Mead",
   "categorie": "Divers",
   "tags": [
-   "Item.AllowInFridge"
+   "Item.AllowInFridge",
+   "Item.Consumable.Drink"
   ],
   "poids": 500,
   "maxStack": 20,
@@ -16250,6 +16482,18 @@
   "description": "A bucket that can be filled with water."
  },
  {
+  "rowName": "Iron_Nail",
+  "nom": "Iron Nail",
+  "categorie": "Divers",
+  "tags": [
+   "Item.Resource.Nail"
+  ],
+  "poids": 12,
+  "maxStack": 100,
+  "deployable": false,
+  "description": "An inter-fibrous friction fastener."
+ },
+ {
   "rowName": "Item_Medicine_Bag",
   "nom": "Medical Satchel",
   "categorie": "Divers",
@@ -16280,7 +16524,6 @@
   "categorie": "Divers",
   "tags": [
    "Item.Fuel.Biofuel",
-   "Item.Deployable.ResourceStorage.Biofuel",
    "Item.Fillable.Biofuel",
    "Resource.Transfer"
   ],
@@ -16423,7 +16666,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16436,7 +16679,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16449,7 +16692,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16462,7 +16705,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16475,7 +16718,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16488,7 +16731,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16516,7 +16759,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16529,7 +16772,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16542,7 +16785,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16555,7 +16798,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16568,7 +16811,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16580,7 +16823,8 @@
   "nom": "BEAST",
   "categorie": "Divers",
   "tags": [
-   "Item.Meta.CreatureScanner"
+   "Item.Meta.CreatureScanner",
+   "Item.Scanner"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -16593,7 +16837,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16605,7 +16849,8 @@
   "nom": "FISH",
   "categorie": "Divers",
   "tags": [
-   "Item.Meta"
+   "Item.Meta",
+   "Item.Scanner"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -16618,7 +16863,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16631,7 +16876,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16659,7 +16904,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16672,7 +16917,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16685,7 +16930,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16698,7 +16943,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16711,7 +16956,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16754,7 +16999,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16766,7 +17011,6 @@
   "nom": "Inaris Powerbank",
   "categorie": "Divers",
   "tags": [
-   "Item.Deployable.ResourceStorage.Energy",
    "Item.Fillable.Energy",
    "Item.Powered.Battery.Portable",
    "Resource.Transfer",
@@ -16784,7 +17028,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16797,7 +17041,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16810,7 +17054,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16823,7 +17067,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16849,7 +17093,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16862,7 +17106,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16875,7 +17119,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16888,7 +17132,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16901,7 +17145,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16914,7 +17158,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16927,7 +17171,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16940,7 +17184,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16953,7 +17197,7 @@
   "categorie": "Divers",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Seeds"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -16966,7 +17210,8 @@
   "categorie": "Divers",
   "tags": [
    "Item.Equip.Quickbar",
-   "Item.Fillable.Milk"
+   "Item.Fillable.Milk",
+   "Item.Resource"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -17589,7 +17834,8 @@
   "categorie": "Divers",
   "tags": [
    "Item.Resource",
-   "Proxy.Liquid.Green"
+   "Proxy.Liquid.Green",
+   "Item.Resource.Paint"
   ],
   "poids": 10,
   "maxStack": 500,
@@ -17770,7 +18016,6 @@
   "nom": "Powerbank",
   "categorie": "Divers",
   "tags": [
-   "Item.Deployable.ResourceStorage.Energy",
    "Item.Fillable.Energy",
    "Item.Powered.Battery.Portable",
    "Resource.Transfer"
@@ -17779,6 +18024,18 @@
   "maxStack": 1,
   "deployable": false,
   "description": "For Portable Electrical Storage and charging of handheld devices. Can be used to charge items in your inventory with a right click."
+ },
+ {
+  "rowName": "PricklyPear_Margarita",
+  "nom": "Prickly Pear Margarita",
+  "categorie": "Divers",
+  "tags": [
+   "Item.Consumable.Drink"
+  ],
+  "poids": 100,
+  "maxStack": 10,
+  "deployable": false,
+  "description": "A refreshing beverage with a tart twist."
  },
  {
   "rowName": "ProspectorID",
@@ -17935,7 +18192,8 @@
   "nom": "Quarrite Armor Fragment (Coal)",
   "categorie": "Divers",
   "tags": [
-   "Item.Resource"
+   "Item.Resource",
+   "Item.Creature.Loot"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -17947,7 +18205,8 @@
   "nom": "Quarrite Armor Fragment (Copper)",
   "categorie": "Divers",
   "tags": [
-   "Item.Resource"
+   "Item.Resource",
+   "Item.Creature.Loot"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -17959,7 +18218,8 @@
   "nom": "Quarrite Armor Fragment (Exotic)",
   "categorie": "Divers",
   "tags": [
-   "Item.Resource"
+   "Item.Resource",
+   "Item.Creature.Loot"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -17971,7 +18231,8 @@
   "nom": "Quarrite Armor Fragment (Gold)",
   "categorie": "Divers",
   "tags": [
-   "Item.Resource"
+   "Item.Resource",
+   "Item.Creature.Loot"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -17983,7 +18244,8 @@
   "nom": "Quarrite Armor Fragment (Iron)",
   "categorie": "Divers",
   "tags": [
-   "Item.Resource"
+   "Item.Resource",
+   "Item.Creature.Loot"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -17995,7 +18257,8 @@
   "nom": "Quarrite Armor Fragment (Oxite)",
   "categorie": "Divers",
   "tags": [
-   "Item.Resource"
+   "Item.Resource",
+   "Item.Creature.Loot"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -18273,7 +18536,7 @@
  },
  {
   "rowName": "Seed_Oil",
-  "nom": "Vegetable Oil",
+  "nom": "Organic Oil",
   "categorie": "Divers",
   "tags": [
    "Item.Resource",
@@ -18282,7 +18545,7 @@
   "poids": 50,
   "maxStack": 100,
   "deployable": false,
-  "description": "Thick oil, made from plant extract."
+  "description": "Thick oil, perfect for cooking."
  },
  {
   "rowName": "Seed_Pouch",
@@ -18527,7 +18790,9 @@
   "rowName": "Tequila",
   "nom": "Bottled Tequila",
   "categorie": "Divers",
-  "tags": [],
+  "tags": [
+   "Item.Consumable.Drink"
+  ],
   "poids": 100,
   "maxStack": 10,
   "deployable": false,
@@ -18648,7 +18913,9 @@
   "rowName": "Truffle_Vodka",
   "nom": "Truffle Spiced Vodka",
   "categorie": "Divers",
-  "tags": [],
+  "tags": [
+   "Item.Consumable.Drink"
+  ],
   "poids": 100,
   "maxStack": 10,
   "deployable": false,
@@ -18721,7 +18988,9 @@
   "rowName": "Vodka",
   "nom": "Vodka",
   "categorie": "Divers",
-  "tags": [],
+  "tags": [
+   "Item.Consumable.Drink"
+  ],
   "poids": 100,
   "maxStack": 10,
   "deployable": false,
@@ -18751,18 +19020,6 @@
   "maxStack": 25,
   "deployable": false,
   "description": "Formally highly explosive substance made from locally found materials native to Icarus."
- },
- {
-  "rowName": "WaterBomb",
-  "nom": "Water Bomb",
-  "categorie": "Divers",
-  "tags": [
-   "Item.Equip.Quickbar"
-  ],
-  "poids": 50,
-  "maxStack": 25,
-  "deployable": false,
-  "description": "A thrown device for fire fighting."
  },
  {
   "rowName": "Watering_Can",
@@ -18822,7 +19079,8 @@
   "nom": "Wine",
   "categorie": "Divers",
   "tags": [
-   "Item.AllowInFridge"
+   "Item.AllowInFridge",
+   "Item.Consumable.Drink"
   ],
   "poids": 500,
   "maxStack": 12,
@@ -18944,7 +19202,9 @@
   "rowName": "Beehive",
   "nom": "Beehive",
   "categorie": "Elevage",
-  "tags": [],
+  "tags": [
+   "Item.Beehive"
+  ],
   "poids": 5000,
   "maxStack": 1,
   "deployable": true,
@@ -19293,7 +19553,8 @@
   "nom": "Battery Cavelight",
   "categorie": "Energie & eau",
   "tags": [
-   "Item.Powered.Battery"
+   "Item.Powered.Battery",
+   "Item.Deployable.Light"
   ],
   "poids": 2000,
   "maxStack": 1,
@@ -19306,7 +19567,8 @@
   "nom": "Battery Spotlight",
   "categorie": "Energie & eau",
   "tags": [
-   "Item.Powered.Battery"
+   "Item.Powered.Battery",
+   "Item.Deployable.Light"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -19338,7 +19600,7 @@
   "nom": "Biofuel Deep-Mining Drill",
   "categorie": "Energie & eau",
   "tags": [
-   "Item.Machine"
+   "Item.Deployable.DeepMining"
   ],
   "poids": 10000,
   "maxStack": 1,
@@ -19352,8 +19614,7 @@
   "categorie": "Energie & eau",
   "tags": [
    "Item.Extractor",
-   "Item.Utility",
-   "Item.Machine"
+   "Item.Utility"
   ],
   "poids": 2000,
   "maxStack": 1,
@@ -19494,8 +19755,7 @@
   "nom": "Biofuel Oxite Dissolver",
   "categorie": "Energie & eau",
   "tags": [
-   "Item.Bench",
-   "Item.Machine"
+   "Item.Bench"
   ],
   "poids": 8000,
   "maxStack": 1,
@@ -19628,8 +19888,7 @@
   "categorie": "Energie & eau",
   "tags": [
    "Item.Radar",
-   "Item.Utility",
-   "Item.Machine"
+   "Item.Utility"
   ],
   "poids": 2000,
   "maxStack": 1,
@@ -19682,7 +19941,7 @@
  },
  {
   "rowName": "Tesla_Coil",
-  "nom": "Automated Defense System: Tesla Coil",
+  "nom": "Tesla Coil",
   "categorie": "Energie & eau",
   "tags": [],
   "poids": 20000,
@@ -20176,19 +20435,6 @@
   "meteoSensible": true
  },
  {
-  "rowName": "Deep_Mining_Drill_Electric",
-  "nom": "Electric Deep-Mining Drill",
-  "categorie": "Machines & bancs",
-  "tags": [
-   "Item.Machine"
-  ],
-  "poids": 10000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "A convenient drilling device that runs on electricity.",
-  "meteoSensible": false
- },
- {
   "rowName": "Deep_Mining_Drill_Oil",
   "nom": "Oil Deep-Mining Drill",
   "categorie": "Machines & bancs",
@@ -20317,32 +20563,6 @@
   }
  },
  {
-  "rowName": "Electric_Dehumidifier",
-  "nom": "Electric Dehumidifier",
-  "categorie": "Machines & bancs",
-  "tags": [
-   "Item.Machine"
-  ],
-  "poids": 20000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "Diminishes such health risks as cave sickness, while also seeming to dispel cave worms.",
-  "meteoSensible": false
- },
- {
-  "rowName": "Electric_Dehumidifier_V2",
-  "nom": "Electric Dehumidifier",
-  "categorie": "Machines & bancs",
-  "tags": [
-   "Item.Machine"
-  ],
-  "poids": 20000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "Diminishes such health risks as cave sickness, while also seeming to dispel cave worms.",
-  "meteoSensible": false
- },
- {
   "rowName": "Electric_Fireplace",
   "nom": "Electric Fireplace",
   "categorie": "Machines & bancs",
@@ -20386,8 +20606,7 @@
   "nom": "Electrolytic Oxygen Synthesizer",
   "categorie": "Machines & bancs",
   "tags": [
-   "Item.Bench",
-   "Item.Machine"
+   "Item.Bench"
   ],
   "poids": 8000,
   "maxStack": 1,
@@ -20701,19 +20920,6 @@
    "fileAttente": 5
   },
   "dlc": "Homestead Decorations Pack"
- },
- {
-  "rowName": "Ice_Borer",
-  "nom": "Ice Borer",
-  "categorie": "Machines & bancs",
-  "tags": [
-   "Item.Machine"
-  ],
-  "poids": 10000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "A biofuel-powered drill capable of extracting Super-Cooled Ice or Frozen Wood from Arctic areas.",
-  "meteoSensible": false
  },
  {
   "rowName": "Kit_Concrete_Furnace",
@@ -21080,21 +21286,6 @@
   }
  },
  {
-  "rowName": "Radar_Electric",
-  "nom": "Electric Radar",
-  "categorie": "Machines & bancs",
-  "tags": [
-   "Item.Radar",
-   "Item.Utility",
-   "Item.Machine"
-  ],
-  "poids": 2000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "A portable Exotics detection unit powered by Electricity. Approximate directional arc shown on your map. Attracts animals while active.",
-  "meteoSensible": false
- },
- {
   "rowName": "Repair_Bench",
   "nom": "Repair Bench",
   "categorie": "Machines & bancs",
@@ -21440,6 +21631,19 @@
   "description": "Cloth bandages impregnated with a warming salve, for treating frosty and frostbite."
  },
  {
+  "rowName": "Bandage_Poultice",
+  "nom": "Poultice Bandage",
+  "categorie": "Medecine",
+  "tags": [
+   "Item.Equip.Quickbar",
+   "Item.Medicine.Bandage"
+  ],
+  "poids": 100,
+  "maxStack": 10,
+  "deployable": false,
+  "description": "A cloth bandage that steams bleeding, heals minor wounds, and prevents future wounds."
+ },
+ {
   "rowName": "Blood_Thinning_Paste",
   "nom": "Blood Thinning Paste",
   "categorie": "Medecine",
@@ -21659,7 +21863,7 @@
   "tags": [
    "Item.Equip.Quickbar",
    "Item.Meta.Consumable",
-   "Item.Medicine.Meta"
+   "Item.Medicine.Bandage"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -23352,7 +23556,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23366,7 +23570,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23380,7 +23584,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23394,7 +23598,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23408,7 +23612,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23422,7 +23626,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23436,7 +23640,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23450,7 +23654,7 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle"
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23464,8 +23668,8 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle",
-   "Item.Ammo.Uranium"
+   "Item.Ammo.Uranium",
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23479,8 +23683,8 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle",
-   "Item.Meta"
+   "Item.Meta",
+   "Item.Ammo.AssaultRifle"
   ],
   "poids": 10,
   "maxStack": 100,
@@ -23517,7 +23721,7 @@
   "poids": 10,
   "maxStack": 100,
   "deployable": false,
-  "description": "An Enzyme Delivery System - a hard outer case with Enzymes inside. Use with your favourite projectile-firing weapon - pistol, shotgun or rifle."
+  "description": "An Enzyme Delivery System - a hard outer case with Enzymes inside. Use with your favorite projectile-firing weapon - pistol, shotgun or rifle."
  },
  {
   "rowName": "Ammo_Pistol_Round",
@@ -23938,28 +24142,13 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle",
-   "Item.Meta"
+   "Item.Meta",
+   "Item.Ammo.Sniper"
   ],
   "poids": 20,
   "maxStack": 50,
   "deployable": false,
   "description": "Standard Anti-Materiel Rifle Round"
- },
- {
-  "rowName": "Ammo_Sniper_Round_Explosive",
-  "nom": "12.7mm CHAC Explosive Round",
-  "categorie": "Munitions",
-  "tags": [
-   "Item.Ammo.Bullet",
-   "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle",
-   "Item.Meta"
-  ],
-  "poids": 20,
-  "maxStack": 50,
-  "deployable": false,
-  "description": "Explosive Anti-Materiel Rifle Round"
  },
  {
   "rowName": "Ammo_Sniper_Round_Illumination",
@@ -23968,8 +24157,8 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle",
-   "Item.Meta"
+   "Item.Meta",
+   "Item.Ammo.Sniper"
   ],
   "poids": 20,
   "maxStack": 50,
@@ -23982,8 +24171,8 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Rifle",
-   "Item.Meta"
+   "Item.Meta",
+   "Item.Ammo.Sniper"
   ],
   "poids": 20,
   "maxStack": 50,
@@ -24099,19 +24288,6 @@
   "description": "Lightweight and strong, the copper bolt hits hard over distance."
  },
  {
-  "rowName": "Copper_Nail",
-  "nom": "Copper Nail",
-  "categorie": "Munitions",
-  "tags": [
-   "Item.Ammo.Nail",
-   "Item.Resource.Nail"
-  ],
-  "poids": 12,
-  "maxStack": 100,
-  "deployable": false,
-  "description": "Lightweight copper fastener."
- },
- {
   "rowName": "Drill_Arrow",
   "nom": "Prototype Drill Arrow",
   "categorie": "Munitions",
@@ -24154,7 +24330,6 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Pistol",
    "Item.Ammo.Flare"
   ],
   "poids": 8,
@@ -24169,7 +24344,6 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Pistol",
    "Item.Ammo.Flare"
   ],
   "poids": 8,
@@ -24184,7 +24358,6 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Pistol",
    "Item.Ammo.Flare"
   ],
   "poids": 8,
@@ -24199,7 +24372,6 @@
   "tags": [
    "Item.Ammo.Bullet",
    "GameStateRecorder.DontRecord",
-   "Item.Ammo.Pistol",
    "Item.Ammo.Flare"
   ],
   "poids": 8,
@@ -24218,19 +24390,6 @@
   "maxStack": 100,
   "deployable": false,
   "description": "Flies further, hits harder than stone or bone."
- },
- {
-  "rowName": "Iron_Nail",
-  "nom": "Iron Nail",
-  "categorie": "Munitions",
-  "tags": [
-   "Item.Ammo.Nail",
-   "Item.Resource.Nail"
-  ],
-  "poids": 12,
-  "maxStack": 100,
-  "deployable": false,
-  "description": "An inter-fibrous friction fastener."
  },
  {
   "rowName": "Iron_Wood_Arrow",
@@ -24255,30 +24414,6 @@
   "maxStack": 100,
   "deployable": false,
   "description": "A toxin-coated Bolt, carefully crafted using Miasma harvested from Icarus wildlife."
- },
- {
-  "rowName": "Launcher_Ammo_Rudimentary_Grenade",
-  "nom": "Crude Grenade",
-  "categorie": "Munitions",
-  "tags": [
-   "Item.Ammo.Launcher.Makeshift"
-  ],
-  "poids": 300,
-  "maxStack": 10,
-  "deployable": false,
-  "description": "A makeshift grenade that can be thrown or used in a launcher."
- },
- {
-  "rowName": "Launcher_Ammo_Rudimentary_Smoke",
-  "nom": "Smoke Bomb",
-  "categorie": "Munitions",
-  "tags": [
-   "Item.Ammo.Launcher.Makeshift"
-  ],
-  "poids": 300,
-  "maxStack": 10,
-  "deployable": false,
-  "description": "A makeshift smoke grenade that can be thrown or used in a launcher."
  },
  {
   "rowName": "Lithium_Arrow",
@@ -24834,7 +24969,7 @@
   "poids": 1250,
   "maxStack": 1,
   "deployable": false,
-  "description": "High-tensile angling rod reinforced with a lightweight carbon-composite weave. Engineered to handle extreme bending strain when hooking heavy aquatic organisms native to Icarus waters."
+  "description": "High-tensile angling rod reinforced with a lightweight carbon-composite weave."
  },
  {
   "rowName": "Caveworm_Knife",
@@ -24893,7 +25028,8 @@
   "categorie": "Outils",
   "tags": [
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -24956,7 +25092,8 @@
   "categorie": "Outils",
   "tags": [
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25073,7 +25210,8 @@
   "categorie": "Outils",
   "tags": [
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25419,7 +25557,7 @@
  },
  {
   "rowName": "Meta_Firewhacker_Printed",
-  "nom": "MXC Firewhacker",
+  "nom": "MXC Fire Whacker",
   "categorie": "Outils",
   "tags": [
    "Item.Tool.Firewhacker",
@@ -25508,7 +25646,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25522,7 +25661,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25536,7 +25676,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25550,7 +25691,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25564,7 +25706,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25578,7 +25721,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -25592,7 +25736,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -25606,7 +25751,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -25620,7 +25766,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -25634,7 +25781,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -25648,7 +25796,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -25662,7 +25811,8 @@
   "tags": [
    "Item.Meta",
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -26153,7 +26303,8 @@
   "categorie": "Outils",
   "tags": [
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26545,7 +26696,8 @@
   "categorie": "Outils",
   "tags": [
    "Item.Tool.Knife.T2",
-   "Item.Tool.Knife.T1"
+   "Item.Tool.Knife.T1",
+   "Item.Tool.Knife.T3"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26642,6 +26794,22 @@
   "description": "A sturdy fishing rod."
  },
  {
+  "rowName": "Workshop_Lantern",
+  "nom": "Inaris Lantern",
+  "categorie": "Outils",
+  "tags": [
+   "Item.Upgrade.Vision",
+   "Item.Tool.Light",
+   "Item.Powered.Battery",
+   "Item.Meta",
+   "MetaItem.Convert.ReplenishFillable"
+  ],
+  "poids": 250,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "An LED Lantern for illuminating dark corners. Can be recharged in a Charging Station."
+ },
+ {
   "rowName": "Workshop_Shovel",
   "nom": "The Excavator",
   "categorie": "Outils",
@@ -26660,7 +26828,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.AssaultRifle"
   ],
   "poids": 250,
   "maxStack": 1,
@@ -26673,7 +26841,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Pistol"
   ],
   "poids": 250,
   "maxStack": 1,
@@ -26686,7 +26854,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Sniper"
   ],
   "poids": 250,
   "maxStack": 1,
@@ -26699,7 +26867,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Shotgun"
   ],
   "poids": 250,
   "maxStack": 1,
@@ -26707,25 +26875,12 @@
   "description": "A Box of 25 CHAC 12-Gauge Shells. \\'CONSUME\\' to open box."
  },
  {
-  "rowName": "Ammo_Sniper_Round_Explosive_Workshop_Bundle",
-  "nom": "12.7mm CHAC Explosive Ammo Box",
-  "categorie": "Packs orbitaux",
-  "tags": [
-   "Item.Meta.Consumable",
-   "Item.Meta.Package"
-  ],
-  "poids": 250,
-  "maxStack": 1,
-  "deployable": false,
-  "description": "A Box of 25 CHAC 12.7mm Ammo. \\'CONSUME\\' to open box."
- },
- {
   "rowName": "Ammo_Sniper_Round_Incendiary_Workshop_Bundle",
   "nom": "12.7mm CHAC Incendiary Ammo Box",
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Sniper"
   ],
   "poids": 250,
   "maxStack": 1,
@@ -26738,25 +26893,12 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Sniper"
   ],
   "poids": 250,
   "maxStack": 1,
   "deployable": false,
   "description": "A Box of 25 CHAC 12.7mm Ammo. \\'CONSUME\\' to open box."
- },
- {
-  "rowName": "Dropship_Grenade_Workshop",
-  "nom": "Sinotai Dropship Recall Beacon",
-  "categorie": "Packs orbitaux",
-  "tags": [
-   "Item.Equip.Quickbar",
-   "Item.Meta.Consumable"
-  ],
-  "poids": 500,
-  "maxStack": 1,
-  "deployable": false,
-  "description": "Once thrown if the landing area is determined to be valid, will call your dropship to your current location."
  },
  {
   "rowName": "Frozen_Kiwi",
@@ -26779,7 +26921,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26792,7 +26934,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26805,7 +26947,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26818,7 +26960,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 20,
   "maxStack": 1,
@@ -26831,7 +26973,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26844,7 +26986,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26857,7 +26999,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26870,7 +27012,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26883,7 +27025,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -26896,7 +27038,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -26909,7 +27051,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 100,
   "maxStack": 1,
@@ -26922,7 +27064,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Arrows"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26935,7 +27077,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Bolts"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26948,7 +27090,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Bolts"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26961,7 +27103,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Bolts"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26974,7 +27116,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo.Bolts"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -26987,7 +27129,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Resource"
   ],
   "poids": 10000,
   "maxStack": 1,
@@ -27027,7 +27169,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Repair"
   ],
   "poids": 500,
   "maxStack": 1,
@@ -27287,7 +27429,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Medical"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -27300,7 +27442,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Resource"
   ],
   "poids": 250,
   "maxStack": 1,
@@ -27598,7 +27740,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Medical"
   ],
   "poids": 8000,
   "maxStack": 1,
@@ -27731,7 +27873,7 @@
   "categorie": "Packs orbitaux",
   "tags": [
    "Item.Meta.Consumable",
-   "Item.Meta.Package"
+   "Item.Meta.Package.Ammo"
   ],
   "poids": 250,
   "maxStack": 1,
@@ -28140,7 +28282,6 @@
   "nom": "Oil Barrel",
   "categorie": "Rangements",
   "tags": [
-   "Item.Battery",
    "Item.Fillable.RefinedOil",
    "Item.Utility",
    "Item.Fuel.Oil",
@@ -30256,11 +30397,13 @@
   "rowName": "Advanced_Aquarium",
   "nom": "Advanced Aquarium",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Fish.Aquarium"
+  ],
   "poids": 2500,
   "maxStack": 1,
   "deployable": true,
-  "description": "A very fancy fish tank for keeping your favourite finned friends around, must be connected to both power and water.",
+  "description": "A very fancy fish tank for keeping your favorite finned friends around, must be connected to both power and water.",
   "meteoSensible": true
  },
  {
@@ -30278,7 +30421,9 @@
   "rowName": "Advanced_Fishing_Trap",
   "nom": "Advanced Fishing Trap",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Fish.Trap"
+  ],
   "poids": 1000,
   "maxStack": 1,
   "deployable": true,
@@ -30453,11 +30598,13 @@
   "rowName": "Aquarium",
   "nom": "Aquarium",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Fish.Aquarium"
+  ],
   "poids": 1000,
   "maxStack": 1,
   "deployable": true,
-  "description": "A handy fish tank for keeping your favourite finned friends around, powered by biofuel.",
+  "description": "A handy fish tank for keeping your favorite finned friends around, powered by biofuel.",
   "meteoSensible": true
  },
  {
@@ -30465,10 +30612,21 @@
   "nom": "Wooden Armor Stand",
   "categorie": "Utilitaires deployables",
   "tags": [],
-  "poids": 15000,
+  "poids": 8000,
   "maxStack": 1,
   "deployable": true,
   "description": "A nicely carved stand where armor can be displayed.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Armour_Stand_T4",
+  "nom": "Advanced Armor Stand",
+  "categorie": "Utilitaires deployables",
+  "tags": [],
+  "poids": 15000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "A stylish display case for your armor, which when powered, will slowly repair stored armor pieces",
   "meteoSensible": false
  },
  {
@@ -30488,7 +30646,9 @@
   "rowName": "Basic_Ceiling_Light",
   "nom": "Bunker Light",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 750,
   "maxStack": 10,
   "deployable": true,
@@ -30499,7 +30659,9 @@
   "rowName": "Basic_Fishing_Trap",
   "nom": "Basic Fishing Trap",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Fish.Trap"
+  ],
   "poids": 1000,
   "maxStack": 1,
   "deployable": true,
@@ -30521,7 +30683,9 @@
   "rowName": "Beacon_Tool",
   "nom": "Prototype Trail Beacon Tool",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Scanner"
+  ],
   "poids": 1000,
   "maxStack": 1,
   "deployable": true,
@@ -30582,7 +30746,9 @@
   "rowName": "Brazier",
   "nom": "Brazier",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 1750,
   "maxStack": 1,
   "deployable": true,
@@ -30593,7 +30759,9 @@
   "rowName": "Brick_Sign_Small",
   "nom": "Small Clay Brick Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 1000,
   "maxStack": 20,
   "deployable": true,
@@ -30605,7 +30773,8 @@
   "nom": "Brutalist Lamp",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Brutalist"
+   "Item.Decoration.Brutalist",
+   "Item.Deployable.Light"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -30619,7 +30788,8 @@
   "nom": "Brutalist Square Lamp",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Brutalist"
+   "Item.Decoration.Brutalist",
+   "Item.Deployable.Light"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -30633,7 +30803,8 @@
   "nom": "Base Sign",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Bunker"
+   "Item.Decoration.Bunker",
+   "Item.Deployable.Sign"
   ],
   "poids": 5000,
   "maxStack": 5,
@@ -30646,7 +30817,8 @@
   "nom": "Ruaumoko Base Sign",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Bunker"
+   "Item.Decoration.Bunker",
+   "Item.Deployable.Sign"
   ],
   "poids": 5000,
   "maxStack": 5,
@@ -30659,7 +30831,8 @@
   "nom": "Carved Wood Desk Lamp",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Carved"
+   "Item.Decoration.Carved",
+   "Item.Deployable.Light"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -30854,7 +31027,9 @@
   "rowName": "Composite_Sign_Small",
   "nom": "Small Composite Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 1000,
   "maxStack": 20,
   "deployable": true,
@@ -30930,7 +31105,9 @@
   "rowName": "Cooler_Large",
   "nom": "Heavy Air Conditioner",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Climate.Cooling"
+  ],
   "poids": 20000,
   "maxStack": 1,
   "deployable": true,
@@ -31036,10 +31213,25 @@
   "meteoSensible": false
  },
  {
+  "rowName": "Deep_Mining_Drill_Electric",
+  "nom": "Electric Deep-Mining Drill",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.Deployable.DeepMining"
+  ],
+  "poids": 10000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "A convenient drilling device that runs on electricity.",
+  "meteoSensible": false
+ },
+ {
   "rowName": "Dehumidifier",
   "nom": "Dehumidifier",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Climate.Dehumidifier"
+  ],
   "poids": 20000,
   "maxStack": 1,
   "deployable": true,
@@ -31099,8 +31291,34 @@
   "meteoSensible": false
  },
  {
+  "rowName": "Electric_Dehumidifier",
+  "nom": "Electric Dehumidifier",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.Deployable.Climate.Dehumidifier"
+  ],
+  "poids": 20000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "Diminishes such health risks as cave sickness, while also seeming to dispel cave worms.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Electric_Dehumidifier_V2",
+  "nom": "Electric Dehumidifier",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.Deployable.Climate.Dehumidifier"
+  ],
+  "poids": 20000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "Diminishes such health risks as cave sickness, while also seeming to dispel cave worms.",
+  "meteoSensible": false
+ },
+ {
   "rowName": "Enemy_Turret_Flamethrower",
-  "nom": "Blackmarket Automative Defence Turret (Flamethrower)",
+  "nom": "Blackmarket Auto-Turret: Flamethrower",
   "categorie": "Utilitaires deployables",
   "tags": [
    "HostileTurret.Flamethrower",
@@ -31115,7 +31333,7 @@
  },
  {
   "rowName": "Enemy_Turret_Pistol",
-  "nom": "Blackmarket Automative Defence Turret (Pistol)",
+  "nom": "Blackmarket Auto-Turret: Pistol",
   "categorie": "Utilitaires deployables",
   "tags": [
    "Prebuilt.IgnoreUnobtainable",
@@ -31180,7 +31398,9 @@
   "rowName": "Exposed_Ceiling_Light",
   "nom": "Exposed Light",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 250,
   "maxStack": 10,
   "deployable": true,
@@ -31191,7 +31411,9 @@
   "rowName": "Exposed_Ceiling_Light_Foggy",
   "nom": "Frosted Light",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 250,
   "maxStack": 10,
   "deployable": true,
@@ -31807,7 +32029,8 @@
   "nom": "Art Deco Floor Lamp",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.ArtDeco"
+   "Item.Decoration.ArtDeco",
+   "Item.Deployable.Light"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -31821,7 +32044,8 @@
   "nom": "Art Deco Wall Light",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.ArtDeco"
+   "Item.Decoration.ArtDeco",
+   "Item.Deployable.Light"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -31835,7 +32059,8 @@
   "nom": "Art Deco Wall Sign",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.ArtDeco"
+   "Item.Decoration.ArtDeco",
+   "Item.Deployable.Sign"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -31848,7 +32073,9 @@
   "rowName": "Heater_Large",
   "nom": "Heavy Heater",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Climate.Heating"
+  ],
   "poids": 20000,
   "maxStack": 1,
   "deployable": true,
@@ -31872,7 +32099,8 @@
   "categorie": "Utilitaires deployables",
   "tags": [
    "Item.Decoration.Carved",
-   "Item.Decoration.Homestead"
+   "Item.Decoration.Homestead",
+   "Item.Deployable.Light"
   ],
   "poids": 5000,
   "maxStack": 5,
@@ -31887,7 +32115,8 @@
   "categorie": "Utilitaires deployables",
   "tags": [
    "Item.Decoration.Carved",
-   "Item.Decoration.Homestead"
+   "Item.Decoration.Homestead",
+   "Item.Deployable.Light"
   ],
   "poids": 2000,
   "maxStack": 5,
@@ -31901,7 +32130,8 @@
   "nom": "Homestead Rustic Lamp",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Homestead"
+   "Item.Decoration.Homestead",
+   "Item.Deployable.Light"
   ],
   "poids": 1000,
   "maxStack": 5,
@@ -31915,7 +32145,8 @@
   "nom": "Ranch Gate Sign",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Homestead"
+   "Item.Decoration.Homestead",
+   "Item.Deployable.Sign"
   ],
   "poids": 20000,
   "maxStack": 1,
@@ -31928,7 +32159,8 @@
   "nom": "Ranch Sign",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Homestead"
+   "Item.Decoration.Homestead",
+   "Item.Deployable.Sign"
   ],
   "poids": 20000,
   "maxStack": 1,
@@ -31960,6 +32192,19 @@
   "maxStack": 1,
   "deployable": true,
   "description": "Snaps shut and pins anything that is ensnared for a few seconds.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Ice_Borer",
+  "nom": "Ice Borer",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.Deployable.DeepMining"
+  ],
+  "poids": 10000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "A biofuel-powered drill capable of extracting Super-Cooled Ice or Frozen Wood from Arctic areas.",
   "meteoSensible": false
  },
  {
@@ -32018,7 +32263,9 @@
   "rowName": "Iron_Sign_Small",
   "nom": "Small Iron Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 1000,
   "maxStack": 20,
   "deployable": true,
@@ -32055,7 +32302,9 @@
   "rowName": "Kit_Floor_Torch",
   "nom": "Floor Torch",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 500,
   "maxStack": 20,
   "deployable": true,
@@ -32080,7 +32329,9 @@
   "rowName": "Kit_Wall_Torch",
   "nom": "Wall Torch",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 500,
   "maxStack": 20,
   "deployable": true,
@@ -32197,11 +32448,13 @@
   "rowName": "Large_Advanced_Aquarium",
   "nom": "Large Advanced Aquarium",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Fish.Aquarium"
+  ],
   "poids": 5000,
   "maxStack": 1,
   "deployable": true,
-  "description": "A very fancy large fish tank for keeping your favourite finned friends around, must be connected to both power and water.",
+  "description": "A very fancy large fish tank for keeping your favorite finned friends around, must be connected to both power and water.",
   "meteoSensible": true
  },
  {
@@ -32260,7 +32513,9 @@
   "rowName": "Light_Worklamp_Omnidirectional",
   "nom": "Worklamp",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 2000,
   "maxStack": 10,
   "deployable": true,
@@ -32340,7 +32595,8 @@
   "nom": "Industrial Lamp",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Industrialist"
+   "Item.Decoration.Industrialist",
+   "Item.Deployable.Light"
   ],
   "poids": 10000,
   "maxStack": 1,
@@ -32416,7 +32672,8 @@
   "nom": "C0NT4CT Device",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Prebuilt.DoNotPickup"
+   "Prebuilt.DoNotPickup",
+   "Item.Communicator"
   ],
   "poids": 10000,
   "maxStack": 1,
@@ -32607,19 +32864,6 @@
   "meteoSensible": false
  },
  {
-  "rowName": "National_Flag",
-  "nom": "Flag Pole",
-  "categorie": "Utilitaires deployables",
-  "tags": [
-   "Item.NationalFlag"
-  ],
-  "poids": 5000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "A Flag Pole with flag, made to withstand harsh conditions.",
-  "meteoSensible": false
- },
- {
   "rowName": "Natural_Oil_Refiner",
   "nom": "Natural Oil Refiner",
   "categorie": "Utilitaires deployables",
@@ -32782,6 +33026,20 @@
   "meteoSensible": false
  },
  {
+  "rowName": "Radar_Electric",
+  "nom": "Electric Radar",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.Radar",
+   "Item.Utility"
+  ],
+  "poids": 2000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "A portable Exotics detection unit powered by Electricity. Approximate directional arc shown on your map. Attracts animals while active.",
+  "meteoSensible": false
+ },
+ {
   "rowName": "Radar_Meta",
   "nom": "IC-001 Radar",
   "categorie": "Utilitaires deployables",
@@ -32827,7 +33085,8 @@
   "nom": "Rustic Lamp",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Decoration.Rustic"
+   "Item.Decoration.Rustic",
+   "Item.Deployable.Light"
   ],
   "poids": 1000,
   "maxStack": 1,
@@ -32839,7 +33098,9 @@
   "rowName": "Raw_Wood_Sign",
   "nom": "Classic Rustic Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 500,
   "maxStack": 20,
   "deployable": true,
@@ -32850,7 +33111,9 @@
   "rowName": "Raw_Wood_Sign_Trunk_A",
   "nom": "Natural Rustic Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 500,
   "maxStack": 20,
   "deployable": true,
@@ -32861,7 +33124,9 @@
   "rowName": "Raw_Wood_Sign_Trunk_B",
   "nom": "Round Rustic Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 500,
   "maxStack": 20,
   "deployable": true,
@@ -32944,61 +33209,6 @@
   "maxStack": 20,
   "deployable": true,
   "description": "A braced and bolstered wooden window.",
-  "meteoSensible": false
- },
- {
-  "rowName": "ResearchEquipment_Centrifuge",
-  "nom": "Battered Centrifuge",
-  "categorie": "Utilitaires deployables",
-  "tags": [],
-  "poids": 4000,
-  "maxStack": 5,
-  "deployable": true,
-  "description": "A Centrifuge brought from orbit.",
-  "meteoSensible": false
- },
- {
-  "rowName": "ResearchEquipment_Flasks",
-  "nom": "Battered Shaker",
-  "categorie": "Utilitaires deployables",
-  "tags": [],
-  "poids": 2500,
-  "maxStack": 5,
-  "deployable": true,
-  "description": "A Shaker brought from Orbit.",
-  "meteoSensible": false
- },
- {
-  "rowName": "ResearchEquipment_LabDesk",
-  "nom": "Battered Lab Desk",
-  "categorie": "Utilitaires deployables",
-  "tags": [],
-  "poids": 12000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "A simple Laboratory Desk brought from Orbit.",
-  "meteoSensible": false
- },
- {
-  "rowName": "ResearchEquipment_Microscope",
-  "nom": "Battered Microscope",
-  "categorie": "Utilitaires deployables",
-  "tags": [],
-  "poids": 3000,
-  "maxStack": 5,
-  "deployable": true,
-  "description": "A Microscope brought from Orbit.",
-  "meteoSensible": false
- },
- {
-  "rowName": "ResearchEquipment_TestTubes",
-  "nom": "Battered Test Tubes",
-  "categorie": "Utilitaires deployables",
-  "tags": [],
-  "poids": 1000,
-  "maxStack": 10,
-  "deployable": true,
-  "description": "Test Tubes brought from Orbit.",
   "meteoSensible": false
  },
  {
@@ -33101,7 +33311,9 @@
   "rowName": "Shroud_Light",
   "nom": "Shrouded Light",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 2500,
   "maxStack": 10,
   "deployable": true,
@@ -33139,7 +33351,9 @@
   "rowName": "Single_Ceiling_Light",
   "nom": "Caged Light",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 500,
   "maxStack": 10,
   "deployable": true,
@@ -33200,33 +33414,13 @@
   "rowName": "Spotlight",
   "nom": "Spotlight",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Light"
+  ],
   "poids": 3000,
   "maxStack": 10,
   "deployable": true,
   "description": "A high intensity spotlight.",
-  "meteoSensible": false
- },
- {
-  "rowName": "StoneBrick_Fireplace_Cap",
-  "nom": "Stone Brick Fireplace Cap",
-  "categorie": "Utilitaires deployables",
-  "tags": [],
-  "poids": 5000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "Vents the smoke so it doesn\\'t fill your room.",
-  "meteoSensible": false
- },
- {
-  "rowName": "StoneBrick_Fireplace_Ext",
-  "nom": "Stone Brick Fireplace Extension",
-  "categorie": "Utilitaires deployables",
-  "tags": [],
-  "poids": 5000,
-  "maxStack": 1,
-  "deployable": true,
-  "description": "An Extension for the Stone Brick Fireplace.",
   "meteoSensible": false
  },
  {
@@ -33244,7 +33438,9 @@
   "rowName": "Stone_Sign_Small",
   "nom": "Small Stone Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 1000,
   "maxStack": 20,
   "deployable": true,
@@ -33473,7 +33669,7 @@
  },
  {
   "rowName": "Turret_Flamethrower",
-  "nom": "Automated Defense System: Flamethrower",
+  "nom": "Auto-Turret: Flamethrower",
   "categorie": "Utilitaires deployables",
   "tags": [
    "HostileTurret.Pistol"
@@ -33486,13 +33682,24 @@
  },
  {
   "rowName": "Turret_Pistol",
-  "nom": "Automated Defense System: Pistol",
+  "nom": "Auto-Turret: Pistol",
   "categorie": "Utilitaires deployables",
   "tags": [],
   "poids": 20000,
   "maxStack": 1,
   "deployable": true,
   "description": "A turret that uses pistol ammunition to defend its surroundings. Fires a steady shots at a medium range. Power consumption reduced when idle.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Turret_Rifle_Precision",
+  "nom": "Auto-Turret: Rifle",
+  "categorie": "Utilitaires deployables",
+  "tags": [],
+  "poids": 25000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "A turret that uses rifle ammunition to defend its surroundings. Fires slowly, at long range. Power consumption reduced when idle.",
   "meteoSensible": false
  },
  {
@@ -33675,7 +33882,9 @@
   "rowName": "Wood_Sign_Small",
   "nom": "Small Wood Sign",
   "categorie": "Utilitaires deployables",
-  "tags": [],
+  "tags": [
+   "Item.Deployable.Sign"
+  ],
   "poids": 500,
   "maxStack": 20,
   "deployable": true,
@@ -33726,7 +33935,8 @@
   "nom": "MXC Camping Heater",
   "categorie": "Utilitaires deployables",
   "tags": [
-   "Item.Meta"
+   "Item.Meta",
+   "Item.Deployable.Climate.Heating"
   ],
   "poids": 5000,
   "maxStack": 1,
@@ -33734,67 +33944,809 @@
   "description": "A convenient heating solution for a prospector on the go.",
   "meteoSensible": false
  },
-{"rowName": "GOI_Composite_Wall", "nom": "Composite Wall", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Wall: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Wall_Angle", "nom": "Composite Wall Angled", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Wall Angled: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Ramp", "nom": "Composite Roof", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Roof: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Beam", "nom": "Composite Beam", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Beam: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Roof_Corner", "nom": "Composite Roof Corner", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Roof Corner: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_HalfPitch", "nom": "Composite Halfpitches", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Halfpitches: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_HalfNormal", "nom": "Composite Halfpieces", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Halfpieces: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Floor", "nom": "Composite Floor", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Composite Floor: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Diagonal_Set", "nom": "Composite Diagonal Buildings", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Composite Diagonal Buildings: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Diagonal_Curved_Set", "nom": "Composite Curved Buildings", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Composite Curved Buildings: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Diagonal_Curved_Wall_Angles", "nom": "Composite Curved Wall Angles", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Composite Curved Wall Angles: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Roof_CurvedAngles", "nom": "Composite Roof Curved Angle", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Composite Roof Curved Angle: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Advanced_Beam_Set", "nom": "Composite Advanced Beams", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Composite Advanced Beams: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Wall_Curved", "nom": "Composite Wall/Roof Curved", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Composite Wall/Roof Curved: large clear glass panes with a hint of blue, in thin brushed aluminium frames."},
-{"rowName": "GOI_Composite_Door", "nom": "Door", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Composite Door: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_Composite_Window", "nom": "Window", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Composite Window: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_Composite_Railing", "nom": "Railing A", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Composite Railing A: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_Composite_Railing_B", "nom": "Railing B", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Composite Railing B: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_Composite_Railing_C", "nom": "Railing C", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Composite Railing C: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_Composite_Railing_Gate", "nom": "Railing Gate", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 100, "maxStack": 20, "deployable": true, "description": "Composite Railing Gate: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_Composite_TrapDoor", "nom": "Trapdoor", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 100, "maxStack": 20, "deployable": true, "description": "Composite Trapdoor: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_Composite_Ladder", "nom": "Ladder", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 100, "maxStack": 20, "deployable": true, "description": "Composite Ladder: large clear glass panes with a hint of blue, in thin brushed aluminium frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_Wall", "nom": "Smoked Composite Wall", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Wall: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Wall_Angle", "nom": "Smoked Composite Wall Angled", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Wall Angled: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Ramp", "nom": "Smoked Composite Roof", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Roof: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Beam", "nom": "Smoked Composite Beam", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Beam: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Roof_Corner", "nom": "Smoked Composite Roof Corner", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Roof Corner: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_HalfPitch", "nom": "Smoked Composite Halfpitches", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Halfpitches: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_HalfNormal", "nom": "Smoked Composite Halfpieces", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Halfpieces: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Floor", "nom": "Smoked Composite Floor", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 100, "maxStack": 20, "deployable": false, "description": "Smoked Composite Floor: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Diagonal_Set", "nom": "Smoked Composite Diagonal Buildings", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Smoked Composite Diagonal Buildings: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Diagonal_Curved_Set", "nom": "Smoked Composite Curved Buildings", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Smoked Composite Curved Buildings: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Diagonal_Curved_Wall_Angles", "nom": "Smoked Composite Curved Wall Angles", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Smoked Composite Curved Wall Angles: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Roof_CurvedAngles", "nom": "Smoked Composite Roof Curved Angle", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Smoked Composite Roof Curved Angle: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Advanced_Beam_Set", "nom": "Smoked Composite Advanced Beams", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Smoked Composite Advanced Beams: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Wall_Curved", "nom": "Smoked Composite Wall/Roof Curved", "categorie": "Construction", "tags": ["Building.Glass.Tempered"], "poids": 5000, "maxStack": 20, "deployable": false, "description": "Smoked Composite Wall/Roof Curved: large smoked glass panes, in thin anthracite frames."},
-{"rowName": "GOI_SmokedComposite_Door", "nom": "Door", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Smoked Composite Door: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_Window", "nom": "Window", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Smoked Composite Window: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_Railing", "nom": "Railing A", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Smoked Composite Railing A: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_Railing_B", "nom": "Railing B", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Smoked Composite Railing B: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_Railing_C", "nom": "Railing C", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 1000, "maxStack": 20, "deployable": true, "description": "Smoked Composite Railing C: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_Railing_Gate", "nom": "Railing Gate", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 100, "maxStack": 20, "deployable": true, "description": "Smoked Composite Railing Gate: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_TrapDoor", "nom": "Trapdoor", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 100, "maxStack": 20, "deployable": true, "description": "Smoked Composite Trapdoor: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_SmokedComposite_Ladder", "nom": "Ladder", "categorie": "Utilitaires deployables", "tags": ["Item.BuildingTrim"], "poids": 100, "maxStack": 20, "deployable": true, "description": "Smoked Composite Ladder: large smoked glass panes, in thin anthracite frames.", "meteoSensible": false},
-{"rowName": "GOI_WeaponRack", "nom": "GOI Weapon Rack", "categorie": "Rangements", "tags": [], "poids": 3000, "maxStack": 1, "deployable": true, "description": "Steampunk workshop rack. Shows your guns, tools and lamps, keeps 300 items and recharges battery items when powered.", "meteoSensible": false},
-{"rowName": "RadBoss_Armor_Head", "nom": "Malformation Head Armor", "categorie": "Armures", "tags": ["Item.Armor.Helmet"], "poids": 2000, "maxStack": 1, "deployable": false, "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.", "meteoSensible": false},
-{"rowName": "RadBoss_Armor_Chest", "nom": "Malformation Chest Armor", "categorie": "Armures", "tags": ["Item.Armor.Chest"], "poids": 2000, "maxStack": 1, "deployable": false, "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.", "meteoSensible": false},
-{"rowName": "RadBoss_Armor_Arms", "nom": "Malformation Arms Armor", "categorie": "Armures", "tags": ["Item.Armor.Gloves"], "poids": 2000, "maxStack": 1, "deployable": false, "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.", "meteoSensible": false},
-{"rowName": "RadBoss_Armor_Legs", "nom": "Malformation Legs Armor", "categorie": "Armures", "tags": ["Item.Armor.Pants"], "poids": 2000, "maxStack": 1, "deployable": false, "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.", "meteoSensible": false},
-{"rowName": "RadBoss_Armor_Feet", "nom": "Malformation Feet Armor", "categorie": "Armures", "tags": ["Item.Armor.Boots"], "poids": 2000, "maxStack": 1, "deployable": false, "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.", "meteoSensible": false},
-{"rowName": "Envirosuit_Radboss", "nom": "Malformation Envirosuit", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "A high-tech envirosuit engineered to resist Radiation", "meteoSensible": false},
-{"rowName": "Cat_Boss_Armor_Head", "nom": "Felixus Head Armor", "categorie": "Armures", "tags": ["Item.Armor.Helmet"], "poids": 500, "maxStack": 1, "deployable": false, "description": "Armor crafted from the spoils of victory against a Felixus.", "meteoSensible": false},
-{"rowName": "Cat_Boss_Armor_Chest", "nom": "Felixus Chest Armor", "categorie": "Armures", "tags": ["Item.Armor.Chest"], "poids": 500, "maxStack": 1, "deployable": false, "description": "Armor crafted from the spoils of victory against a Felixus.", "meteoSensible": false},
-{"rowName": "Cat_Boss_Armor_Arms", "nom": "Felixus Arms Armor", "categorie": "Armures", "tags": ["Item.Armor.Gloves"], "poids": 500, "maxStack": 1, "deployable": false, "description": "Armor crafted from the spoils of victory against a Felixus.", "meteoSensible": false},
-{"rowName": "Cat_Boss_Armor_Legs", "nom": "Felixus Legs Armor", "categorie": "Armures", "tags": ["Item.Armor.Pants"], "poids": 500, "maxStack": 1, "deployable": false, "description": "Armor crafted from the spoils of victory against a Felixus.", "meteoSensible": false},
-{"rowName": "Cat_Boss_Armor_Feet", "nom": "Felixus Feet Armor", "categorie": "Armures", "tags": ["Item.Armor.Boots"], "poids": 500, "maxStack": 1, "deployable": false, "description": "Armor crafted from the spoils of victory against a Felixus.", "meteoSensible": false},
-{"rowName": "Envirosuit_Lin", "nom": "Lin Envirosuit", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "Logistics Officer Lin's envirosuit, from Eden.", "meteoSensible": false},
-{"rowName": "Envirosuit_Colonist", "nom": "Colonist Yellow", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "A suit trialled by the unlucky colonists fo Group 15.", "meteoSensible": false},
-{"rowName": "Envirosuit_Colonist2", "nom": "Colonist Blue", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "A suit trialled by the unlucky colonists fo Group 15.", "meteoSensible": false},
-{"rowName": "Envirosuit_Colonist3", "nom": "Colonist Red", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "A suit trialled by the unlucky colonists fo Group 15.", "meteoSensible": false},
-{"rowName": "Envirosuit_Colonist4", "nom": "Colonist Black", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "A suit trialled by the unlucky colonists fo Group 15.", "meteoSensible": false},
-{"rowName": "Envirosuit_Colonist5", "nom": "Colonist Pink", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "A suit trialled by the unlucky colonists fo Group 15.", "meteoSensible": false},
-{"rowName": "Envirosuit_Colonist6", "nom": "Colonist Ivory", "categorie": "Sacs & exocombinaisons", "tags": ["Item.Envirosuit", "UI.SilentItemPickup", "Item.Meta"], "poids": 100, "maxStack": 1, "deployable": false, "description": "A suit trialled by the unlucky colonists fo Group 15.", "meteoSensible": false}
+ {
+  "rowName": "GOI_Composite_Wall",
+  "nom": "Composite Wall",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Wall: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Wall_Angle",
+  "nom": "Composite Wall Angled",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Wall Angled: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Ramp",
+  "nom": "Composite Roof",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Roof: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Beam",
+  "nom": "Composite Beam",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Beam: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Roof_Corner",
+  "nom": "Composite Roof Corner",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Roof Corner: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_HalfPitch",
+  "nom": "Composite Halfpitches",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Halfpitches: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_HalfNormal",
+  "nom": "Composite Halfpieces",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Halfpieces: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Floor",
+  "nom": "Composite Floor",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Floor: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Diagonal_Set",
+  "nom": "Composite Diagonal Buildings",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Diagonal Buildings: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Diagonal_Curved_Set",
+  "nom": "Composite Curved Buildings",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Curved Buildings: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Diagonal_Curved_Wall_Angles",
+  "nom": "Composite Curved Wall Angles",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Curved Wall Angles: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Roof_CurvedAngles",
+  "nom": "Composite Roof Curved Angle",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Roof Curved Angle: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Advanced_Beam_Set",
+  "nom": "Composite Advanced Beams",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Advanced Beams: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Wall_Curved",
+  "nom": "Composite Wall/Roof Curved",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Composite Wall/Roof Curved: large clear glass panes with a hint of blue, in thin brushed aluminium frames."
+ },
+ {
+  "rowName": "GOI_Composite_Door",
+  "nom": "Door",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Door: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Composite_Window",
+  "nom": "Window",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Window: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Composite_Railing",
+  "nom": "Railing A",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Railing A: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Composite_Railing_B",
+  "nom": "Railing B",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Railing B: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Composite_Railing_C",
+  "nom": "Railing C",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Railing C: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Composite_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Railing Gate: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Composite_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Trapdoor: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Composite_Ladder",
+  "nom": "Ladder",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Composite Ladder: large clear glass panes with a hint of blue, in thin brushed aluminium frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Wall",
+  "nom": "Smoked Composite Wall",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Wall: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Wall_Angle",
+  "nom": "Smoked Composite Wall Angled",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Wall Angled: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Ramp",
+  "nom": "Smoked Composite Roof",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Roof: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Beam",
+  "nom": "Smoked Composite Beam",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Beam: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Roof_Corner",
+  "nom": "Smoked Composite Roof Corner",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Roof Corner: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_HalfPitch",
+  "nom": "Smoked Composite Halfpitches",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Halfpitches: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_HalfNormal",
+  "nom": "Smoked Composite Halfpieces",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Halfpieces: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Floor",
+  "nom": "Smoked Composite Floor",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Floor: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Diagonal_Set",
+  "nom": "Smoked Composite Diagonal Buildings",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Diagonal Buildings: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Diagonal_Curved_Set",
+  "nom": "Smoked Composite Curved Buildings",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Curved Buildings: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Diagonal_Curved_Wall_Angles",
+  "nom": "Smoked Composite Curved Wall Angles",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Curved Wall Angles: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Roof_CurvedAngles",
+  "nom": "Smoked Composite Roof Curved Angle",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Roof Curved Angle: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Advanced_Beam_Set",
+  "nom": "Smoked Composite Advanced Beams",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Advanced Beams: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Wall_Curved",
+  "nom": "Smoked Composite Wall/Roof Curved",
+  "categorie": "Construction",
+  "tags": [
+   "Building.Glass.Tempered"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Smoked Composite Wall/Roof Curved: large smoked glass panes, in thin anthracite frames."
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Door",
+  "nom": "Door",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Door: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Window",
+  "nom": "Window",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Window: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Railing",
+  "nom": "Railing A",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Railing A: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Railing_B",
+  "nom": "Railing B",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Railing B: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Railing_C",
+  "nom": "Railing C",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Railing C: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Railing Gate: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Trapdoor: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_SmokedComposite_Ladder",
+  "nom": "Ladder",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Smoked Composite Ladder: large smoked glass panes, in thin anthracite frames.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_WeaponRack",
+  "nom": "GOI Weapon Rack",
+  "categorie": "Rangements",
+  "tags": [],
+  "poids": 3000,
+  "maxStack": 1,
+  "deployable": true,
+  "description": "Steampunk workshop rack. Shows your guns, tools and lamps, keeps 300 items and recharges battery items when powered.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "RadBoss_Armor_Head",
+  "nom": "Malformation Head Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Helmet"
+  ],
+  "poids": 2000,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "RadBoss_Armor_Chest",
+  "nom": "Malformation Chest Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Chest"
+  ],
+  "poids": 2000,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "RadBoss_Armor_Arms",
+  "nom": "Malformation Arms Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Gloves"
+  ],
+  "poids": 2000,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "RadBoss_Armor_Legs",
+  "nom": "Malformation Legs Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Pants"
+  ],
+  "poids": 2000,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "RadBoss_Armor_Feet",
+  "nom": "Malformation Feet Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Boots"
+  ],
+  "poids": 2000,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A dense armor piece fashioned from the calcified carapace of a Malformation to provide exceptional ballistic and radiation protection.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Radboss",
+  "nom": "Malformation Envirosuit",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A high-tech envirosuit engineered to resist Radiation",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Cat_Boss_Armor_Head",
+  "nom": "Felixus Head Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Helmet"
+  ],
+  "poids": 500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Armor crafted from the spoils of victory against a Felixus.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Cat_Boss_Armor_Chest",
+  "nom": "Felixus Chest Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Chest"
+  ],
+  "poids": 500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Armor crafted from the spoils of victory against a Felixus.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Cat_Boss_Armor_Arms",
+  "nom": "Felixus Arms Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Gloves"
+  ],
+  "poids": 500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Armor crafted from the spoils of victory against a Felixus.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Cat_Boss_Armor_Legs",
+  "nom": "Felixus Legs Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Pants"
+  ],
+  "poids": 500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Armor crafted from the spoils of victory against a Felixus.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Cat_Boss_Armor_Feet",
+  "nom": "Felixus Feet Armor",
+  "categorie": "Armures",
+  "tags": [
+   "Item.Armor.Boots"
+  ],
+  "poids": 500,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Armor crafted from the spoils of victory against a Felixus.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Lin",
+  "nom": "Lin Envirosuit",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "Logistics Officer Lin's envirosuit, from Eden.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Colonist",
+  "nom": "Colonist Yellow",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A suit trialled by the unlucky colonists fo Group 15.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Colonist2",
+  "nom": "Colonist Blue",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A suit trialled by the unlucky colonists fo Group 15.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Colonist3",
+  "nom": "Colonist Red",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A suit trialled by the unlucky colonists fo Group 15.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Colonist4",
+  "nom": "Colonist Black",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A suit trialled by the unlucky colonists fo Group 15.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Colonist5",
+  "nom": "Colonist Pink",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A suit trialled by the unlucky colonists fo Group 15.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "Envirosuit_Colonist6",
+  "nom": "Colonist Ivory",
+  "categorie": "Sacs & exocombinaisons",
+  "tags": [
+   "Item.Envirosuit",
+   "UI.SilentItemPickup",
+   "Item.Meta"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "A suit trialled by the unlucky colonists fo Group 15.",
+  "meteoSensible": false
+ }
 ]

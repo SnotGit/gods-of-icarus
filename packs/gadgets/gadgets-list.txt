@@ -1,6 +1,7 @@
 gadgets - loadout contents:
 
 - Battery Powered Lantern
+- Inaris Lantern
 - Advanced Orbital Exchange Interface
 - Dropship Landing Pad
 - MXC Fuel Canister

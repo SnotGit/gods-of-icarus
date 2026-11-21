@@ -4730,7 +4730,7 @@
   "description": "",
   "effets": [
    {
-    "stat": "CaughtFishWeight_+%",
+    "stat": "BaseCaughtFishWeight_+%",
     "valeur": 50
    },
    {

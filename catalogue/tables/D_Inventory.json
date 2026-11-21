@@ -1,4 +1,4 @@
-{"RowStruct":"/Script/Icarus.InventoryData","Defaults":{"Inventories":[]},"_table":"D_Inventory","_source":"Traits/D_Inventory.json","_rows":165,"Rows":[
+{"RowStruct":"/Script/Icarus.InventoryData","Defaults":{"Inventories":[]},"_table":"D_Inventory","_source":"Traits/D_Inventory.json","_rows":167,"Rows":[
 {"Name":"Player","Inventories":[{"RowName":"Quickbar","DataTableName":"D_InventoryInfo"},{"RowName":"Backpack","DataTableName":"D_InventoryInfo"},{"RowName":"Equipment","DataTableName":"D_InventoryInfo"},{"RowName":"Suit","DataTableName":"D_InventoryInfo"},{"RowName":"UpgradeSlots","DataTableName":"D_InventoryInfo"},{"RowName":"VisionSlot","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Quickbar","Inventories":[{"RowName":"Quickbar","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Backpack","Inventories":[{"RowName":"Backpack","DataTableName":"D_InventoryInfo"}]},
@@ -96,6 +96,7 @@
 {"Name":"Aquarium_T3","Inventories":[{"RowName":"Aquarium","DataTableName":"D_InventoryInfo"},{"RowName":"Fuel_Biofuel","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Advanced_Aquarium","Inventories":[{"RowName":"Advanced_Aquarium","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Large_Advanced_Aquarium","Inventories":[{"RowName":"Large_Advanced_Aquarium","DataTableName":"D_InventoryInfo"}]},
+{"Name":"XL_Advanced_Aquarium","Inventories":[{"RowName":"XL_Advanced_Aquarium","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Fish_Wall_Display","Inventories":[{"RowName":"Fish_Wall_Display","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Fuel_AnimalFat","Inventories":[{"RowName":"Fuel_AnimalFat","DataTableName":"D_InventoryInfo"}]},
 {"Name":"AlienFossil_Pottery","Inventories":[{"RowName":"AlienFossil_Pottery","DataTableName":"D_InventoryInfo"}]},
@@ -106,7 +107,7 @@
 {"Name":"Processor_Anvil_T3","Inventories":[{"RowName":"Processor_T3","DataTableName":"D_InventoryInfo"},{"RowName":"Anvil_T3_Fuel","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Mission_Communicator","Inventories":[{"RowName":"Mission_Communicator","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Inventory_Smoker_T3","Inventories":[{"RowName":"PotBellyStove","DataTableName":"D_InventoryInfo"},{"RowName":"Smoker_T3_Fuel","DataTableName":"D_InventoryInfo"}]},
-{"Name":"Inventory_Smoker_T4","Inventories":[{"RowName":"PotBellyStove","DataTableName":"D_InventoryInfo"}]},
+{"Name":"Inventory_Roaster","Inventories":[{"RowName":"PotBellyStove","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Water_Purifier","Inventories":[{"RowName":"Water_Purifier","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Water_Purifier_T2","Inventories":[{"RowName":"Slotable_Generic","DataTableName":"D_InventoryInfo"},{"RowName":"Water_Purifier","DataTableName":"D_InventoryInfo"},{"RowName":"Processor_Slot_Purifier","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Inventory_Cleaner_T3","Inventories":[{"RowName":"Cleaner_T3","DataTableName":"D_InventoryInfo"},{"RowName":"Fuel_Biofuel","DataTableName":"D_InventoryInfo"}]},
@@ -163,5 +164,6 @@
 {"Name":"Experiment_Cage","Inventories":[{"RowName":"Experiment_Cage","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Distiller","Inventories":[{"RowName":"Distiller","DataTableName":"D_InventoryInfo"}]},
 {"Name":"Chemostat","Inventories":[{"RowName":"Chemostat","DataTableName":"D_InventoryInfo"}]},
-{"Name":"Mission_NPC_One_Slot","Inventories":[{"RowName":"Mission_NPC_One_Slot","DataTableName":"D_InventoryInfo"}]}
+{"Name":"Mission_NPC_One_Slot","Inventories":[{"RowName":"Mission_NPC_One_Slot","DataTableName":"D_InventoryInfo"}]},
+{"Name":"Workshop_Dehumidifier","Inventories":[{"RowName":"Fuel_Hydrazine","DataTableName":"D_InventoryInfo"}]}
 ]}

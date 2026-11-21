@@ -275,14 +275,6 @@
   "en": "12.7mm CHAC Round",
   "fr": "Cartouche de 12,7  mm CHAC"
  },
- "Ammo_Sniper_Round_Explosive": {
-  "en": "12.7mm CHAC Explosive Round",
-  "fr": "Cartouche explosive CHAC 12,7 mm"
- },
- "Ammo_Sniper_Round_Explosive_Workshop_Bundle": {
-  "en": "12.7mm CHAC Explosive Ammo Box",
-  "fr": "Boîte de munitions explosives 12.7mm CHAC"
- },
  "Ammo_Sniper_Round_Incendiary": {
   "en": "12.7mm CHAC Incendiary Round",
   "fr": "Cartouche incendiaire CHAC de 12,7 mm"
@@ -1603,10 +1595,6 @@
   "en": "Coal Ore",
   "fr": "Minerai de charbon"
  },
- "Cobalt_Ore": {
-  "en": "Cobalt Ore",
-  "fr": "Minerai de Cobalt"
- },
  "Cocoa": {
   "en": "Cocoa",
   "fr": "Cacao"
@@ -2143,6 +2131,14 @@
   "en": "Dogtags Lure",
   "fr": "Leurre Plaque d'Identification"
  },
+ "Dough_Bread": {
+  "en": "Bread Dough",
+  "fr": "Pâte à pain"
+ },
+ "Dough_Flatbread": {
+  "en": "Flatbread Dough",
+  "fr": "Pâte à pain plat"
+ },
  "Drac_Head": {
   "en": "Drac Vestige",
   "fr": "Vestige de Drac"
@@ -2510,6 +2506,10 @@
  "Feet_Legs_Attachment_Movement_Bonus_2": {
   "en": "Advanced Aerodynamic Attachment",
   "fr": "Module avancé Aérodynamique"
+ },
+ "Fertility_Serum_Boar": {
+  "en": "Boar Fertility Serum",
+  "fr": "Sérum de Fertilité pour sanglier"
  },
  "Fertility_Serum_Buffalo": {
   "en": "Buffalo Fertility Serum",
@@ -6875,6 +6875,10 @@
  "Prebuilt_Spawn_Location": {
   "en": "Prebuilt Spawn Location",
   "fr": "Emplacement de réapparition prédéfini"
+ },
+ "PricklyPear_Margarita": {
+  "en": "Prickly Pear Margarita",
+  "fr": "Margarita à la figue de barbarie"
  },
  "Pronghorn_Head": {
   "en": "Pronghorn Vestige",

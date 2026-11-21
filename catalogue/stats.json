@@ -360,6 +360,33 @@
   "contenuMort": true
  },
  {
+  "stat": "ArtilleryCreatureExtraDamageResistance_+%",
+  "titre": "Resistance vs Artillery Creature",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "ArtilleryCreatureExtraDamage_+%",
+  "titre": "Damage vs Artillery Creature",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "ArtilleryCreatureSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "Atmosphere_Enum",
   "titre": "",
   "description": "",
@@ -721,7 +748,7 @@
  },
  {
   "stat": "AxolotlExtraDamageResistance_+%",
-  "titre": "Resistance vs Axolotl",
+  "titre": "Resistance vs Skimmer",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -730,7 +757,7 @@
  },
  {
   "stat": "AxolotlExtraDamage_+%",
-  "titre": "Damage vs Axolotl",
+  "titre": "Damage vs Skimmer",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -806,7 +833,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 202,
+  "utilisationsDansLeJeu": 210,
   "contenuMort": false
  },
  {
@@ -815,7 +842,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 203,
+  "utilisationsDansLeJeu": 211,
   "contenuMort": false
  },
  {
@@ -824,7 +851,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 202,
+  "utilisationsDansLeJeu": 210,
   "contenuMort": false
  },
  {
@@ -842,7 +869,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 203,
+  "utilisationsDansLeJeu": 211,
   "contenuMort": false
  },
  {
@@ -851,7 +878,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 203,
+  "utilisationsDansLeJeu": 211,
   "contenuMort": false
  },
  {
@@ -869,7 +896,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 202,
+  "utilisationsDansLeJeu": 210,
   "contenuMort": false
  },
  {
@@ -1031,7 +1058,7 @@
   "description": "+{0}% Perceived Threat",
   "categorie": "Stealth",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 132,
+  "utilisationsDansLeJeu": 135,
   "contenuMort": false
  },
  {
@@ -1260,6 +1287,33 @@
   "contenuMort": false
  },
  {
+  "stat": "BaseArtilleryCreatureExtraDamageResistance_+%",
+  "titre": "",
+  "description": "+{0}% Resistance vs Artillery Creature",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseArtilleryCreatureExtraDamage_+%",
+  "titre": "",
+  "description": "+{0}% Damage vs Artillery Creature",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseArtilleryCreatureSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "BaseAttackRange_+",
   "titre": "",
   "description": "+{0}m Attack Range",
@@ -1283,7 +1337,7 @@
   "description": "+{0}% Melee Attack Speed",
   "categorie": "Melee_Weapon",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 45,
+  "utilisationsDansLeJeu": 48,
   "contenuMort": false
  },
  {
@@ -1310,7 +1364,7 @@
   "description": "{0}% Chance to Inflict Blunt Trauma",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 18,
+  "utilisationsDansLeJeu": 23,
   "contenuMort": false
  },
  {
@@ -1481,7 +1535,7 @@
   "description": "+{0}% chance to Poison on Hit with Attacks",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 17,
+  "utilisationsDansLeJeu": 18,
   "contenuMort": false
  },
  {
@@ -1526,7 +1580,7 @@
   "description": "{0}% chance to Slow on Hit with Attacks",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 32,
+  "utilisationsDansLeJeu": 33,
   "contenuMort": false
  },
  {
@@ -1544,8 +1598,8 @@
   "description": "+{0}% Chance to Stun on Hit with Attacks",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 0,
-  "contenuMort": true
+  "utilisationsDansLeJeu": 5,
+  "contenuMort": false
  },
  {
   "stat": "BaseAttacksCauseVulnerable_%",
@@ -2273,7 +2327,7 @@
   "description": "+{0}% Cart Movement Speed When Active",
   "categorie": "Movement",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 7,
+  "utilisationsDansLeJeu": 8,
   "contenuMort": false
  },
  {
@@ -2300,7 +2354,7 @@
   "description": "+{0}% Quality of Caught Fish",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 6,
+  "utilisationsDansLeJeu": 7,
   "contenuMort": false
  },
  {
@@ -2309,7 +2363,7 @@
   "description": "+{0}% Weight of Caught Fish",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 13,
+  "utilisationsDansLeJeu": 14,
   "contenuMort": false
  },
  {
@@ -2318,7 +2372,7 @@
   "description": "+{0}% Caught Freshwater Fish Quality",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 9,
+  "utilisationsDansLeJeu": 10,
   "contenuMort": false
  },
  {
@@ -2813,7 +2867,7 @@
   "description": "+{0}% chance to catch Rare Fish",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 8,
+  "utilisationsDansLeJeu": 9,
   "contenuMort": false
  },
  {
@@ -2831,7 +2885,7 @@
   "description": "+{0}% chance to catch Unique Fish",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 5,
+  "utilisationsDansLeJeu": 6,
   "contenuMort": false
  },
  {
@@ -2993,7 +3047,7 @@
   "description": "{0}kg Character Mass",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 206,
+  "utilisationsDansLeJeu": 214,
   "contenuMort": false
  },
  {
@@ -3112,6 +3166,15 @@
   "masqueeUI": false,
   "utilisationsDansLeJeu": 4,
   "contenuMort": false
+ },
+ {
+  "stat": "BaseChitinHarvestedFromAnimals_+%",
+  "titre": "",
+  "description": "+{0}% Yield from Skinning Chitin",
+  "categorie": "Butchery",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
  },
  {
   "stat": "BaseCleaningEffectiveness_%",
@@ -3254,7 +3317,7 @@
   "description": "+{0}% Cold Resistance",
   "categorie": "Temperature",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 298,
+  "utilisationsDansLeJeu": 302,
   "contenuMort": false
  },
  {
@@ -3291,6 +3354,15 @@
   "categorie": "Modifiers",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 513,
+  "contenuMort": false
+ },
+ {
+  "stat": "BaseComfortLevel_+%",
+  "titre": "",
+  "description": "+{0}% Coziness Bonus",
+  "categorie": "Modifiers",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 1,
   "contenuMort": false
  },
  {
@@ -3566,7 +3638,7 @@
  {
   "stat": "BaseCrabCoastalExtraDamageResistance_+%",
   "titre": "",
-  "description": "+{0}% Resistance vs Spider",
+  "description": "+{0}% Resistance vs Crab",
   "categorie": "AI",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
@@ -3575,7 +3647,25 @@
  {
   "stat": "BaseCrabCoastalExtraDamage_+%",
   "titre": "",
-  "description": "+{0}% Damage vs Spider",
+  "description": "+{0}% Damage vs Crab",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseCrabCoastalParentExtraDamageResistance_+%",
+  "titre": "",
+  "description": "+{0}% Resistance vs Crab",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseCrabCoastalParentExtraDamage_+%",
+  "titre": "",
+  "description": "+{0}% Damage vs Crab",
   "categorie": "AI",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
@@ -3686,7 +3776,7 @@
   "description": "+{0}% Critical Damage",
   "categorie": "Generic_Damage",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 67,
+  "utilisationsDansLeJeu": 69,
   "contenuMort": false
  },
  {
@@ -4113,6 +4203,33 @@
   "contenuMort": true
  },
  {
+  "stat": "BaseDragonFlyGeothermalExtraDamageResistance_+%",
+  "titre": "",
+  "description": "+{0}% Resistance vs Venomfly",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseDragonFlyGeothermalExtraDamage_+%",
+  "titre": "",
+  "description": "+{0}% Damage vs Venomfly",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseDragonFlyGeothermalSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "BaseDragonFlySpawnRate_+%",
   "titre": "",
   "description": "",
@@ -4172,7 +4289,7 @@
   "description": "+{0} Electric Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 17,
+  "utilisationsDansLeJeu": 18,
   "contenuMort": false
  },
  {
@@ -4370,7 +4487,7 @@
   "description": "+{0}% Experience Gained",
   "categorie": "Experience",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 86,
+  "utilisationsDansLeJeu": 89,
   "contenuMort": false
  },
  {
@@ -4424,7 +4541,7 @@
   "description": "+{0}% Explosive Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 61,
+  "utilisationsDansLeJeu": 64,
   "contenuMort": false
  },
  {
@@ -4469,7 +4586,7 @@
   "description": "+{0}% Exposure Resistance",
   "categorie": "Weather",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 207,
+  "utilisationsDansLeJeu": 211,
   "contenuMort": false
  },
  {
@@ -4514,7 +4631,7 @@
   "description": "+{0}% Extractor Drill Speed",
   "categorie": "Mining",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 3,
+  "utilisationsDansLeJeu": 2,
   "contenuMort": false
  },
  {
@@ -4523,7 +4640,7 @@
   "description": "+{0}% Fall Damage Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 123,
+  "utilisationsDansLeJeu": 129,
   "contenuMort": false
  },
  {
@@ -4730,7 +4847,7 @@
   "description": "+{0} Fire Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 117,
+  "utilisationsDansLeJeu": 119,
   "contenuMort": false
  },
  {
@@ -4991,7 +5108,7 @@
   "description": "+{0}% Fishing Capture Zone Size",
   "categorie": "Fishing",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 21,
+  "utilisationsDansLeJeu": 22,
   "contenuMort": false
  },
  {
@@ -5116,6 +5233,33 @@
   "titre": "",
   "description": "+{0}% Damage vs Sandhorn",
   "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseFlightlessTankGeothermalExtraDamageResistance_+%",
+  "titre": "",
+  "description": "+{0}% Resistance vs Geothermal Sandhorn",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseFlightlessTankGeothermalExtraDamage_+%",
+  "titre": "",
+  "description": "+{0}% Damage vs Geothermal Sandhorn",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseFlightlessTankGeothermalSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
   "contenuMort": true
@@ -5315,7 +5459,7 @@
   "description": "+{0} Food Consumption per Hour",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 54,
+  "utilisationsDansLeJeu": 57,
   "contenuMort": false
  },
  {
@@ -5324,7 +5468,7 @@
   "description": "+{0}% Food Consumption",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 240,
+  "utilisationsDansLeJeu": 245,
   "contenuMort": false
  },
  {
@@ -5342,7 +5486,7 @@
   "description": "+{0} Food when Consumed",
   "categorie": "Consumption",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 221,
+  "utilisationsDansLeJeu": 231,
   "contenuMort": false
  },
  {
@@ -5360,7 +5504,7 @@
   "description": "+{0} Food Slots in Suit",
   "categorie": "Envirosuit",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 5,
+  "utilisationsDansLeJeu": 3,
   "contenuMort": false
  },
  {
@@ -5369,7 +5513,7 @@
   "description": "Consumes {0} Space in Stomach",
   "categorie": "Consumption",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 210,
+  "utilisationsDansLeJeu": 220,
   "contenuMort": false
  },
  {
@@ -5468,7 +5612,7 @@
   "description": "+{0} Frost Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 107,
+  "utilisationsDansLeJeu": 113,
   "contenuMort": false
  },
  {
@@ -5531,7 +5675,7 @@
   "description": "+{0}% Fruit and Vegetable Modifier Effectiveness",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 121,
+  "utilisationsDansLeJeu": 124,
   "contenuMort": false
  },
  {
@@ -5576,7 +5720,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 33,
+  "utilisationsDansLeJeu": 34,
   "contenuMort": false
  },
  {
@@ -5585,7 +5729,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 25,
+  "utilisationsDansLeJeu": 26,
   "contenuMort": false
  },
  {
@@ -5711,7 +5855,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 73,
+  "utilisationsDansLeJeu": 75,
   "contenuMort": false
  },
  {
@@ -5720,7 +5864,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 72,
+  "utilisationsDansLeJeu": 74,
   "contenuMort": false
  },
  {
@@ -6314,7 +6458,7 @@
   "description": "+{0} Health when Consumed",
   "categorie": "Consumption",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 62,
+  "utilisationsDansLeJeu": 66,
   "contenuMort": false
  },
  {
@@ -6323,7 +6467,7 @@
   "description": "+{0} second delay before Health Regen begins",
   "categorie": "Health",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 197,
+  "utilisationsDansLeJeu": 205,
   "contenuMort": false
  },
  {
@@ -6332,7 +6476,7 @@
   "description": "+{0} Health Regeneration per Minute",
   "categorie": "Health",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 210,
+  "utilisationsDansLeJeu": 218,
   "contenuMort": false
  },
  {
@@ -6341,7 +6485,7 @@
   "description": "+{0}% Health Regeneration",
   "categorie": "Health",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 310,
+  "utilisationsDansLeJeu": 318,
   "contenuMort": false
  },
  {
@@ -6370,6 +6514,15 @@
   "masqueeUI": false,
   "utilisationsDansLeJeu": 1,
   "contenuMort": false
+ },
+ {
+  "stat": "BaseHeavyLeatherHarvestedFromAnimals_+%",
+  "titre": "",
+  "description": "+{0}% Yield from Skinning Thick Hide",
+  "categorie": "Butchery",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
  },
  {
   "stat": "BaseHedgehogDamage_+%",
@@ -6548,7 +6701,7 @@
   "description": "+{0}% chance to Resist Immobilize",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 93,
+  "utilisationsDansLeJeu": 102,
   "contenuMort": false
  },
  {
@@ -6791,7 +6944,7 @@
   "description": "+{0}% Stamina Consumed by Jumping",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 69,
+  "utilisationsDansLeJeu": 73,
   "contenuMort": false
  },
  {
@@ -6964,6 +7117,60 @@
   "masqueeUI": false,
   "utilisationsDansLeJeu": 2,
   "contenuMort": false
+ },
+ {
+  "stat": "BaseKangarooArcticExtraDamageResistance_+%",
+  "titre": "",
+  "description": "+{0}% Resistance vs Arctic Kangaroo",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseKangarooArcticExtraDamage_+%",
+  "titre": "",
+  "description": "+{0}% Damage vs Arctic Kangaroo",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseKangarooArcticSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseKangarooJungleExtraDamageResistance_+%",
+  "titre": "",
+  "description": "+{0}% Resistance vs Jungle Kangaroo",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseKangarooJungleExtraDamage_+%",
+  "titre": "",
+  "description": "+{0}% Damage vs Jungle Kangaroo",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseKangarooJungleSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
  },
  {
   "stat": "BaseKeaExtraDamageResistance_+%",
@@ -7200,6 +7407,24 @@
   "contenuMort": false
  },
  {
+  "stat": "BaseKoalaSheepExtraDamageResistance_+%",
+  "titre": "",
+  "description": "[DNT] +{0}% Resistance vs Koala Sheep",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "BaseKoalaSheepExtraDamage_+%",
+  "titre": "",
+  "description": "[DNT] +{0}% Damage vs Koala Sheep",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "BaseKomodoExtraDamageResistance_+%",
   "titre": "",
   "description": "+{0}% Resistance vs Komodos",
@@ -7259,7 +7484,7 @@
   "description": "+{0}% Laser Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 2,
+  "utilisationsDansLeJeu": 1,
   "contenuMort": false
  },
  {
@@ -7574,7 +7799,7 @@
   "description": "",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 188,
+  "utilisationsDansLeJeu": 196,
   "contenuMort": false
  },
  {
@@ -7583,7 +7808,7 @@
   "description": "+{0}% Maximum Fall Damage",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 188,
+  "utilisationsDansLeJeu": 196,
   "contenuMort": false
  },
  {
@@ -7592,7 +7817,7 @@
   "description": "+{0} Maximum Food Capacity",
   "categorie": "Envirosuit",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 55,
+  "utilisationsDansLeJeu": 57,
   "contenuMort": false
  },
  {
@@ -7619,7 +7844,7 @@
   "description": "+{0} Maximum Health",
   "categorie": "Health",
   "masqueeUI": true,
-  "utilisationsDansLeJeu": 192,
+  "utilisationsDansLeJeu": 204,
   "contenuMort": false
  },
  {
@@ -7628,7 +7853,7 @@
   "description": "+{0}% Maximum Health",
   "categorie": "Health",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 227,
+  "utilisationsDansLeJeu": 234,
   "contenuMort": false
  },
  {
@@ -7646,7 +7871,7 @@
   "description": "+{0} Maximum Oxygen Capacity",
   "categorie": "Envirosuit",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 18,
+  "utilisationsDansLeJeu": 19,
   "contenuMort": false
  },
  {
@@ -7682,7 +7907,7 @@
   "description": "+{0} Maximum Stamina",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 173,
+  "utilisationsDansLeJeu": 180,
   "contenuMort": false
  },
  {
@@ -7691,7 +7916,7 @@
   "description": "+{0}% Maximum Stamina",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 104,
+  "utilisationsDansLeJeu": 108,
   "contenuMort": false
  },
  {
@@ -7700,7 +7925,7 @@
   "description": "+{0} Space in Stomach",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 70,
+  "utilisationsDansLeJeu": 72,
   "contenuMort": false
  },
  {
@@ -7709,7 +7934,7 @@
   "description": "+{0} Maximum Water Capacity",
   "categorie": "Envirosuit",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 55,
+  "utilisationsDansLeJeu": 57,
   "contenuMort": false
  },
  {
@@ -7736,7 +7961,7 @@
   "description": "+{0}% Melee Damage versus Buildings",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 34,
+  "utilisationsDansLeJeu": 33,
   "contenuMort": false
  },
  {
@@ -7790,7 +8015,7 @@
   "description": "+{0}% Melee Damage",
   "categorie": "Melee_Weapon",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 149,
+  "utilisationsDansLeJeu": 157,
   "contenuMort": false
  },
  {
@@ -7835,7 +8060,7 @@
   "description": "",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 188,
+  "utilisationsDansLeJeu": 196,
   "contenuMort": false
  },
  {
@@ -7844,7 +8069,7 @@
   "description": "+{0}% Minimum Fall Damage",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 188,
+  "utilisationsDansLeJeu": 196,
   "contenuMort": false
  },
  {
@@ -8001,6 +8226,15 @@
   "contenuMort": false
  },
  {
+  "stat": "BaseMiningLeadRewards_+%",
+  "titre": "",
+  "description": "+{0}% Yield from Mining Lead",
+  "categorie": "Mining",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "BaseMiningLimestoneRewards_+%",
   "titre": "",
   "description": "+{0}% Yield from Mining Limestone",
@@ -8042,7 +8276,7 @@
   "description": "+{0} Mining Radius",
   "categorie": "Mining",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 82,
+  "utilisationsDansLeJeu": 85,
   "contenuMort": false
  },
  {
@@ -8168,7 +8402,7 @@
   "description": "+{0} Mount Cargo Inventory Slots",
   "categorie": "Mounts",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 112,
+  "utilisationsDansLeJeu": 116,
   "contenuMort": false
  },
  {
@@ -8177,7 +8411,7 @@
   "description": "+{0} Mount Heavy Cargo Inventory Slots",
   "categorie": "Mounts",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 29,
+  "utilisationsDansLeJeu": 30,
   "contenuMort": false
  },
  {
@@ -8267,7 +8501,7 @@
   "description": "+{0}% Movement Speed in Shallow Water",
   "categorie": "Movement",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 11,
+  "utilisationsDansLeJeu": 14,
   "contenuMort": false
  },
  {
@@ -8294,7 +8528,7 @@
   "description": "+{0} Movement Speed",
   "categorie": "Movement",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 214,
+  "utilisationsDansLeJeu": 222,
   "contenuMort": false
  },
  {
@@ -8303,7 +8537,7 @@
   "description": "+{0}% Movement Speed",
   "categorie": "Movement",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 268,
+  "utilisationsDansLeJeu": 273,
   "contenuMort": false
  },
  {
@@ -8312,7 +8546,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 150,
+  "utilisationsDansLeJeu": 159,
   "contenuMort": false
  },
  {
@@ -8330,7 +8564,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 24,
+  "utilisationsDansLeJeu": 25,
   "contenuMort": false
  },
  {
@@ -8348,7 +8582,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 24,
+  "utilisationsDansLeJeu": 25,
   "contenuMort": false
  },
  {
@@ -8366,7 +8600,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 24,
+  "utilisationsDansLeJeu": 25,
   "contenuMort": false
  },
  {
@@ -8375,7 +8609,7 @@
   "description": "+{0} Stomp Attack Radius",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 15,
+  "utilisationsDansLeJeu": 12,
   "contenuMort": false
  },
  {
@@ -8537,7 +8771,7 @@
   "description": "+{0}% Oxygen Consumed for Stamina Replenishment",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 27,
+  "utilisationsDansLeJeu": 28,
   "contenuMort": false
  },
  {
@@ -8546,7 +8780,7 @@
   "description": "+{0} Oxygen Consumption per Hour",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 17,
+  "utilisationsDansLeJeu": 18,
   "contenuMort": false
  },
  {
@@ -8618,7 +8852,7 @@
   "description": "+{0} Physical Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 395,
+  "utilisationsDansLeJeu": 400,
   "contenuMort": false
  },
  {
@@ -9068,7 +9302,7 @@
   "description": "+{0} Poison Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 120,
+  "utilisationsDansLeJeu": 122,
   "contenuMort": false
  },
  {
@@ -9086,7 +9320,7 @@
   "description": "+{0} Poison Damage",
   "categorie": "Generic_Damage",
   "masqueeUI": true,
-  "utilisationsDansLeJeu": 37,
+  "utilisationsDansLeJeu": 38,
   "contenuMort": false
  },
  {
@@ -9302,7 +9536,7 @@
   "description": "+{0}% Projectile Damage versus Buildings",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 16,
+  "utilisationsDansLeJeu": 15,
   "contenuMort": false
  },
  {
@@ -9329,7 +9563,7 @@
   "description": "+{0} Projectile Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 27,
+  "utilisationsDansLeJeu": 30,
   "contenuMort": false
  },
  {
@@ -9338,7 +9572,7 @@
   "description": "+{0}% Projectile Resistance",
   "categorie": "Resistance",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 18,
+  "utilisationsDansLeJeu": 20,
   "contenuMort": false
  },
  {
@@ -9365,7 +9599,7 @@
   "description": "+{0}% Projectile Damage",
   "categorie": "Ranged_Weapon",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 66,
+  "utilisationsDansLeJeu": 67,
   "contenuMort": false
  },
  {
@@ -11084,7 +11318,7 @@
   "description": "+{0}% Shared Experience Gained",
   "categorie": "Experience",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 22,
+  "utilisationsDansLeJeu": 23,
   "contenuMort": false
  },
  {
@@ -11104,6 +11338,15 @@
   "masqueeUI": false,
   "utilisationsDansLeJeu": 2,
   "contenuMort": false
+ },
+ {
+  "stat": "BaseShatteringCobaltRewards_+%",
+  "titre": "",
+  "description": "+{0}% Shattering Cobalt Rewards",
+  "categorie": "Mining",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
  },
  {
   "stat": "BaseShatteringDamageResistance_%",
@@ -11561,7 +11804,7 @@
   "description": "+{0}% chance to Resist Slow",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 153,
+  "utilisationsDansLeJeu": 161,
   "contenuMort": false
  },
  {
@@ -11849,7 +12092,7 @@
   "description": "+{0}% Stamina Consumed by Sprinting",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 16,
+  "utilisationsDansLeJeu": 19,
   "contenuMort": false
  },
  {
@@ -11867,7 +12110,7 @@
   "description": "+{0}% Stamina Consumed",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 21,
+  "utilisationsDansLeJeu": 22,
   "contenuMort": false
  },
  {
@@ -11885,7 +12128,7 @@
   "description": "+{0}s to Stamina Regeneration Delay",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 21,
+  "utilisationsDansLeJeu": 22,
   "contenuMort": false
  },
  {
@@ -11903,7 +12146,7 @@
   "description": "+{0}s to Stamina Regeneration Delay from Depleted",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 21,
+  "utilisationsDansLeJeu": 22,
   "contenuMort": false
  },
  {
@@ -11921,7 +12164,7 @@
   "description": "+{0} Stamina Regeneration per Minute",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 20,
+  "utilisationsDansLeJeu": 21,
   "contenuMort": false
  },
  {
@@ -11930,7 +12173,7 @@
   "description": "+{0}% Stamina Regeneration",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 192,
+  "utilisationsDansLeJeu": 206,
   "contenuMort": false
  },
  {
@@ -12110,7 +12353,7 @@
   "description": "+{0}s Stun Duration",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 6,
+  "utilisationsDansLeJeu": 7,
   "contenuMort": false
  },
  {
@@ -12362,7 +12605,7 @@
   "description": "+{0} Swimming Speed",
   "categorie": "Movement",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 187,
+  "utilisationsDansLeJeu": 195,
   "contenuMort": false
  },
  {
@@ -12371,7 +12614,7 @@
   "description": "+{0}% Swimming Speed",
   "categorie": "Movement",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 12,
+  "utilisationsDansLeJeu": 15,
   "contenuMort": false
  },
  {
@@ -12767,7 +13010,7 @@
   "description": "{0}% Health Restored on Kill",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 21,
+  "utilisationsDansLeJeu": 24,
   "contenuMort": false
  },
  {
@@ -13343,7 +13586,7 @@
   "description": "+{0}% Water Consumed for Stamina Replenishment",
   "categorie": "Stamina",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 27,
+  "utilisationsDansLeJeu": 28,
   "contenuMort": false
  },
  {
@@ -13352,7 +13595,7 @@
   "description": "+{0} Water Consumption per Hour",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 54,
+  "utilisationsDansLeJeu": 57,
   "contenuMort": false
  },
  {
@@ -13361,7 +13604,7 @@
   "description": "+{0}% Water Consumption",
   "categorie": "Character",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 233,
+  "utilisationsDansLeJeu": 236,
   "contenuMort": false
  },
  {
@@ -13406,7 +13649,7 @@
   "description": "+{0}kg Weight Capacity",
   "categorie": "Weight",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 36,
+  "utilisationsDansLeJeu": 37,
   "contenuMort": false
  },
  {
@@ -13415,7 +13658,7 @@
   "description": "+{0}% Weight Capacity",
   "categorie": "Weight",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 101,
+  "utilisationsDansLeJeu": 104,
   "contenuMort": false
  },
  {
@@ -13568,7 +13811,7 @@
   "description": "+{0}% chance to Resist Basic Wound",
   "categorie": "Modifiers",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 16,
+  "utilisationsDansLeJeu": 17,
   "contenuMort": false
  },
  {
@@ -13708,7 +13951,7 @@
  },
  {
   "stat": "BeaverExtraDamageResistance_+%",
-  "titre": "Resistance vs Beaver",
+  "titre": "Resistance vs Nibbler",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -13717,7 +13960,7 @@
  },
  {
   "stat": "BeaverExtraDamage_+%",
-  "titre": "Damage vs Beaver",
+  "titre": "Damage vs Nibbler",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -13780,7 +14023,7 @@
  },
  {
   "stat": "BirdCoastalExtraDamageResistance_+%",
-  "titre": "Resistance vs Turtle Duck",
+  "titre": "Resistance vs Saltwing",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -13789,7 +14032,7 @@
  },
  {
   "stat": "BirdCoastalExtraDamage_+%",
-  "titre": "Damage vs Turtle Duck",
+  "titre": "Damage vs Saltwing",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -14018,7 +14261,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 151,
+  "utilisationsDansLeJeu": 156,
   "contenuMort": false
  },
  {
@@ -14027,7 +14270,7 @@
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 83,
+  "utilisationsDansLeJeu": 86,
   "contenuMort": false
  },
  {
@@ -14252,8 +14495,8 @@
   "description": "",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 1,
-  "contenuMort": false
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
  },
  {
   "stat": "CaughtFreshwaterFishQuality_+%",
@@ -14311,7 +14554,7 @@
  },
  {
   "stat": "CentipedeExtraDamageResistance_+%",
-  "titre": "Resistance vs Centipede",
+  "titre": "Resistance vs Kirrion",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -14320,7 +14563,7 @@
  },
  {
   "stat": "CentipedeExtraDamage_+%",
-  "titre": "Damage vs Centipede",
+  "titre": "Damage vs Kirrion",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -14940,6 +15183,15 @@
   "contenuMort": true
  },
  {
+  "stat": "ChitinHarvestedFromAnimals_+%",
+  "titre": "Chitin Yielded by Animals",
+  "description": "",
+  "categorie": "Butchery",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "ClimbMovementSpeedCoefficient_%",
   "titre": "",
   "description": "",
@@ -15229,7 +15481,7 @@
  },
  {
   "stat": "CrabCoastalExtraDamageResistance_+%",
-  "titre": "Resistance vs Crab",
+  "titre": "Resistance vs Sandray",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -15238,6 +15490,24 @@
  },
  {
   "stat": "CrabCoastalExtraDamage_+%",
+  "titre": "Damage vs Sandray",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "CrabCoastalParentExtraDamageResistance_+%",
+  "titre": "Resistance vs Crab",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "CrabCoastalParentExtraDamage_+%",
   "titre": "Damage vs Crab",
   "description": "",
   "categorie": "AI",
@@ -15256,7 +15526,7 @@
  },
  {
   "stat": "CrawlerExtraDamageResistance_+%",
-  "titre": "Resistance vs Crawler",
+  "titre": "Resistance vs Xenoped",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -15265,7 +15535,7 @@
  },
  {
   "stat": "CrawlerExtraDamage_+%",
-  "titre": "Damage vs Crawler",
+  "titre": "Damage vs Xenoped",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -16111,7 +16381,7 @@
  },
  {
   "stat": "DinoLargeExtraDamageResistance_+%",
-  "titre": "Resistance vs Dino",
+  "titre": "Resistance vs Diarax",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -16120,7 +16390,7 @@
  },
  {
   "stat": "DinoLargeExtraDamage_+%",
-  "titre": "Damage vs Dino",
+  "titre": "Damage vs Diarax",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -16204,6 +16474,33 @@
   "titre": "Damage vs Venomfly",
   "description": "",
   "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "DragonFlyGeothermalExtraDamageResistance_+%",
+  "titre": "Resistance vs Vaporwing",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "DragonFlyGeothermalExtraDamage_+%",
+  "titre": "Damage vs Vaporwing",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "DragonFlyGeothermalSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
   "contenuMort": true
@@ -16327,7 +16624,7 @@
  },
  {
   "stat": "ElegantHorseExtraDamageResistance_+%",
-  "titre": "Resistance vs Elegant Horse",
+  "titre": "Resistance vs Gallant",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -16336,7 +16633,7 @@
  },
  {
   "stat": "ElegantHorseExtraDamage_+%",
-  "titre": "Damage vs Elegant Horse",
+  "titre": "Damage vs Gallant",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -17014,6 +17311,33 @@
   "titre": "Damage vs Sandhorn",
   "description": "",
   "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "FlightlessTankGeothermalExtraDamageResistance_+%",
+  "titre": "Resistance vs Reedle",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "FlightlessTankGeothermalExtraDamage_+%",
+  "titre": "Damage vs Reedle",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "FlightlessTankGeothermalSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
   "contenuMort": true
@@ -17704,7 +18028,7 @@
  },
  {
   "stat": "GiantBeetleExtraDamageResistance_+%",
-  "titre": "Resistance vs Giant Beetle",
+  "titre": "Resistance vs Ironwing",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -17713,7 +18037,7 @@
  },
  {
   "stat": "GiantBeetleExtraDamage_+%",
-  "titre": "Damage vs Giant Beetle",
+  "titre": "Damage vs Ironwing",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -17758,7 +18082,7 @@
  },
  {
   "stat": "GiantTurtleExtraDamageResistance_+%",
-  "titre": "Resistance vs Giant Turtle",
+  "titre": "Resistance vs Tort",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -17767,7 +18091,7 @@
  },
  {
   "stat": "GiantTurtleExtraDamage_+%",
-  "titre": "Damage vs Giant Turtle",
+  "titre": "Damage vs Tort",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -17898,6 +18222,15 @@
   "categorie": "Modifiers",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 3,
+  "contenuMort": false
+ },
+ {
+  "stat": "GrantedAuraFearsomePresence_?",
+  "titre": "",
+  "description": "Intimidates Nearby Hostile Creatures, Reducing Their Melee Damage",
+  "categorie": "Modifiers",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 1,
   "contenuMort": false
  },
  {
@@ -18100,7 +18433,7 @@
  },
  {
   "stat": "GroundDragonExtraDamageResistance_+%",
-  "titre": "Resistance vs Ground Dragon",
+  "titre": "Resistance vs Skaar",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -18109,7 +18442,7 @@
  },
  {
   "stat": "GroundDragonExtraDamage_+%",
-  "titre": "Damage vs Ground Dragon",
+  "titre": "Damage vs Skaar",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -18382,6 +18715,15 @@
   "titre": "Heatstroke Resistance",
   "description": "",
   "categorie": "Modifiers",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "HeavyLeatherHarvestedFromAnimals_+%",
+  "titre": "Thick Hide by Animals",
+  "description": "",
+  "categorie": "Butchery",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
   "contenuMort": true
@@ -19238,7 +19580,7 @@
   "description": "Enables Secondary Attack for Tamed Creature",
   "categorie": "AI",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 10,
+  "utilisationsDansLeJeu": 13,
   "contenuMort": false
  },
  {
@@ -19585,7 +19927,7 @@
  },
  {
   "stat": "JungleHunterExtraDamageResistance_+%",
-  "titre": "Resistance vs Jungle Hunter",
+  "titre": "Resistance vs Ridgemaw",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -19594,7 +19936,7 @@
  },
  {
   "stat": "JungleHunterExtraDamage_+%",
-  "titre": "Damage vs Jungle Hunter",
+  "titre": "Damage vs Ridgemaw",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -19612,7 +19954,7 @@
  },
  {
   "stat": "JungleMonkeyExtraDamageResistance_+%",
-  "titre": "Resistance vs Jungle Monkey",
+  "titre": "Resistance vs Barrolo",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -19621,7 +19963,7 @@
  },
  {
   "stat": "JungleMonkeyExtraDamage_+%",
-  "titre": "Damage vs Jungle Monkey",
+  "titre": "Damage vs Barrolo",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -19669,6 +20011,60 @@
   "titre": "Juvenile Creature Sleep Requirment",
   "description": "",
   "categorie": "Mounts",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KangarooArcticExtraDamageResistance_+%",
+  "titre": "Resistance vs Arctic Kangaroo",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KangarooArcticExtraDamage_+%",
+  "titre": "Damage vs Arctic Kangaroo",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KangarooArcticSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KangarooJungleExtraDamageResistance_+%",
+  "titre": "Resistance vs Jungle Kangaroo",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KangarooJungleExtraDamage_+%",
+  "titre": "Damage vs Jungle Kangaroo",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KangarooJungleSpawnRate_+%",
+  "titre": "",
+  "description": "",
+  "categorie": "AI_Spawning",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
   "contenuMort": true
@@ -19732,6 +20128,24 @@
   "titre": "Knife Stealth Instant Kill Chance",
   "description": "",
   "categorie": "Stealth",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KoalaSheepExtraDamageResistance_+%",
+  "titre": "Resistance vs Mantabu",
+  "description": "",
+  "categorie": "AI",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
+  "stat": "KoalaSheepExtraDamage_+%",
+  "titre": "Damage vs Mantabu",
+  "description": "",
+  "categorie": "AI",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
   "contenuMort": true
@@ -20538,6 +20952,15 @@
   "contenuMort": true
  },
  {
+  "stat": "MiningLeadRewards_%",
+  "titre": "",
+  "description": "",
+  "categorie": "Mining",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "MiningLimestoneRewards_%",
   "titre": "",
   "description": "",
@@ -20593,9 +21016,9 @@
  },
  {
   "stat": "MiningRewards_+%",
-  "titre": "Felling Yield",
+  "titre": "Mining Yield",
   "description": "",
-  "categorie": "Felling",
+  "categorie": "Mining",
   "masqueeUI": false,
   "utilisationsDansLeJeu": 0,
   "contenuMort": true
@@ -20867,7 +21290,7 @@
   "description": "",
   "categorie": "",
   "masqueeUI": false,
-  "utilisationsDansLeJeu": 3,
+  "utilisationsDansLeJeu": 5,
   "contenuMort": false
  },
  {
@@ -21088,7 +21511,7 @@
  },
  {
   "stat": "PlantMinionEliteExtraDamageResistance_+%",
-  "titre": "Resistance vs Plant Minion Elite",
+  "titre": "Resistance vs Vinewarden",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -21097,7 +21520,7 @@
  },
  {
   "stat": "PlantMinionEliteExtraDamage_+%",
-  "titre": "Damage vs Plant Minion Elite",
+  "titre": "Damage vs Vinewarden",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -21115,7 +21538,7 @@
  },
  {
   "stat": "PlantMinionMeleeExtraDamageResistance_+%",
-  "titre": "Resistance vs Plant Minion Melee",
+  "titre": "Resistance vs Vinewhip",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -21124,7 +21547,7 @@
  },
  {
   "stat": "PlantMinionMeleeExtraDamage_+%",
-  "titre": "Damage vs Plant Minion Melee",
+  "titre": "Damage vs Vinewhip",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -21133,7 +21556,7 @@
  },
  {
   "stat": "PlantMinionRangedExtraDamageResistance_+%",
-  "titre": "Resistance vs Plant Minion Ranged",
+  "titre": "Resistance vs Vinequill",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -21142,7 +21565,7 @@
  },
  {
   "stat": "PlantMinionRangedExtraDamage_+%",
-  "titre": "Damage vs Plant Minion Ranged",
+  "titre": "Damage vs Vinequill",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -21151,7 +21574,7 @@
  },
  {
   "stat": "PlantMinionSporeExtraDamageResistance_+%",
-  "titre": "Resistance vs Plant Minion Spore",
+  "titre": "Resistance vs Vinespore",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -21160,7 +21583,7 @@
  },
  {
   "stat": "PlantMinionSporeExtraDamage_+%",
-  "titre": "Damage vs Plant Minion Spore",
+  "titre": "Damage vs Vinespore",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -22842,6 +23265,15 @@
   "contenuMort": true
  },
  {
+  "stat": "ShatteringCobaltRewards_+%",
+  "titre": "Shattering Cobalt Rewards",
+  "description": "",
+  "categorie": "Mining",
+  "masqueeUI": false,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
+ },
+ {
   "stat": "ShatteringDamageResistance_%",
   "titre": "Shatter Resistance",
   "description": "",
@@ -24202,7 +24634,7 @@
  },
  {
   "stat": "TropicalBirdExtraDamageResistance_+%",
-  "titre": "Resistance vs Tropical Bird",
+  "titre": "Resistance vs Kaleidos",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -24211,7 +24643,7 @@
  },
  {
   "stat": "TropicalBirdExtraDamage_+%",
-  "titre": "Damage vs Tropical Bird",
+  "titre": "Damage vs Kaleidos",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -24427,7 +24859,7 @@
  },
  {
   "stat": "TurtleDuckExtraDamageResistance_+%",
-  "titre": "Resistance vs Turtle Duck",
+  "titre": "Resistance vs Dungo",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -24436,7 +24868,7 @@
  },
  {
   "stat": "TurtleDuckExtraDamage_+%",
-  "titre": "Damage vs Turtle Duck",
+  "titre": "Damage vs Dungo",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -24445,7 +24877,7 @@
  },
  {
   "stat": "TurtleFishExtraDamageResistance_+%",
-  "titre": "Resistance vs Turtle Fish",
+  "titre": "Resistance vs Reefjaw",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -24454,7 +24886,7 @@
  },
  {
   "stat": "TurtleFishExtraDamage_+%",
-  "titre": "Damage vs Turtle Fish",
+  "titre": "Damage vs Reefjaw",
   "description": "",
   "categorie": "AI",
   "masqueeUI": false,
@@ -25369,6 +25801,15 @@
   "masqueeUI": false,
   "utilisationsDansLeJeu": 11,
   "contenuMort": false
+ },
+ {
+  "stat": "WorldPostCampaignCreatureSpawning_?",
+  "titre": "Spawn Great Hunt Creatures Post Campaign",
+  "description": "Spawn Great Hunt Creatures Post Campaign",
+  "categorie": "World",
+  "masqueeUI": true,
+  "utilisationsDansLeJeu": 0,
+  "contenuMort": true
  },
  {
   "stat": "WorldPrebuiltStructuresDestroyed_?",

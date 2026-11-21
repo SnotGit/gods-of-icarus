@@ -272,9 +272,6 @@
  "\"Something was... lost in the genetic reconstruction of this species. African Elephants on earth are intelligent, self-aware creatures. In multiple instances they've passed the MSR test. Icarus Loxodonta do not react as expected when presented with the mirror test. We did... I... something isn't right.\"": [
   "\"Quelque chose a été perdu dans la reconstruction génétique de cette espèce. Les éléphants d'Afrique sur terre sont des créatures intelligentes et conscientes d'elles-mêmes. Dans de nombreux cas, ils ont réussi le test MSR. Les Loxodonta d'Icarus ne réagissent pas comme prévu au test du miroir. Nous avons... Je... quelque chose ne va pas.\""
  ],
- "\"Space bacon. My favourite part of this cursed rock.\"": [
-  "\"Le bacon de l'espace. Ma partie préférée de ce maudit rocher.\""
- ],
  "\"Stress cannot exist in the presence of a pie.\" - David Mamet": [
   "« Le stress ne peut exister en présence d'une tourte. » - David Mamet"
  ],
@@ -5780,9 +5777,6 @@
  "//OPERATOR: UDA // BIOME: Forest // BACKGROUND: The Operator has set up a testing area for Contractors to train and hone their skills. // MISSION: Complete the test with a passing score. //TERMS: Flat fee. A selection of weapons will be provided for testing purposes only.": [
   "//OPÉRATEUR : UDA // BIOME : Forêt // CONTEXTE : L'Opérateur a mis en place une zone de test pour que les Contractants puissent se former et perfectionner leurs compétences. // MISSION : terminez le test avec le score requis. //CONDITIONS : Tarif fixe. Une sélection d'armes sera fournie à des fins de test uniquement."
  ],
- "//OPERATOR: UDA // BIOME: Forest // BACKGROUND: Workshop personnel request additional supplies from the surface. // MISSION: Supply pod with requested ore samples. //TERMS: Prospector will be provided pre-fabricated workshop gear, courtesy of Shengong.": [
-  "//OPÉRATEUR : UDA // BIOME : Forêt // CONTEXTE : Le personnel de l'atelier demande des fournitures supplémentaires à la surface. // MISSION : approvisionner la capsule avec les échantillons de minerai demandés. // CONDITIONS : Le prospecteur recevra un équipement d'atelier préfabriqué, généreusement fourni par Shengong."
- ],
  "//OPERATOR: UDA // BIOME: Frozen Traverse // BACKGROUND: General access for all Contractors meeting drop criteria. // MISSION: Contractors are not required to pursue specific objectives. //TERMS: Contractors will be provided with a functioning envirosuit. They will be otherwise unassisted.": [
   "//OPÉRATEUR : UDA // BIOME : Traversée Gelée // CONTEXTE : Accès général pour tous les contractants répondant aux critères de chute. // MISSION : les contractants ne sont pas tenus de poursuivre des objectifs spécifiques. //CONDITIONS : Les contractants recevront une combinaison fonctionnelle. Ils ne recevront aucune autre assistance."
  ],
@@ -5854,9 +5848,6 @@
  ],
  "//OPERATOR: UDA // BIOME: Volcanic // BACKGROUND: The Eris Inquisition is working to uncover what Group 15 has been hiding on Icarus. // MISSION: Search the Northwestern Volcanic for more Group 15 facilities. //TERMS: Flat fee. This section of the Terrazone is exempt from Contractor Insurance claims, proceed with caution.": [
   "//OPÉRATEUR : UDA // BIOME : Volcanique // CONTEXTE : L'Inquisition Eris s'efforce de découvrir ce que le Groupe 15 cache sur Icarus. // MISSION : Fouillez la zone volcanique nord-ouest à la recherche d'autres installations du Groupe 15. // CONDITIONS : Tarif forfaitaire. Cette section de la Terrazone est exemptée des réclamations d'assurance des entrepreneurs, procédez avec prudence."
- ],
- "//OPERATOR: Uniao // BIOME: Alpine Valley // BACKGROUND: The operator requires a very delicate biosample from the surface. // MISSION: Retrieve the required sample and ensure its safe return to orbit. Note that the sample will be highly sensitive to death. //TERMS: Flat fee. No acknowledgement will be given for damaged or unusable samples.\t ": [
-  "//OPÉRATEUR : Uniao // BIOME : Vallée alpine // CONTEXTE : L'opérateur a besoin d'un échantillon biologique très délicat provenant de la surface. // MISSION : Récupérer l'échantillon requis et s'assurer qu'il retourne en orbite en toute sécurité. L'échantillon sera très sensible à la mort. //CONDITIONS : Tarif forfaitaire. Aucune reconnaissance ne sera donnée pour les échantillons endommagés ou inutilisables.\t "
  ],
  "//OPERATOR: Uniao // BIOME: Alpine Valley // BACKGROUND: The operator requires a very delicate biosample from the surface. // MISSION: Retrieve the required sample and ensure its safe return to orbit. Note that the sample will be highly sensitive to temperature. //TERMS: Flat fee. No acknowledgement will be given for damaged or unusable samples.\t ": [
   "//OPÉRATEUR : Uniao // BIOME : Vallée alpine // CONTEXTE : L'opérateur a besoin d'un échantillon biologique très délicat de la surface. // MISSION : Récupérer l'échantillon requis et assurer son retour en orbite en toute sécurité. Notez que l'échantillon sera très sensible à la température. //CONDITIONS : Tarif fixe. Aucun accord ne sera donné pour les échantillons endommagés ou inutilisables. "
@@ -8131,9 +8122,6 @@
  "A handy device that can be used to move cursor across a computer screen.": [
   "Appareil pratique permettant de déplacer un curseur sur un écran d’ordinateur."
  ],
- "A handy fish tank for keeping your favourite finned friends around, powered by biofuel.": [
-  "Un aquarium pratique pour garder vos amis à nageoires préférés, alimenté par du biocarburant."
- ],
  "A handy item that creates a zone of protection, reducing the likelihood of creatures within its large radius. Requires Biofuel.": [
   "Un objet pratique qui crée une zone de protection, réduisant la probabilité d'attaque des créatures dans son large rayon. Nécessite du biocarburant."
  ],
@@ -8806,9 +8794,6 @@
  ],
  "A mid-range sickle, perfect for gathering.": [
   "Une faucille de milieu de gamme, parfaite pour la récolte."
- ],
- "A midweight, short-shafted ahlspeiss spear that, composition aside, would not have looked out of place in 16th century Prussia.": [
-  "Une lance ahlspeiss de poids moyen, à manche court, qui, en dehors de sa composition, n'aurait pas dépareillé dans la Prusse du XVIe siècle."
  ],
  "A mighty beast, felled.": [
   "Une bête puissante, abattue."
@@ -11235,12 +11220,6 @@
  "A very dense crunchy snack.": [
   "Un en-cas croquant très dense."
  ],
- "A very fancy fish tank for keeping your favourite finned friends around, must be connected to both power and water.": [
-  "Un aquarium très sophistiqué pour garder vos amis à nageoires préférés, il doit être raccordé à l'électricité et à l'eau."
- ],
- "A very fancy large fish tank for keeping your favourite finned friends around, must be connected to both power and water.": [
-  "Un grand aquarium très fantaisiste pour garder vos amis à nageoires préférés, doit être raccordé à l'électricité et à l'eau."
- ],
  "A very rough carving of a rabbit.": [
   "Sculpture très grossière d'un lapin."
  ],
@@ -11309,9 +11288,6 @@
  ],
  "A well-crafted, solidly insulated stove for discerning off-world chefs.": [
   "Une cuisinière bien conçue et solidement isolée pour les chefs les plus exigeants du monde entier."
- ],
- "A well-engineered explosive.": [
-  "Un explosif très bien conçu."
  ],
  "A well-honed, but less durable axe.": [
   "Une Hache bien rodée mais moins durable."
@@ -11893,6 +11869,9 @@
  "Adrenaline Chance on Attack": [
   "Chance d'adrénaline à l'attaque"
  ],
+ "Adult": [
+  "Adulte"
+ ],
  "Advanced": [
   "Avancé"
  ],
@@ -12420,9 +12399,6 @@
  "Allegedly, the place is a deathtrap; completely uninhabitable, very little natural resources, and it's unmappable.": [
   "L'endroit serait un piège mortel, totalement inhabitable, avec très peu de ressources naturelles, et il est impossible de s'y installer."
  ],
- "Allllllright, your survey equipment was loaded onto your dropship, make sure to grab it. ": [
-  "Très bien, votre équipement d'exploration a été chargé dans votre nacelle, soyez certain de les récupérer. "
- ],
  "Allowed Creatures": [
   "Créatures autorisées"
  ],
@@ -12744,24 +12720,6 @@
  "Aluminium Yield 2": [
   "Rendement Aluminium 2"
  ],
- "Aluminum Attachment": [
-  "Module pour l'aluminium"
- ],
- "Aluminum Master I": [
-  "Maître de l'aluminium I"
- ],
- "Aluminum Master II": [
-  "Maître de l'aluminium II"
- ],
- "Aluminum Master III": [
-  "Maître de l'aluminium III"
- ],
- "Aluminum Master IV": [
-  "Maître de l'aluminium IV"
- ],
- "Aluminum Master V": [
-  "Maître de l'aluminium V"
- ],
  "Ambient Occlusion": [
   "Occlusion Ambiante"
  ],
@@ -12821,9 +12779,6 @@
  ],
  "An Entrance to a Cave.": [
   "Une entrée de grotte."
- ],
- "An Enzyme Delivery System - a hard outer case with Enzymes inside. Use with your favourite projectile-firing weapon - pistol, shotgun or rifle.": [
-  "Un Système de Distribution d'Enzymes (EDS) - un boîtier extérieur rigide contenant des enzymes. À utiliser avec votre arme de tir préférée - pistolet, fusil de chasse ou carabine."
  ],
  "An Experiment that went wrong.": [
   "Une expérience qui a mal tourné."
@@ -13216,9 +13171,6 @@
  ],
  "An attachment that increases the yield of Titanium from ore nodes.": [
   "Un module qui augmente le rendement du Titane depuis les gisements de minerais."
- ],
- "An attachment that increases the yield of aluminum.": [
-  "Un module qui augmente le rendement de l'aluminium."
  ],
  "An attachment that increases the yield of bone from creatures.": [
   "Un module qui augmente le rendement des os extraits des créatures."
@@ -15006,9 +14958,6 @@
  "Assault Rifles": [
   "Fusils d'assault"
  ],
- "Assemble the device (Crafting Menu)": [
-  "Assembler l'appareil (Menu Fabrication)"
- ],
  "Assembly's bots ain't the best, but they've got a guess at where it's bedding down.": [
   "Les robots de l'Assemblée ne sont pas les meilleurs, mais ils savent plus ou moins l'endroit où ce truc se trouve."
  ],
@@ -15308,21 +15257,6 @@
  ],
  "Auto-Run": [
   "Course Auto"
- ],
- "Automated Defense System: Burst Rifle": [
-  "Système de défense automatisé : Fusil à rafales"
- ],
- "Automated Defense System: Pistol": [
-  "Système de défense automatisé : Pistolet"
- ],
- "Automated Defense System: Rifle": [
-  "Système de défense automatisé : Fusil"
- ],
- "Automated Defense System: Shotgun": [
-  "Système de défense automatisé : Fusil de chasse"
- ],
- "Automated Defense System: Tesla Coil": [
-  "Système de défense automatisé : Bobine Tesla"
  ],
  "Automatic Exotic Delivery Pod": [
   "Module de ravitaillement automatique pour exotiques"
@@ -16618,12 +16552,6 @@
  "Black is always in fashion": [
   "Le noir est toujours à la mode"
  ],
- "Blackmarket Automative Defence Turret (Flamethrower)": [
-  "Tourelle de défense automatique du marché noir (lance-flammes)"
- ],
- "Blackmarket Automative Defence Turret (Pistol)": [
-  "Tourelle de défense automatique du marché noir (pistolet)"
- ],
  "Blacksand": [
   "Sable noir"
  ],
@@ -16797,6 +16725,9 @@
  ],
  "Boar Carcass": [
   "Carcasse de sanglier"
+ ],
+ "Boar Fertility Serum": [
+  "Sérum de Fertilité pour sanglier"
  ],
  "Boar Killer I": [
   "Tueur de sangliers I"
@@ -17279,6 +17210,9 @@
  ],
  "Breaking Fist": [
   "Poing briseur"
+ ],
+ "Breaks down produce and water into biofuel.": [
+  "Décompose un mélange de produits agricoles et d'eau en biocarburant."
  ],
  "Breeding": [
   "L'élevage"
@@ -17775,6 +17709,9 @@
  "Burning": [
   "Brûlure"
  ],
+ "Burns biofuel into electricity.": [
+  "Brûle du biocarburant pour générer de l'électricité."
+ ],
  "Burnt Prickly Pear": [
   "Figue de Barbarie brûlée"
  ],
@@ -18035,9 +17972,6 @@
  ],
  "But watch yourself": [
   "Mais fais attention à toi"
- ],
- "But we were desperate.": [
-  "Mais nous étions désespérés."
  ],
  "But we're learnin' more everyday, thanks to people like you.": [
   "Mais on en apprend un peu plus chaque jour, grâce à des gens comme toi."
@@ -18395,6 +18329,9 @@
  ],
  "Can See Creature Status when Tracking": [
   "Peut voir le statut des créatures lorsque vous les traquez"
+ ],
+ "Can Throw Stick": [
+  "Peut lancer des branches"
  ],
  "Can Throw Your Axe": [
   "Peut lancer votre hache"
@@ -19308,9 +19245,6 @@
  ],
  "Cave Worms Killed": [
   "Vers des cavernes abattus"
- ],
- "Cave found. Mine through stone to access the cave.": [
-  "Grotte trouvée. Creuse à travers la pierre pour y entrer."
  ],
  "Cave is marked on your map.": [
   "La caverne est marquée sur votre carte."
@@ -20793,9 +20727,6 @@
  "Collect Tissue?\r\nScalpel": [
   "Prélever du tissu ?\r\nScalpel"
  ],
- "Collect Uplink Transmitter from Supply Crate": [
-  "Récupérer l'émetteur de liaison montante dans la caisse de ravitaillement"
- ],
  "Collect Virus Sample": [
   "Collecter un échantillon de virus"
  ],
@@ -20882,12 +20813,6 @@
  ],
  "Collect or craft Layered Plating": [
   "Collecter ou fabriquer les plaques de Blindage"
- ],
- "Collect ores from inside nearby caves": [
-  "Collecter des minerais depuis l'intérieur des grottes environnantes"
- ],
- "Collect ores from the surface": [
-  "Collecter des minerais depuis la surface"
  ],
  "Collect parts from the Arctic and craft monitoring stations at a Machining Bench": [
   "Collecter des pièces dans l'Arctique et fabrique des stations de surveillance sur un banc d'usinage"
@@ -21584,9 +21509,6 @@
  "Construct 10 Wood building pieces": [
   "Fabriquer 10 pièces de construction en bois"
  ],
- "Construct 100 Aluminum building pieces": [
-  "Fabriquer 100 pièces de construction en aluminium"
- ],
  "Construct 100 Concrete building pieces": [
   "Fabriquer 100 pièces de construction en béton"
  ],
@@ -21604,9 +21526,6 @@
  ],
  "Construct 100 Wood building pieces": [
   "Fabriquer 100 pièces de construction en bois"
- ],
- "Construct 1000 Aluminum building pieces": [
-  "Fabriquer 1000 pièces de construction en aluminium"
  ],
  "Construct 1000 Concrete building pieces": [
   "Fabriquer 1 000 pièces de construction en béton"
@@ -21626,9 +21545,6 @@
  "Construct 1000 Wood building pieces": [
   "Fabriquer 1 000 pièces de construction en bois"
  ],
- "Construct 20 Aluminum building pieces": [
-  "Fabriquer 20 pièces de construction en aluminium"
- ],
  "Construct 20 Concrete building pieces": [
   "Fabriquer 20 pièces de construction en béton"
  ],
@@ -21643,9 +21559,6 @@
  ],
  "Construct 20 Thatch building pieces": [
   "Fabriquer 20 pièces de construction en chaume"
- ],
- "Construct 50 Aluminum building pieces": [
-  "Fabriquer 50 pièces de construction en aluminium"
  ],
  "Construct 50 Concrete building pieces": [
   "Fabriquer 50 pièces de construction en béton"
@@ -21665,7 +21578,7 @@
  "Construct 50 Wood building pieces": [
   "Fabriquer 50 pièces de construction en bois"
  ],
- "Construct 500 Aluminum building pieces": [
+ "Construct 500 Aluminium building pieces": [
   "Fabriquer 500 pièces de construction en aluminium"
  ],
  "Construct 500 Concrete building pieces": [
@@ -21686,12 +21599,6 @@
  "Construct 500 Wood building pieces": [
   "Fabriquer 500 pièces de construction en bois"
  ],
- "Construct Machining Bench": [
-  "Construire un banc d'usinage"
- ],
- "Construct a Forge Area": [
-  "Construire une zone de forge"
- ],
  "Construct a Miasmic Research Station": [
   "Construire une Station de Recherche Infectée"
  ],
@@ -21700,12 +21607,6 @@
  ],
  "Construct an Igloo Emergency Shelter": [
   "Construire un igloo comme abri d’urgence"
- ],
- "Construct and power Electric Dehumidifier": [
-  "Construire et alimenter en énergie un déshumidificateur électrique"
- ],
- "Construct and power Electric Furnace": [
-  "Construire et alimenter en énergie un fourneau électrique"
  ],
  "Construct your way over the rock barrier": [
   "Établir une route à travers la barrière rocheuse"
@@ -22496,9 +22397,6 @@
  "Craft the Armor on the Textiles Bench": [
   "Fabriquez l'armure sur un banc de textiles"
  ],
- "Craft the Kiwi Nests in your crafting menu {0}/{1}": [
-  "Fabriquez les nids de kiwi dans votre menu d'artisanat {0}/{1}"
- ],
  "Craft the biofuel drill (Machine Bench)": [
   "Fabriquer la foreuse à biocarburant (Banc de machine)"
  ],
@@ -23063,9 +22961,6 @@
  "Crude Oil is gathered from Oil Geysers.": [
   "Le pétrole brut est récolté sur les geysers pétrolifères."
  ],
- "Crude in, refined out, simple, if you ignore everything in between.": [
-  "Brut en entrée, raffiné en sortie. Simple… si on ignore tout ce qu’il y a entre les deux."
- ],
  "Crumbed Fish": [
   "Poisson émietté"
  ],
@@ -23576,6 +23471,9 @@
  "Damage vs Jaguar": [
   "Dégâts sur les Jaguars"
  ],
+ "Damage vs Kaleidos": [
+  "Dégâts vvs Kaléidos"
+ ],
  "Damage vs Kea": [
   "Dégâts contre les Kea"
  ],
@@ -24038,8 +23936,8 @@
  "Decreased oxygen, hunger and thirst costs": [
   "Diminution des coûts de l'oxygène, de la faim et de la soif"
  ],
- "Decreased stamina cost for Firewhacker use and faster repair time with hammers": [
-  "Diminution du coût de l'endurance pour l'utilisation de la batte à feu et accélération du temps de réparation avec les marteaux"
+ "Decreased stamina cost for Fire whacker use and faster repair time with hammers": [
+  "Réduction du coût d'endurance du batteur à feu et réparation plus rapide avec les marteaux"
  ],
  "Decreased stamina usage with spears": [
   "Diminution de la consommation en endurance avec les lances"
@@ -24643,9 +24541,6 @@
  "Deposit Point": [
   "Point de dépôt"
  ],
- "Deposit Sample in the Sinotai Retrieval Pod (M)": [
-  "Déposez l'échantillon dans la capsule de récupération de Sinotai (M)"
- ],
  "Deposit additional Samples in the Drop Ship for further Study": [
   "Déposer des échantillons supplémentaires dans le Drop Ship pour des études approfondies"
  ],
@@ -24981,6 +24876,9 @@
  ],
  "Digested Biomatter Sample": [
   "Échantillon de Biomatière Digérée"
+ ],
+ "Digests any organic matter into biofuel, fast.": [
+  "Digère rapidement toute matière organique en biocarburant."
  ],
  "Digging Yield": [
   "Le rendement des fouilles"
@@ -27090,9 +26988,6 @@
  "Establishing a secure connection...": [
   "Établir une connexion sécurisée..."
  ],
- "Establishing a secure link to speed dial contact: My Favourite Boss.": [
-  "Établissement d'un lien sécurisé vers un contact de numérotation rapide : Mon patron préféré."
- ],
  "Estimated Resource:": [
   "Ressource estimée :"
  ],
@@ -27486,6 +27381,9 @@
  "Expanded Motor": [
   "Moteur étendu"
  ],
+ "Expanded storage with tanks for biofuel and oxygen.": [
+  "Stockage central étendu avec des réservoirs pour le biocarburant et l'oxygène."
+ ],
  "Expands the Range of Splash Effects": [
   "Élargit la gamme des effets d'éclaboussures"
  ],
@@ -27509,9 +27407,6 @@
  ],
  "Experience Icarus": [
   "Découvrez Icarus"
- ],
- "Experienced Aluminum Builder": [
-  "Artisan de l'aluminium chevronné"
  ],
  "Experienced Concrete Builder": [
   "Artisan du béton chevronné"
@@ -27582,8 +27477,8 @@
  "Experiments by Larkwell Martinez into the gravitational effects of exotics have resulted in a prototype known as the 'Dampener', which slightly lowers local mass, allowing swifter movement.": [
   "Les expériences menées par Larkwell Martinez sur les effets gravitationnels des exotiques ont abouti à un prototype connu sous le nom « d'amortisseur », qui réduit légèrement la masse locale, offrant ainsi des mouvements plus rapides."
  ],
- "Expert Aluminum Builder": [
-  "Artisan de l'aluminium expert"
+ "Expert Aluminium Builder": [
+  "Artisan Expert de l'aluminium"
  ],
  "Expert Concrete Builder": [
   "Artisan du béton expert"
@@ -31762,9 +31657,6 @@
  "Guardian": [
   "Veilleur"
  ],
- "Guess it's not the only the scan sites. ": [
-  "Je suppose que ce ne sont pas les seules zones à scanner. "
- ],
  "Guess that's what happens when you wipe out the local species, then release a whole new ecosystem to run wild.": [
   "Je suppose que c'est ce qui arrive quand on élimine les espèces locales, puis qu'on libère un tout nouvel écosystème."
  ],
@@ -32862,6 +32754,9 @@
  ],
  "Hellooooooo...": [
   "Saluuuuut ..."
+ ],
+ "Helmet": [
+  "Casque"
  ],
  "Help 'em figure out what's happening down there.": [
   "Aide-les à comprendre ce qui se passe."
@@ -34246,9 +34141,6 @@
  "I already have a team enroute to your location Prospector. You should have known better than to go poking around in the Group's business.": [
   "J'ai déjà une équipe en route vers ta position Prospecteur. Tu n'aurais vraiment pas du te mêler des affaires du Group."
  ],
- "I already sent two of my guys out to gather. Should make it a bit quicker": [
-  "J'ai déjà envoyé deux de mes hommes à la collecte. Cela devrait être un peu plus rapide"
- ],
  "I am for once immensely grateful that I am lacking an olfactory chip. ": [
   "Pour une fois, je suis immensément reconnaissant de ne pas avoir de puce olfactive "
  ],
@@ -35159,9 +35051,6 @@
  "I'm thinking THAT, controls G15's famous orbital laser. Mo, didn't you have a few run-ins with the other end of that thing?": [
   "Je pense que CELA contrôle le célèbre laser orbital G15. Mo, tu n'as pas eu quelques démêlés avec l'autre extrémité de ce truc ?"
  ],
- "I'm told it's gonna be dismantled and shipped back to earth.": [
-  "On m'a dit qu'il allait être démantelé et renvoyé sur Terre."
- ],
  "I've always wanted a pet. What shall we name it?": [
   "J'ai toujours voulu un animal de compagnie. Comment on l'appelle ?"
  ],
@@ -35783,9 +35672,6 @@
  "If you hit, it's skill, if you miss, it's the rapidly crafted, low quality projectiles.": [
   "Si vous faites mouche, c'est de la compétence, si vous ratez, c'est à cause de la qualité médiocre de projectiles fabriqués à la va-vite."
  ],
- "If you know what I'm sayin'.": [
-  "Si tu vois ce que je veux dire."
- ],
  "If you make it through, there'll be a payday waitin'.": [
   "Si tu réussis, tu auras une paie qui t'attendra."
  ],
@@ -36248,6 +36134,9 @@
  ],
  "Incomplete": [
   "Non terminé"
+ ],
+ "Inconclusive": [
+  "Non Concluant"
  ],
  "Incorrect Region for Campaign": [
   "Région incorrecte pour la campagne"
@@ -37311,9 +37200,6 @@
  ],
  "Interesting. These researchers must be terrified, if they survived at all.": [
   "Intéressant. Ces chercheurs doivent être terrifiés, s'ils ont survécu."
- ],
- "Interesting. What's your least favourite creature that you'd be happy to doom to an awful fate?": [
-  "Intéressant. Quelle est la créature que vous aimez le moins et que vous seriez heureux de condamner à un sort horrible ?"
  ],
  "Interestingly 91.2% of Prospectors do not outlive their first Norex Contract.": [
   "Il est intéressant de noter que 91,2 % des prospecteurs ne survivent pas à leur premier contrat Norex."
@@ -42210,9 +42096,6 @@
  "MXC Crate": [
   "Caisse MXC"
  ],
- "MXC Firewhacker": [
-  "Brûleur de feu MXC"
- ],
  "MXC Flange Arrow": [
   "Flèche Bride MXC"
  ],
@@ -42404,6 +42287,9 @@
  ],
  "Male Tamed Creatures gain the 'Sire Vigor' buff after Fertilization": [
   "Les créatures mâles apprivoisées obtiennent le buff Vigueur Paternelle après la fécondation"
+ ],
+ "Malformations represent the apex, hyper-evolved iterations of the Wraith cascade. A horrific biological amalgamation where multiple infected human subjects fuse into a single, massive entity. Their physical structure presents as a distorted mass of compressed torsos, interwoven skeletal frameworks, and necrotic tissue. Jagged subcutaneous exotic mineral growths breach the fused dermis to act as dense, organic armor plating. Possessing immense physical mass and a volatile metabolic output, they emit localized radiation capable of degrading standard environmental shielding while easily shrugging off small-arms fire.": [
+  "Les « Malformations » constituent le summum, les itérations hyper-évoluées de la cascade des Wraith. Il s’agit d’une effroyable fusion biologique au cours de laquelle plusieurs sujets humains infectés se fondent en une seule et immense entité. Leur structure physique se présente sous la forme d’une masse déformée composée de torses compressés, de squelettes entrelacés et de tissus nécrotiques. Des excroissances minérales exotiques sous-cutanées aux contours irréguliers transpercent le derme fusionné pour former une armure organique dense. Dotés d’une masse physique immense et d’un métabolisme instable, ils émettent un rayonnement localisé capable de dégrader les blindages environnementaux standard tout en résistant sans peine aux tirs d’armes légères."
  ],
  "Mammoth": [
   "Mammouth"
@@ -43045,9 +42931,6 @@
  "Mine 100 voxels fully": [
   "Extraire entièrement 100 unités de voxel"
  ],
- "Mine 1000 Aluminum ": [
-  "Extraire 1 000 unités d'aluminium "
- ],
  "Mine 1000 Bauxite": [
   "Extraire 1 000 unités de bauxite"
  ],
@@ -43084,9 +42967,6 @@
  "Mine 1000 voxels fully": [
   "Extraire entièrement 1 000 unités de voxel"
  ],
- "Mine 10000 Aluminum ": [
-  "Extraire 10 000 unités d'aluminium "
- ],
  "Mine 10000 Coal": [
   "Extraire 10 000 unités de charbon"
  ],
@@ -43117,9 +42997,6 @@
  "Mine 100000 Stone": [
   "Extraire 100 000 unités de pierre"
  ],
- "Mine 200 Aluminum ": [
-  "Extraire 200 unités d'aluminium "
- ],
  "Mine 200 Coal": [
   "Extraire 200 unités de charbon"
  ],
@@ -43146,9 +43023,6 @@
  ],
  "Mine 250 voxels fully": [
   "Extraire entièrement 250 unités de voxel"
- ],
- "Mine 500 Aluminum ": [
-  "Extraire 500 unités d'aluminium "
  ],
  "Mine 500 Coal": [
   "Extraire 500 unités de charbon"
@@ -43179,9 +43053,6 @@
  ],
  "Mine 500 voxels fully": [
   "Extraire entièrement 500 unités de voxel"
- ],
- "Mine 5000 Aluminum ": [
-  "Extraire 5 000 unités d'aluminium "
  ],
  "Mine 5000 Coal": [
   "Extraire 5 000 unités de charbon"
@@ -45098,9 +44969,6 @@
  "Nourishing, high in protein.": [
   "Nourrissant, riche en protéines."
  ],
- "Novice Aluminum Builder": [
-  "Artisan de l'aluminium novice"
- ],
  "Novice Concrete Builder": [
   "Artisan du béton débutant"
  ],
@@ -45581,9 +45449,6 @@
  "Oh look, an ominous cave spewing harmful radiation. Why wouldn't you want to go in there?": [
   "Tiens, une grotte menaçante qui rejette des radiations. Qui refuserait d'y aller ?"
  ],
- "Oh look, it got out. Perhaps its favourite food is actually human flesh. Wouldn't that be fun?": [
-  "Oh, regardez, il est sorti. Peut-être que son aliment préféré est en fait la chair humaine. Ne serait-ce pas amusant ?"
- ],
  "Oh man, that's some ANGRY wildlife.": [
   "Oh vieux, ces bestioles sont très en COLÈRE !"
  ],
@@ -45598,9 +45463,6 @@
  ],
  "Oh my, those scientists have been busy. Messing around with enzymes were we?": [
   "Oh là là, ces scientifiques n'ont pas chômé. Nous jouons avec les enzymes, n'est-ce pas ?"
- ],
- "Oh no, that one was my favourite... :(": [
-  "Oh non, celui-là était mon préféré... :("
  ],
  "Oh sh- you better go get the rest of 'em": [
   "Oh sh- tu ferais mieux d'aller chercher le reste d'entre eux"
@@ -47192,6 +47054,9 @@
  "Pineapple": [
   "Ananas"
  ],
+ "Pineapple Seed": [
+  "Graines d'ananas"
+ ],
  "Ping": [
   "Notification"
  ],
@@ -48045,9 +47910,6 @@
  "Power Trip": [
   "Pleine puissance"
  ],
- "Power the Analyzer and Place the Egg inside": [
-  "Mettre l'analyseur sous tension et placer l'œuf à l'intérieur"
- ],
  "Power the drill, mine through the rockfall.": [
   "Actionner la foreuse, forer à travers l'éboulement."
  ],
@@ -48447,9 +48309,6 @@
  "Produces a revivifying beverage.": [
   "Produit une boisson revivifiante."
  ],
- "Professional Aluminum Builder": [
-  "Artisan de l'aluminium professionnel"
- ],
  "Professional Chef": [
   "Chef Professionnel"
  ],
@@ -48485,9 +48344,6 @@
  ],
  "Professional Wood Builder": [
   "Artisan du bois professionnel"
- ],
- "Proficient Aluminum Builder": [
-  "Artisan de l'aluminium efficace"
  ],
  "Proficient Concrete Builder": [
   "Artisan du béton efficace"
@@ -49695,6 +49551,9 @@
  "Radical Predator": [
   "Prédateur radical"
  ],
+ "Radio Tower": [
+  "Tour Radio"
+ ],
  "Radio Tower III": [
   "Tour Télécomm III"
  ],
@@ -49923,6 +49782,9 @@
  ],
  "Raw Gold Lamp": [
   "Lampe en or brut"
+ ],
+ "Raw Materials": [
+  "Matériaux Bruts"
  ],
  "Raw Meat": [
   "Viande crue"
@@ -56854,9 +56716,6 @@
  "Specialised bench for crafting saddles, troughs, carts and various feeds.": [
   "Banc spécialisé dans la fabrication de selles, d'auges, de charrettes et d'aliments divers."
  ],
- "Specialist Aluminum Attachment": [
-  "Module pour Aluminium du Spécialiste"
- ],
  "Specialist Armor Attachment Pack": [
   "Pack de Modules d'Armure du Spécialiste"
  ],
@@ -58143,9 +58002,6 @@
  "Streamlined Nozzle which Increases Range": [
   "Buse profilée qui augmente la portée"
  ],
- "Strength Boost": [
-  "Augmentation de Force"
- ],
  "Strength Boost Module": [
   "Module d'Augmentation de Force"
  ],
@@ -58371,9 +58227,6 @@
  ],
  "Suited Up": [
   "Habillé"
- ],
- "Suits and Modules": [
-  "Combinaisons et modules"
  ],
  "Sulfur": [
   "Soufre"
@@ -59630,6 +59483,9 @@
  ],
  "Terminating connection.": [
   "Terminer la connexion."
+ ],
+ "Terminating external connection.": [
+  "Fermeture de la connexion externe."
  ],
  "Terraforming Enzyme": [
   "Enzyme de terraformation"
@@ -62740,9 +62596,6 @@
  "Thick Woven Rug": [
   "Tapis tissé épais"
  ],
- "Thick oil, made from plant extract.": [
-  "Une huile végétale épaisse."
- ],
  "Thin Woven Rug": [
   "Tapis tissé fin"
  ],
@@ -64487,9 +64340,6 @@
  "Travel to the lost equipment marked on the map ([Map])": [
   "Rendez-vous à l'équipement perdu indiqué sur la carte ([Map])"
  ],
- "Travel to the map Location ([Map])": [
-  "Se rendre à l'endroit indiqué sur la carte ([Map])"
- ],
  "Travel to the marked location ([Map])": [
   "Rendez-vous vers l’emplacement marqué ([Map])"
  ],
@@ -65676,9 +65526,6 @@
  "Use Anti-Biotic Pills and..": [
   "Utiliser des pilules anti-biotiques et.."
  ],
- "Use Anti-Parasitic Pills.": [
-  "Utiliser des pilules antiparasitaires."
- ],
  "Use Anti-Poison Pills and..": [
   "Utiliser des pilules anti-poison et.."
  ],
@@ -65888,9 +65735,6 @@
  ],
  "Vegetable": [
   "Légume"
- ],
- "Vegetable Oil": [
-  "Huile végétale"
  ],
  "Vegetable Pie": [
   "Tarte aux légumes",
@@ -66132,6 +65976,9 @@
  ],
  "Visual Map": [
   "Carte visuelle"
+ ],
+ "Visualize": [
+  "Visualise"
  ],
  "Vitamins": [
   "Vitamines"
@@ -67125,9 +66972,6 @@
  ],
  "We. Need. To. Leave-": [
   "Nous devons partir"
- ],
- "Weak Laser Damage": [
-  "Faible aux dégâts laser"
  ],
  "Weak to AP damage": [
   "Faible contre les dégâts perforants"
@@ -69860,9 +69704,6 @@
  "You may begin.": [
   "Vous pouvez commencer."
  ],
- "You may display your favourite catch here for all to see.": [
-  "Vous pouvez y exposer votre prise préférée pour que tout le monde puisse la voir."
- ],
  "You may gather any supplies left on this property for your own use, Daisy will also need a new home.": [
   "Vous pouvez rassembler toutes les fournitures laissées sur cette propriété pour votre propre usage, Daisy aura également besoin d'une nouvelle maison."
  ],
@@ -70528,6 +70369,9 @@
  ],
  "You- WHAT- uh- That's HANDLER to you.": [
   "Vous... QUOI... C'est HANDLER pour vous."
+ ],
+ "Young": [
+  "Jeune"
  ],
  "Young Coconut": [
   "Jeune noix de coco"
