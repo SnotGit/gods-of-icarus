@@ -3,12 +3,14 @@
   "author": "Gods Of Icarus Lab",
   "kind": "pak",
   "card": "card.png",
-  "summary": "Boxes that never run out: one box per building piece of every Gods Of Icarus family, its doors, windows, railings and ladders included. Consume a box to get a stack of its piece, the box stays.",
+  "summary": "Gods Of Icarus building parts in magic boxes. Composite, Smoked Composite, Industrial: walls, floors, roofs, beams, curved and diagonal pieces, trapdoors, doors, windows, railings, ladders. Wenge, Walnut, Oiled Oak, Smoked Oak, Teak, Whitewashed Oak, White Marble, Black Marble: walls, floors, ramps and stairs, beams, curved and diagonal pieces.",
   "match": "magic-box-2_*_P.pak",
   "github": "SnotGit/gods-of-icarus-mods",
   "server": true,
   "replaces": [
-    "magic-box_*_P.pak"
+    "magic-box_*_P.pak",
+    "composite_*_P.pak",
+    "industrial_*_P.pak"
   ],
   "pack": [
     "magic-box/composite-clean",

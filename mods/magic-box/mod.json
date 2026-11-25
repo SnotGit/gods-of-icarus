@@ -3,7 +3,7 @@
   "author": "Gods Of Icarus Lab",
   "kind": "pak",
   "card": "card.png",
-  "summary": "Boxes that never run out: one box per building piece of every family of the game, its doors, windows, railings and ladders included. Consume a box to get a stack of its piece, the box stays.",
+  "summary": "The game's building parts in magic boxes. Their walls and floors come without the decorative braces.",
   "match": "magic-box-1_*_P.pak",
   "github": "SnotGit/gods-of-icarus-mods",
   "server": true,
