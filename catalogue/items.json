@@ -34489,6 +34489,264 @@
   "meteoSensible": false
  },
  {
+  "rowName": "GOI_Industrial_Wall",
+  "nom": "Industrial Wall",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Wall: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Wall_Angle",
+  "nom": "Industrial Wall Angled",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Wall Angled: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Ramp",
+  "nom": "Industrial Roof",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Roof: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Beam",
+  "nom": "Industrial Beam",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Beam: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Roof_Corner",
+  "nom": "Industrial Roof Corner",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Roof Corner: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_HalfPitch",
+  "nom": "Industrial Halfpitches",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Halfpitches: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_HalfNormal",
+  "nom": "Industrial Halfpieces",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Halfpieces: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Floor",
+  "nom": "Industrial Floor",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Floor: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Diagonal_Set",
+  "nom": "Industrial Diagonal Buildings",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Diagonal Buildings: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Diagonal_Curved_Set",
+  "nom": "Industrial Curved Buildings",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Curved Buildings: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Diagonal_Curved_Wall_Angles",
+  "nom": "Industrial Curved Wall Angles",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Curved Wall Angles: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Roof_CurvedAngles",
+  "nom": "Industrial Roof Curved Angle",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Roof Curved Angle: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Advanced_Beam_Set",
+  "nom": "Industrial Advanced Beams",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Advanced Beams: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Wall_Curved",
+  "nom": "Industrial Wall/Roof Curved",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Wall/Roof Curved: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Frame",
+  "nom": "Industrial Frame",
+  "categorie": "Construction",
+  "tags": [
+   "Building.MetalGrate"
+  ],
+  "poids": 5000,
+  "maxStack": 20,
+  "deployable": false,
+  "description": "Industrial Frame: steel grating panels, the industrial floor carried on every shape."
+ },
+ {
+  "rowName": "GOI_Industrial_Door",
+  "nom": "Industrial Door",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Industrial Door: steel grating panels, the industrial floor carried on every shape.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Industrial_Window",
+  "nom": "Industrial Window",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 1000,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Industrial Window: steel grating panels, the industrial floor carried on every shape.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Industrial_TrapDoor",
+  "nom": "Industrial Trapdoor",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Industrial Trapdoor: steel grating panels, the industrial floor carried on every shape.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Industrial_Railing",
+  "nom": "Industrial Railing",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Industrial Railing: steel grating panels, the industrial floor carried on every shape.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Industrial_Railing_Gate",
+  "nom": "Industrial Railing Gate",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Industrial Railing Gate: steel grating panels, the industrial floor carried on every shape.",
+  "meteoSensible": false
+ },
+ {
+  "rowName": "GOI_Industrial_Ladder",
+  "nom": "Industrial Ladder",
+  "categorie": "Utilitaires deployables",
+  "tags": [
+   "Item.BuildingTrim"
+  ],
+  "poids": 100,
+  "maxStack": 20,
+  "deployable": true,
+  "description": "Industrial Ladder: steel grating panels, the industrial floor carried on every shape.",
+  "meteoSensible": false
+ },
+ {
   "rowName": "GOI_WeaponRack",
   "nom": "GOI Weapon Rack",
   "categorie": "Rangements",

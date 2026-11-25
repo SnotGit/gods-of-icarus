@@ -1,0 +1,7 @@
+building-trims\industrial - loadout contents:
+
+- Industrial Door x20
+- Industrial Window x20
+- Industrial Railing x20
+- Industrial Railing Gate x20
+- Industrial Ladder x20

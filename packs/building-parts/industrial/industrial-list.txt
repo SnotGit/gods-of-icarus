@@ -1,0 +1,18 @@
+building-parts\industrial - loadout contents:
+
+- Industrial Wall x20
+- Industrial Wall Angled x20
+- Industrial Roof x20
+- Industrial Beam x20
+- Industrial Roof Corner x20
+- Industrial Halfpitches x20
+- Industrial Halfpieces x20
+- Industrial Floor x20
+- Industrial Diagonal Buildings x20
+- Industrial Curved Buildings x20
+- Industrial Curved Wall Angles x20
+- Industrial Roof Curved Angle x20
+- Industrial Advanced Beams x20
+- Industrial Wall/Roof Curved x20
+- Industrial Frame x20
+- Industrial Trapdoor x20
