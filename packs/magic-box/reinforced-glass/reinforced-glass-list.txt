@@ -1,0 +1,19 @@
+magic-box\reinforced-glass - loadout contents:
+
+- Wall
+- Wall Angled
+- Wall/Roof Curved
+- Curved Wall Angles
+- Floor
+- Roof
+- Roof Corner
+- Roof Curved Angle
+- Halfpitches
+- Halfpieces
+- Half Curved Wall
+- Beam
+- Advanced Beams
+- Curved Buildings
+- Diagonal Buildings
+- Door
+- Window

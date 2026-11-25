@@ -1,0 +1,23 @@
+magic-box\concrete - loadout contents:
+
+- Wall
+- Wall Angled
+- Wall/Roof Curved
+- Curved Wall Angles
+- Floor
+- Frame
+- Ramp/Stairs
+- Roofing
+- Roof Curved Angle
+- Halfpitches
+- Halfpieces
+- Half Curved Wall
+- Beam
+- Advanced Beams
+- Curved Buildings
+- Diagonal Buildings
+- Trapdoor
+- Door
+- Railing
+- Railing Gate
+- Window

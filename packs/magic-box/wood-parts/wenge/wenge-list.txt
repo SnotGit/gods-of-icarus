@@ -1,0 +1,14 @@
+magic-box\wood-parts\wenge - loadout contents:
+
+- Floor
+- Ramp/Stairs
+- Wall
+- Wall Angled
+- Halfpieces
+- Halfpitches
+- Diagonal Buildings
+- Curved Buildings
+- Wall Curved
+- Curved Wall Angles
+- Beam
+- Advanced Beams

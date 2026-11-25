@@ -1,0 +1,20 @@
+magic-box\stone-brick - loadout contents:
+
+- Wall
+- Wall Angle
+- Wall/Roof Curved
+- Curved Wall Angles
+- Floor
+- Ramp
+- Roof Corner
+- Roof Curved Angle
+- Halfpitches
+- Halfpieces
+- Half Curved Wall
+- Beam
+- Advanced Beams
+- Curved Buildings
+- Diagonal Buildings
+- Fireplace
+- Fireplace Extension
+- Fireplace Cap

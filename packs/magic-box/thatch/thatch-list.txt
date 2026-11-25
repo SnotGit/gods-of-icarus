@@ -1,0 +1,17 @@
+magic-box\thatch - loadout contents:
+
+- Wall
+- Wall Angled
+- Floor
+- Roof/Ramp
+- Roof Corner
+- Halfpitches
+- Halfpieces
+- Beam
+- Advanced Beams
+- Trapdoor
+- Door
+- Ladder
+- Railing
+- Railing Gate
+- Window

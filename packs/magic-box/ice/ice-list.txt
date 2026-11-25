@@ -1,0 +1,17 @@
+magic-box\ice - loadout contents:
+
+- Wall
+- Wall Angled
+- Wall/Roof Curved
+- Curved Wall Angles
+- Floor
+- Roof/Ramp
+- Roof Corner
+- Curved Roof Angles
+- Halfpitches
+- Halfpieces
+- Half Curved Wall
+- Beam
+- Advanced Beams
+- Curved Buildings
+- Diagonal Buildings

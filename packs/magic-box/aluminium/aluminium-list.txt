@@ -1,0 +1,16 @@
+magic-box\aluminium - loadout contents:
+
+- Wall
+- Wall Angled
+- Floor
+- Roof/Ramp
+- Roof Corner
+- Halfpitches
+- Halfpieces
+- Beam
+- Advanced Beams
+- Trapdoor
+- Door
+- Railing
+- Railing Gate
+- Window

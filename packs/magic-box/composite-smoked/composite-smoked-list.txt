@@ -1,0 +1,24 @@
+magic-box\composite-smoked - loadout contents:
+
+- Wall
+- Wall Angled
+- Wall/Roof Curved
+- Curved Wall Angles
+- Floor
+- Roof
+- Roof Corner
+- Roof Curved Angle
+- Halfpitches
+- Halfpieces
+- Beam
+- Advanced Beams
+- Curved Buildings
+- Diagonal Buildings
+- Trapdoor
+- Door
+- Window
+- Railing A
+- Railing B
+- Railing C
+- Railing Gate
+- Ladder

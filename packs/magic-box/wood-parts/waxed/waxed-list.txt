@@ -1,0 +1,11 @@
+magic-box\wood-parts\waxed - loadout contents:
+
+- Wall
+- Wall Angled
+- Floor
+- Roof/Ramp
+- Roof Corner
+- Halfpitches
+- Halfpieces
+- Beam
+- Advanced Beams

@@ -1,0 +1,22 @@
+magic-box\clay - loadout contents:
+
+- Wall
+- Wall Angle
+- Wall/Roof Curved
+- Curved Wall Angles
+- Floor
+- Ramp
+- Roof Corner
+- Roof Curved Angle
+- Halfpitches
+- Halfpieces
+- Half Curved Wall
+- Beam
+- Advanced Beams
+- Curved Buildings
+- Diagonal Buildings
+- Trapdoor Hatch
+- Door
+- Railing
+- Railing Gate
+- Window

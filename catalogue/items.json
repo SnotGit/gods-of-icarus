@@ -34758,6 +34758,5323 @@
   "meteoSensible": false
  },
  {
+  "rowName": "GOI_MagicBox_Iron_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Railing",
+  "nom": "Railing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Railing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Iron_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Aluminium Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Wall_Angle",
+  "nom": "Wall Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Wall Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_ClayBrick_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_ClayBrick_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Ramp",
+  "nom": "Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_ClayBrick_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Roof_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_ClayBrick_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_ClayBrick_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_ClayBrick_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Clay Brick Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_TrapDoor",
+  "nom": "Trapdoor Hatch",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Steel Barred Trapdoor Hatch."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Steel Barred Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Railing",
+  "nom": "Railing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Steel Barred Railing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Steel Barred Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Clay_Brick_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Steel Barred Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Ramp",
+  "nom": "Roof",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Roof."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Railing",
+  "nom": "Railing A",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Railing A."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Railing_B",
+  "nom": "Railing B",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Railing B."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Railing_C",
+  "nom": "Railing C",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Railing C."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Composite_Ladder",
+  "nom": "Ladder",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Composite Ladder."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Ramp",
+  "nom": "Roof",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Roof."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Railing",
+  "nom": "Railing A",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Railing A."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Railing_B",
+  "nom": "Railing B",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Railing B."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Railing_C",
+  "nom": "Railing C",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Railing C."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedComposite_Ladder",
+  "nom": "Ladder",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Composite Ladder."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Frame",
+  "nom": "Frame",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Frame."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Roof_Corner",
+  "nom": "Roofing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Steel Roofing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Heavy Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Railing",
+  "nom": "Railing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Railing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Concrete Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Concrete_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Heavy Glass Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Ramp",
+  "nom": "Roof",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Roof."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Glass Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Roof_CurvedAngles",
+  "nom": "Curved Roof Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Curved Roof Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Ice_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Ice Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Frame",
+  "nom": "Frame",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Frame."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Ramp",
+  "nom": "Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Limestone_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Limestone Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Wall_Tempered",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Wall_Angle_Tempered",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Wall_Curved_Tempered",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Diagonal_Curved_Wall_Angles_Tempered",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Floor_Tempered",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Ramp_Tempered",
+  "nom": "Roof",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Roof."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Roof_Corner_Tempered",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Roof_CurvedAngles_Tempered",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Half_Pitch_Tempered",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Halfpiece_Tempered",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Halfpiece_Tempered_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Beam_Tempered",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Advanced_Beam_Set_Tempered",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Curved_Set_Tempered",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Diagonal_Set_Tempered",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Door_Reinforced",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Glass_Window_Reinforced",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Reinforced Glass Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Sandworm_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Sandworm Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Wall_Angle",
+  "nom": "Wall Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Wall Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_ScoriaBrick_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_ScoriaBrick_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Ramp",
+  "nom": "Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_ScoriaBrick_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Roof_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Brick_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_ScoriaBrick_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_ScoriaBrick_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_ScoriaBrick_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Brick Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Frame",
+  "nom": "Frame",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Frame."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Scoria_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Scoria Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Wall_Angle",
+  "nom": "Wall Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Wall Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Ramp",
+  "nom": "Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Roof_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Brick_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Brick Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Fireplace",
+  "nom": "Fireplace",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "1 Stone Brick Fireplace."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Fireplace_Ext",
+  "nom": "Fireplace Extension",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "1 Stone Brick Fireplace Extension."
+ },
+ {
+  "rowName": "GOI_MagicBox_StoneBrick_Fireplace_Cap",
+  "nom": "Fireplace Cap",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "1 Stone Brick Fireplace Cap."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Frame",
+  "nom": "Frame",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Frame."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Halfpiece_Half_Curved_Wall",
+  "nom": "Half Curved Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Half Curved Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Stone_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Stone Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Ladder",
+  "nom": "Ladder",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Ladder."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Railing",
+  "nom": "Railing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Railing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Thatch_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Thatch Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Ladder",
+  "nom": "Ladder",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Ladder."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Railing",
+  "nom": "Railing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Railing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wood Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Wall_Refined",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Wall_Angle_Refined",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Floor_Refined",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Floor_Refined_Curved",
+  "nom": "Curved Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Curved Wood Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Ramp_Refined",
+  "nom": "Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_Interior_Wood_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Interior_Wood_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Refined_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Refined_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_TrapDoor_Refined",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Door_Refined",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Interior_Wood_Ladder",
+  "nom": "Ladder",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Ladder."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Railing_Refined",
+  "nom": "Railing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Railing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Railing_Gate_Refined",
+  "nom": "Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wood_Railing_Gate_Refined_V2",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Interior Wood Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Ramp",
+  "nom": "Roof/Ramp",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Roof/Ramp."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Half_Pitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Halfpiece",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_ReinforcedWood_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Beeswax Wood Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Wenge_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Wenge Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Walnut_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Walnut Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_OiledOak_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Oiled Oak Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_SmokedOak_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Smoked Oak Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Teak_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Teak Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhitewashedOak_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Whitewashed Oak Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_WhiteMarble_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 White Marble Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Ramp",
+  "nom": "Ramp/Stairs",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Ramp/Stairs."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Wall_Curved",
+  "nom": "Wall Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Wall Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_BlackMarble_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Black Marble Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Wall",
+  "nom": "Wall",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Wall."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Wall_Angle",
+  "nom": "Wall Angled",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Wall Angled."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Ramp",
+  "nom": "Roof",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Roof."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Beam",
+  "nom": "Beam",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Beam."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Roof_Corner",
+  "nom": "Roof Corner",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Roof Corner."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_HalfPitch",
+  "nom": "Halfpitches",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Halfpitches."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_HalfNormal",
+  "nom": "Halfpieces",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Halfpieces."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Floor",
+  "nom": "Floor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Floor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Diagonal_Set",
+  "nom": "Diagonal Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Diagonal Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Diagonal_Curved_Set",
+  "nom": "Curved Buildings",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Curved Buildings."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Diagonal_Curved_Wall_Angles",
+  "nom": "Curved Wall Angles",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Curved Wall Angles."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Roof_CurvedAngles",
+  "nom": "Roof Curved Angle",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Roof Curved Angle."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Advanced_Beam_Set",
+  "nom": "Advanced Beams",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Advanced Beams."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Wall_Curved",
+  "nom": "Wall/Roof Curved",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Wall/Roof Curved."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Frame",
+  "nom": "Frame",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Frame."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Door",
+  "nom": "Door",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Door."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Window",
+  "nom": "Window",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Window."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_TrapDoor",
+  "nom": "Trapdoor",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Trapdoor."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Railing",
+  "nom": "Railing",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Railing."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Railing_Gate",
+  "nom": "Railing Gate",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Railing Gate."
+ },
+ {
+  "rowName": "GOI_MagicBox_Industrial_Ladder",
+  "nom": "Ladder",
+  "categorie": "Packs orbitaux",
+  "tags": [
+   "Item.Meta.Consumable",
+   "Item.Meta.Package"
+  ],
+  "poids": 100,
+  "maxStack": 1,
+  "deployable": false,
+  "description": "20 Industrial Ladder."
+ },
+ {
   "rowName": "RadBoss_Armor_Head",
   "nom": "Malformation Head Armor",
   "categorie": "Armures",

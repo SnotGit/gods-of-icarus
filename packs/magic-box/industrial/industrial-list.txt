@@ -1,0 +1,23 @@
+magic-box\industrial - loadout contents:
+
+- Wall
+- Wall Angled
+- Roof
+- Beam
+- Roof Corner
+- Halfpitches
+- Halfpieces
+- Floor
+- Diagonal Buildings
+- Curved Buildings
+- Curved Wall Angles
+- Roof Curved Angle
+- Advanced Beams
+- Wall/Roof Curved
+- Frame
+- Door
+- Window
+- Trapdoor
+- Railing
+- Railing Gate
+- Ladder

@@ -1,0 +1,17 @@
+magic-box\wood-parts\interior - loadout contents:
+
+- Wall
+- Wall Angled
+- Floor
+- Curved Floor
+- Ramp
+- Beam
+- Advanced Beams
+- Halfpieces
+- Halfpitches
+- Trapdoor
+- Door
+- Ladder
+- Railing
+- Gate
+- Railing Gate

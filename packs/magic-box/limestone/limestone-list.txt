@@ -1,0 +1,18 @@
+magic-box\limestone - loadout contents:
+
+- Wall
+- Wall Angled
+- Wall/Roof Curved
+- Curved Wall Angles
+- Floor
+- Frame
+- Ramp
+- Roof Corner
+- Roof Curved Angle
+- Halfpitches
+- Halfpieces
+- Half Curved Wall
+- Beam
+- Advanced Beams
+- Curved Buildings
+- Diagonal Buildings

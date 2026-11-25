@@ -1,0 +1,26 @@
+{
+  "name": "Magic Box 2",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Boxes that never run out: one box per building piece of every Gods Of Icarus family, its doors, windows, railings and ladders included. Consume a box to get a stack of its piece, the box stays.",
+  "match": "magic-box-2_*_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true,
+  "replaces": [
+    "magic-box_*_P.pak"
+  ],
+  "pack": [
+    "magic-box/composite-clean",
+    "magic-box/composite-smoked",
+    "magic-box/wood-parts/wenge",
+    "magic-box/wood-parts/walnut",
+    "magic-box/wood-parts/oiled-oak",
+    "magic-box/wood-parts/smoked-oak",
+    "magic-box/wood-parts/teak",
+    "magic-box/wood-parts/whitewashed-oak",
+    "magic-box/marble/white-marble",
+    "magic-box/marble/black-marble",
+    "magic-box/industrial"
+  ]
+}
