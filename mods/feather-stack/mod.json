@@ -1,0 +1,10 @@
+{
+  "name": "Feather Stack",
+  "author": "Gods Of Icarus Lab",
+  "kind": "pak",
+  "card": "card.png",
+  "summary": "Light as a feather. Stack up to 1,000 items per slot. Carry it all and stay light as a feather.",
+  "match": "feather-stack_*_P.pak",
+  "github": "SnotGit/gods-of-icarus-mods",
+  "server": true
+}
